@@ -1,0 +1,70 @@
+# S-ID:fuman-super-0001012180-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:48.00000 MOD:2020/08/20 MEMO:
+* 1D
++ 1D <rel type="ガ" target="著者"/><rel type="ヲ" target="メーカー" sid="fuman-super-0001012180-1" id="3"/><rel type="外の関係" target="事" sid="fuman-super-0001012180-1" id="1"/>
+聞いた きいた 聞く 動詞 2 * 0 子音動詞カ行 2 タ形 10
+* 2D
++ 2D <rel type="トイウ" target="聞いた" sid="fuman-super-0001012180-1" id="0"/>
+事 こと 事 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="事" sid="fuman-super-0001012180-1" id="1"/><rel type="ガ２" target="著者"/><rel type="外の関係" target="メーカー" sid="fuman-super-0001012180-1" id="3"/>
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 5D
++ 5D <rel type="修飾" target="ない" sid="fuman-super-0001012180-1" id="2"/>
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 5P
++ 5P <rel type="ノ？" target="メーカー" sid="fuman-super-0001012180-1" id="3"/>
+調味料 ちょうみりょう 調味料 名詞 6 普通名詞 1 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 6D <rel type="ノ？" target="メーカー" sid="fuman-super-0001012180-1" id="3"/>
+乾物 かんぶつ 乾物 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 9D <rel type="ヲ" target="乾物" sid="fuman-super-0001012180-1" id="5"/><rel type="ヲ" mode="AND" target="調味料" sid="fuman-super-0001012180-1" id="4"/><rel type="ガ" target="不特定:人1"/><rel type="デ" target="不特定:物1"/>
+取り扱って とりあつかって 取り扱う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 8D
++ 8D <rel type="ガ" target="著者"/><rel type="ヲ" target="乾物" sid="fuman-super-0001012180-1" id="5"/><rel type="ヲ" mode="AND" target="調味料" sid="fuman-super-0001012180-1" id="4"/><rel type="デ" target="不特定:物1"/><rel type="カラ" target="不特定:人1"/><rel type="外の関係" target="の" sid="fuman-super-0001012180-1" id="8"/>
+買う かう 買う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
++ 9D <rel type="トイウ" target="買う" sid="fuman-super-0001012180-1" id="7"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="の" sid="fuman-super-0001012180-1" id="8"/>
+ためらって ためらって ためらう 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14
+しまい しまい しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 基本連用形 8
+ます ます ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-super-0001012180-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/20 MEMO:
+* 1D
++ 1D <NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 5D <rel type="=≒" target="メーカー" sid="fuman-super-0001012180-1" id="3"/><rel type="修飾" target="日本" sid="fuman-super-0001012180-2" id="0"/>
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 3D <rel type="=≒" target="乾物" sid="fuman-super-0001012180-1" id="5"/><rel type="=≒" mode="AND" target="調味料" sid="fuman-super-0001012180-1" id="4"/>
+物 もの 物 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 5D
++ 5D
+少し すこし 少し 副詞 8 * 0 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="メーカー" sid="fuman-super-0001012180-2" id="1"/><rel type="ニヨッテ" target="物" sid="fuman-super-0001012180-2" id="2"/><rel type="ニ" target="不特定:物1"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+けれど けれど けれど 助詞 9 接続助詞 3 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

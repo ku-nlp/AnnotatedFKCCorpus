@@ -1,0 +1,35 @@
+# S-ID:fuman-consumer_electronics-0001000840-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:28.00000 MOD:2020/08/19 MEMO:
+* 1D
++ 1D <rel type="ガ" target="エアコン" sid="fuman-consumer_electronics-0001000840-1" id="1"/>
+白い しろい 白い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 3D
++ 4D <rel type="修飾" target="白い" sid="fuman-consumer_electronics-0001000840-1" id="0"/>
+エアコン えあこん エアコン 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 3D
++ 3D
+クリーム くりーむ クリーム 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="ノ？" target="クリーム" sid="fuman-consumer_electronics-0001000840-1" id="2"/>
+色 いろ 色 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="エアコン" sid="fuman-consumer_electronics-0001000840-1" id="1"/><rel type="ニ" target="色" sid="fuman-consumer_electronics-0001000840-1" id="3"/>
+変色 へんしょく 変色 名詞 6 サ変名詞 2 * 0 * 0
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001000840-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:0.00000 MOD:2020/08/19 MEMO:
+* 2D
++ 2D <rel type="ガ" target="著者"/><rel type="ヲ" target="エアコン" sid="fuman-consumer_electronics-0001000840-1" id="1"/>
+綺麗に きれいに 綺麗だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7
+して して する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ系連用テ形 14
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="エアコン" sid="fuman-consumer_electronics-0001000840-1" id="1"/>
+汚く きたなく 汚い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+* -1D
++ -1D <rel type="ガ" target="エアコン" sid="fuman-consumer_electronics-0001000840-1" id="1"/><rel type="ニ" target="著者"/>
+見える みえる 見える 動詞 2 * 0 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

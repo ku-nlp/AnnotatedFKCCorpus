@@ -1,0 +1,45 @@
+# S-ID:fuman-consumer_electronics-0001020657-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:59.00000 MOD:2020/08/26 MEMO:
+* 1D
++ 1D <rel type="=≒" target="著者"/>
+うち うち うち 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="著者"/><rel type="修飾" target="うち" sid="fuman-consumer_electronics-0001020657-1" id="0"/>
+子供 こども 子供 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 4D
+ドライヤー どらいやー ドライヤー 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="ドライヤー" sid="fuman-consumer_electronics-0001020657-1" id="2"/><rel type="ガ２" target="子供" sid="fuman-consumer_electronics-0001020657-1" id="1"/>
+熱い あつい 熱い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ" target="ドライヤー" sid="fuman-consumer_electronics-0001020657-1" id="2"/><rel type="ガ２" target="子供" sid="fuman-consumer_electronics-0001020657-1" id="1"/>
+苦手です にがてです 苦手だ 形容詞 3 * 0 ナノ形容詞 22 デス列基本形 30
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001020657-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/26 MEMO:
+* 1D
++ 1D <rel type="ガ" target="風" sid="fuman-consumer_electronics-0001020657-2" id="1"/>
+冷たい つめたい 冷たい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 3D
++ 3D <rel type="ノ？" target="ドライヤー" sid="fuman-consumer_electronics-0001020657-1" id="2"/>
+風 かぜ 風 名詞 6 普通名詞 1 * 0 * 0
+だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ノ" target="子供" sid="fuman-consumer_electronics-0001020657-1" id="1"/>
+髪 かみ 髪 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="髪" sid="fuman-consumer_electronics-0001020657-2" id="2"/>
+乾き かわき 乾く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8
+づらくて づらくて づらい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ガ" mode="？" target="子供" sid="fuman-consumer_electronics-0001020657-1" id="1"/>
+困って こまって 困る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+ます ます ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,65 @@
+# S-ID:fuman-traffic-0000291785-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-74.51840 MOD:2020/08/31 MEMO:
+* 1D
++ 1D <rel type="ノ" target="不特定:人1"/>
+車 くるま 車 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 2D <rel type="ヲ" target="車" sid="fuman-traffic-0000291785-1" id="0"/><rel type="ガ" target="不特定:人1"/>
+運転 うんてん 運転 名詞 6 サ変名詞 2 * 0 * 0
++ 6D <rel type="ノ" target="運転" sid="fuman-traffic-0000291785-1" id="1"/>
+中 ちゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D
+信号 しんごう 信号 名詞 6 サ変名詞 2 * 0 * 0
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="信号" sid="fuman-traffic-0000291785-1" id="3"/>
+待ち まち 待ち 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:待ち-まち-待つ-2-0-6-8"
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 6D
+スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ヲ" target="スマホ" sid="fuman-traffic-0000291785-1" id="5"/><rel type="時間" target="中" sid="fuman-traffic-0000291785-1" id="2"/><rel type="デ" target="待ち" sid="fuman-traffic-0000291785-1" id="4"/><rel type="デ" mode="？" target="なし"/><rel type="ガ" target="不特定:人1"/>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000291785-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-39.01599 MOD:2020/09/02 MEMO:
+* 2D
++ 1D <rel type="ガ" target="人" sid="fuman-traffic-0000291785-2" id="1"/>
+ヒドイ ひどい ヒドイ 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 "品詞変更:ヒドイ-ヒドイ-ヒドイ-15-2-0-0"
++ 3D <rel type="=≒" target="不特定:人1"/>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="車" sid="fuman-traffic-0000291785-1" id="0"/><rel type="ヲ" target="不特定:物"/>
+走行 そうこう 走行 名詞 6 サ変名詞 2 * 0 * 0
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+ながら ながら ながら 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="=" target="スマホ" sid="fuman-traffic-0000291785-1" id="5"/><rel type="ガ" target="人" sid="fuman-traffic-0000291785-2" id="1"/><rel type="ヲ" target="スマホ" sid="fuman-traffic-0000291785-2" id="3"/>
+スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000291785-3 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-5.74045 MOD:2020/09/02 MEMO:
+* -1D
++ -1D <rel type="ガ" target="してる" sid="fuman-traffic-0000291785-1" id="6"/><rel type="ガ" mode="AND" target="スマホ" sid="fuman-traffic-0000291785-2" id="3"/><rel type="ニ" target="著者"/>
+信じ しんじ 信じる 動詞 2 * 0 母音動詞 1 未然形 3
+られ られ られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000291785-4 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-40.00606 MOD:2020/09/02 MEMO:
+* 2D
++ 2D <rel type="=≒" target="スマホ" sid="fuman-traffic-0000291785-2" id="3"/><rel type="=≒" mode="AND" target="してる" sid="fuman-traffic-0000291785-1" id="6"/>
+あれ あれ あれ 指示詞 7 名詞形態指示詞 1 * 0 * 0
+じゃ じゃ じゃ 助詞 9 副助詞 2 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 2D
+絶対 ぜったい 絶対 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="人" sid="fuman-traffic-0000291785-2" id="1"/><rel type="ガ" mode="AND" target="不特定:人1"/><rel type="デ" target="あれ" sid="fuman-traffic-0000291785-4" id="0"/>
+事故る じこる 事故る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,59 @@
+# S-ID:fuman-hospital-0001057488-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/12 MEMO:
+* 1P
++ 2P
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="薬局" sid="fuman-hospital-0001057488-1" id="2"/>
+調剤 ちょうざい 調剤 名詞 6 サ変名詞 2 * 0 * 0
++ 3D <rel type="修飾" target="調剤" sid="fuman-hospital-0001057488-1" id="1"/>
+薬局 やっきょく 薬局 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ト" target="病院" sid="fuman-hospital-0001057488-1" id="0"/><rel type="ヲ" target="薬局" sid="fuman-hospital-0001057488-1" id="2"/><rel type="ニ" target="不特定:人1"/>
+一緒に いっしょに 一緒だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8
+して して する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001057488-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:50.00000 MOD:2020/11/11 MEMO:
+* 2D
++ 2D <rel type="=" target="病院" sid="fuman-hospital-0001057488-1" id="0"/>
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="著者"/><rel type="デ" target="病院" sid="fuman-hospital-0001057488-2" id="0"/>
+診察 しんさつ 診察 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="診察" sid="fuman-hospital-0001057488-2" id="1"/><rel type="デ" target="病院" sid="fuman-hospital-0001057488-2" id="0"/>
+終わった おわった 終わる 動詞 2 * 0 子音動詞ラ行 10 タ形 10
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 7P
++ 8P <rel type="ガ" target="著者"/><rel type="ト" target="終わった" sid="fuman-hospital-0001057488-2" id="2"/>
+思ったら おもったら 思う 動詞 2 * 0 子音動詞ワ行 12 タ系条件形 13
+、 、 、 特殊 1 読点 2 * 0 * 0
+また また また 副詞 8 * 0 * 0 * 0
+* 5D
++ 5D
+調剤 ちょうざい 調剤 名詞 6 サ変名詞 2 * 0 * 0
++ 6D <rel type="=" target="薬局" sid="fuman-hospital-0001057488-1" id="2"/>
+薬局 やっきょく 薬局 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 8D <rel type="ガ" target="著者"/><rel type="デ" target="薬局" sid="fuman-hospital-0001057488-2" id="5"/>
+並んで ならんで 並ぶ 動詞 2 * 0 子音動詞バ行 8 タ系連用テ形 14
+* 7D
++ 8D
+薬 くすり 薬 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 9D <rel type="ガ" target="著者"/><rel type="ヲ" target="薬" sid="fuman-hospital-0001057488-2" id="7"/><rel type="デ" target="薬局" sid="fuman-hospital-0001057488-2" id="5"/>
+受け取る うけとる 受け取る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ２" target="著者"/><rel type="ガ" target="受け取る" sid="fuman-hospital-0001057488-2" id="8"/><rel type="ガ" mode="AND" target="思ったら" sid="fuman-hospital-0001057488-2" id="3"/>
+面倒 めんどう 面倒だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

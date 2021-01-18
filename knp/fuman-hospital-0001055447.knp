@@ -1,0 +1,54 @@
+# S-ID:fuman-hospital-0001055447-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/11 MEMO:
+* 3D
++ 3D <rel type="ガ" target="不特定:物1"/>
+混んで こんで 混む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14
+いて いて いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+* 2D
++ 2D <rel type="ガ" target="著者"/><rel type="ニ" target="ところ" sid="fuman-hospital-0001055447-1" id="2"/>
+座る すわる 座る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+* 3D
++ 3D <rel type="ノ" target="座る" sid="fuman-hospital-0001055447-1" id="1"/>
+ところ ところ ところ 名詞 6 副詞的名詞 9 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="ところ" sid="fuman-hospital-0001055447-1" id="2"/><rel type="ニ" target="不特定:物1"/>
+なかった なかった ない 形容詞 3 * 0 イ形容詞アウオ段 18 タ形 8
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001055447-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:40.00000 MOD:2020/08/11 MEMO:
+* 1D
++ 1D <rel type="ノ" target="人" sid="fuman-hospital-0001055447-2" id="3"/>
+旦那 だんな 旦那 名詞 6 普通名詞 1 * 0 * 0
+さん さん さん 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="人" sid="fuman-hospital-0001055447-2" id="3"/><rel type="ト" target="旦那" sid="fuman-hospital-0001055447-2" id="0"/>
+一緒に いっしょに 一緒だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8
+* 3D
++ 3D <rel type="ガ" target="人" sid="fuman-hospital-0001055447-2" id="3"/><rel type="ニ" target="不特定:物1"/>
+来て きて 来る 動詞 2 * 0 カ変動詞来 15 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+* 4D
++ 4D
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 7D
++ 7D <rel type="ガ" target="人" sid="fuman-hospital-0001055447-2" id="3"/><rel type="ニ" target="不特定:物1"/>
+いて いて いる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 7D
+出来れば できれば 出来る 動詞 2 * 0 母音動詞 1 基本条件形 7
+* 7D
++ 7D <rel type="=≒" target="ところ" sid="fuman-hospital-0001055447-1" id="2"/><rel type="ノ？" target="旦那" sid="fuman-hospital-0001055447-2" id="0"/>
+席 せき 席 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="席" sid="fuman-hospital-0001055447-2" id="6"/><rel type="ニ" target="旦那" sid="fuman-hospital-0001055447-2" id="0"/>
+譲って ゆずって 譲る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+欲しかった ほしかった 欲しい 形容詞 3 * 0 イ形容詞イ段 19 タ形 8
+． ． ． 特殊 1 句点 1 * 0 * 0
+． ． ． 特殊 1 句点 1 * 0 * 0
+． ． ． 特殊 1 句点 1 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

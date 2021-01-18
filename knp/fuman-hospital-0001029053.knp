@@ -1,0 +1,52 @@
+# S-ID:fuman-hospital-0001029053-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/10 MEMO:
+* 1D
++ 1D
+朝晩 あさばん 朝晩 名詞 6 時相名詞 10 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="時間" target="朝晩" sid="fuman-hospital-0001029053-1" id="0"/>
+冷え ひえ 冷え 名詞 6 普通名詞 1 * 0 * 0
+込み こみ 込み 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="冷え込み" sid="fuman-hospital-0001029053-1" id="1"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="著者"/>
+喉 のど 喉 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="喉" sid="fuman-hospital-0001029053-1" id="3"/><rel type="ガ２" target="著者"/>
+痛い いたい 痛い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001029053-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:58.00000 MOD:2020/08/10 MEMO:
+* 1D
++ 1D <rel type="ガ" target="痛い" sid="fuman-hospital-0001029053-1" id="4"/><rel type="外の関係" target="前" sid="fuman-hospital-0001029053-2" id="1"/>
+ひどく ひどく ひどい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
+* 3D
++ 3D <rel type="ノ" target="ひどくなる" sid="fuman-hospital-0001029053-2" id="0"/>
+前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="著者"/><rel type="ニ" target="病院" sid="fuman-hospital-0001029053-2" id="2"/><rel type="時間" target="前" sid="fuman-hospital-0001029053-2" id="1"/>
+行った いった 行く 動詞 2 * 0 子音動詞カ行促音便形 3 タ形 10
+* 5D
++ 5D <rel type="ノ" target="行った" sid="fuman-hospital-0001029053-2" id="3"/>
+ほう ほう ほう 名詞 6 副詞的名詞 9 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="ほう" sid="fuman-hospital-0001029053-2" id="4"/>
+いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+の の のだ 助動詞 5 * 0 ナ形容詞 21 語幹 1
+か か か 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="いいのか" sid="fuman-hospital-0001029053-2" id="5"/>
+まよう まよう まよう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

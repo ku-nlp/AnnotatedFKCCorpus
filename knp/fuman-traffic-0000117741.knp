@@ -1,0 +1,59 @@
+# S-ID:fuman-traffic-0000117741-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-27.48420 MOD:2020/09/02 MEMO:
+* 1D
++ 1D
+スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="人" sid="fuman-traffic-0000117741-1" id="2"/><rel type="ヲ" target="スマホ" sid="fuman-traffic-0000117741-1" id="0"/><rel type="デ" target="不特定:状況１"/>
+さわる さわる さわる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+* 3D
++ 3D
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="人" sid="fuman-traffic-0000117741-1" id="2"/>
+い い いる 動詞 2 * 0 母音動詞 1 基本連用形 8
+ます ます ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000117741-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-14.78300 MOD:2020/09/02 MEMO:
+* 1D
++ 1D <rel type="ノ" target="人" sid="fuman-traffic-0000117741-1" id="2"/>
+前 まえ 前 名詞 6 時相名詞 10 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="人" sid="fuman-traffic-0000117741-1" id="2"/><rel type="ヲ" target="前" sid="fuman-traffic-0000117741-2" id="0"/>
+見て みて 見る 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+* -1D
++ -1D <rel type="ガ" target="人" sid="fuman-traffic-0000117741-1" id="2"/><rel type="ヲ" target="不特定:物"/><rel type="=" target="不特定:状況１"/>
+運転 うんてん 運転 名詞 6 サ変名詞 2 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000117741-3 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-19.50211 MOD:2020/09/04 MEMO:
+* 1D
++ 1D <rel type="ノ" target="人" sid="fuman-traffic-0000117741-1" id="2"/>
+周り まわり 周り 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3P
++ 3P <rel type="修飾" target="周り" sid="fuman-traffic-0000117741-3" id="0"/><rel type="=≒" target="人" sid="fuman-traffic-0000117741-1" id="2"/>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+だけ だけ だけ 助詞 9 副助詞 2 * 0 * 0
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12
+なく なく ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7
+* 3D
++ 3D <rel type="=" target="人" sid="fuman-traffic-0000117741-1" id="2"/>
+本人 ほんにん 本人 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D
+とって とって とる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 5D
++ 5D <rel type="ニトッテ" target="本人" sid="fuman-traffic-0000117741-3" id="2"/><rel type="ニトッテ" mode="AND" target="人" sid="fuman-traffic-0000117741-3" id="1"/><rel type="ガ" target="さわる" sid="fuman-traffic-0000117741-1" id="1"/>
+危ない あぶない 危ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+ので ので ので 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="人" sid="fuman-traffic-0000117741-1" id="2"/><rel type="ヲ" target="さわる" sid="fuman-traffic-0000117741-1" id="1"/>
+やめ やめ やめる 動詞 2 * 0 母音動詞 1 基本連用形 8
+ましょう ましょう ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 意志形 4
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

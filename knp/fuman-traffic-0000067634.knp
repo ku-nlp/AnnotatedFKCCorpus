@@ -1,0 +1,35 @@
+# S-ID:fuman-traffic-0000067634-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-77.16231 MOD:2020/09/04 MEMO:
+* 4D
++ 5D
+最近 さいきん 最近 名詞 6 時相名詞 10 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 2D
+矢印 やじるし 矢印 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="ニヨッテ" target="矢印" sid="fuman-traffic-0000067634-1" id="1"/>
+表示 ひょうじ 表示 名詞 6 サ変名詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 4D <rel type="修飾" target="表示" sid="fuman-traffic-0000067634-1" id="2"/>
+信号 しんごう 信号 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="信号" sid="fuman-traffic-0000067634-1" id="3"/><rel type="時間" target="最近" sid="fuman-traffic-0000067634-1" id="0"/>
+増えて ふえて 増える 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+* -1D
++ -1D <rel type="時間" target="最近" sid="fuman-traffic-0000067634-1" id="0"/><rel type="ガ" target="信号" sid="fuman-traffic-0000067634-1" id="3"/>
+分かり わかり 分かる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+にくい にくい にくい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000067634-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-34.19157 MOD:2020/09/04 MEMO:
+* 1D
++ 1D <rel type="=≒" target="矢印" sid="fuman-traffic-0000067634-1" id="1"/><rel type="修飾" target="表示" sid="fuman-traffic-0000067634-1" id="2"/>
+右折 うせつ 右折 名詞 6 サ変名詞 2 * 0 * 0
+だけ だけ だけ 助詞 9 副助詞 2 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="右折だけ" sid="fuman-traffic-0000067634-2" id="0"/>
+良かった よかった 良い 形容詞 3 * 0 イ形容詞アウオ段 18 タ形 8
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

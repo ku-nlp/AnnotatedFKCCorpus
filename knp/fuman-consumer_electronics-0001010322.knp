@@ -1,0 +1,38 @@
+# S-ID:fuman-consumer_electronics-0001010322-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:60.00000 MOD:2020/08/24 MEMO:
+* 1D
++ 1D
+最近 さいきん 最近 名詞 6 時相名詞 10 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 3D <rel type="修飾" target="最近" sid="fuman-consumer_electronics-0001010322-1" id="0"/>
+パソコン ぱそこん パソコン 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 3D
+数 すう 数 名詞 6 数詞 7 * 0 * 0
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="パソコン" sid="fuman-consumer_electronics-0001010322-1" id="1"/><rel type="デ" target="数年" sid="fuman-consumer_electronics-0001010322-1" id="2"/>
+だめに だめに だめだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001010322-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:60.00000 MOD:2020/08/24 MEMO:
+* 2D
++ 3D <rel type="=≒" target="最近" sid="fuman-consumer_electronics-0001010322-1" id="0"/>
+昔 むかし 昔 名詞 6 時相名詞 10 * 0 * 0
+より より より 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D
+耐久 たいきゅう 耐久 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="ノ" target="耐久" sid="fuman-consumer_electronics-0001010322-2" id="1"/><rel type="ノ" mode="AND" target="パソコン" sid="fuman-consumer_electronics-0001010322-1" id="1"/>
+度 ど 度 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="度" sid="fuman-consumer_electronics-0001010322-2" id="2"/><rel type="ヨリ" target="昔" sid="fuman-consumer_electronics-0001010322-2" id="0"/><rel type="ガ２" target="パソコン" sid="fuman-consumer_electronics-0001010322-1" id="1"/>
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+です です です 助動詞 5 * 0 無活用型 26 基本形 2
+ね ね ね 助詞 9 終助詞 4 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

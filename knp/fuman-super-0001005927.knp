@@ -1,0 +1,60 @@
+# S-ID:fuman-super-0001005927-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/07/30 MEMO:
+* 1D
++ 1D
+バームクーヘン ばーむくーへん バームクーヘン 名詞 6 普通名詞 1 * 0 * 0
+など など など 助詞 9 副助詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ノ？" target="バームクーヘンなど" sid="fuman-super-0001005927-1" id="0"/>
+袋 ふくろ 袋 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 3D <rel type="ノ" target="袋" sid="fuman-super-0001005927-1" id="1"/>
+端 はし 端 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 7D <rel type="ガ" target="端" sid="fuman-super-0001005927-1" id="2"/>
+硬くて かたくて 硬い 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="袋" sid="fuman-super-0001005927-1" id="1"/>
+切り口 きりくち 切り口 名詞 6 普通名詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 7D <rel type="カラ" target="切り口" sid="fuman-super-0001005927-1" id="4"/><rel type="ガ" target="著者"/><rel type="ヲ" target="袋" sid="fuman-super-0001005927-1" id="1"/>
+開ける あける 開ける 動詞 2 * 0 母音動詞 1 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 7D <rel type="ノ" target="開ける" sid="fuman-super-0001005927-1" id="5"/>
+最後 さいご 最後だだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+で で で 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="端" sid="fuman-super-0001005927-1" id="2"/><rel type="デ" target="最後" sid="fuman-super-0001005927-1" id="6"/>
+切り取れ きりとれ 切り取れる 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-super-0001005927-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/18 MEMO:
+* 1D
++ 1D <rel type="外の関係" target="時" sid="fuman-super-0001005927-2" id="1"/><rel type="ガ" target="著者"/><rel type="ヲ" target="バームクーヘンなど" sid="fuman-super-0001005927-1" id="0"/>
+食べる たべる 食べる 動詞 2 * 0 母音動詞 1 基本形 2
+* 3D
++ 3D <rel type="ノ" target="食べる" sid="fuman-super-0001005927-2" id="0"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ノ" target="袋" sid="fuman-super-0001005927-1" id="1"/><rel type="=≒" target="端" sid="fuman-super-0001005927-1" id="2"/>
+端 はし 端 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="端" sid="fuman-super-0001005927-2" id="2"/><rel type="ニ" target="袋" sid="fuman-super-0001005927-1" id="1"/><rel type="時間" target="時" sid="fuman-super-0001005927-2" id="1"/>
+くっついた くっついた くっつく 動詞 2 * 0 子音動詞カ行 2 タ形 10
+まま まま まま 助詞 9 接続助詞 3 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="バームクーヘンなど" sid="fuman-super-0001005927-1" id="0"/>
+食べ たべ 食べる 動詞 2 * 0 母音動詞 1 基本連用形 8
+にくい にくい にくい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+です です です 助動詞 5 * 0 無活用型 26 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

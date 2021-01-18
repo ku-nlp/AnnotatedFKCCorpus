@@ -1,0 +1,75 @@
+# S-ID:fuman-trip-0000001578-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-134.81746 MOD:2020/08/31 MEMO:
+* 2D
++ 2D
+いろいろ いろいろ いろいろ 副詞 8 * 0 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="不特定:人"/>
+手続き てつづき 手続き 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="手続き" sid="fuman-trip-0000001578-1" id="1"/><rel type="外の関係" target="の" sid="fuman-trip-0000001578-1" id="3"/><rel type="ニ" target="不特定:状況"/>
+いる いる いる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
++ 4D <rel type="トイウ" target="いる" sid="fuman-trip-0000001578-1" id="2"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 15D
++ 19D <rel type="ガ" target="の" sid="fuman-trip-0000001578-1" id="3"/><rel type="ガ２" target="著者"/>
+わかる わかる わかる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+が が が 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 6D
+2 に 2 名詞 6 数詞 7 * 0 * 0
+時間 じかん 時間 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
++ 7D
+前 まえ 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+* 15D
++ 19D <rel type="時間" target="前" sid="fuman-trip-0000001578-1" id="14"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="著者"/><rel type="ニ" target="不特定:物1"/><rel type="判ガ" target="不特定:状況"/>
+集合 しゅうごう 集合 名詞 6 サ変名詞 2 * 0 * 0
+だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 9D
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 10D <rel type="カラ" target="地方" sid="fuman-trip-0000001578-1" id="8"/><rel type="外の関係" target="場合" sid="fuman-trip-0000001578-1" id="10"/><rel type="ニ" target="不特定:物1"/><rel type="ガ" target="著者"/><rel type="ガ" mode="？" target="不特定:人"/>
+行く いく 行く 動詞 2 * 0 子音動詞カ行促音便形 3 基本形 2
+* 15D
++ 19D <rel type="トイウ" target="行く" sid="fuman-trip-0000001578-1" id="9"/>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0
+* 10D
++ 12D
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0
+内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 11D
++ 13D <rel type="修飾" target="国内" sid="fuman-trip-0000001578-1" id="11"/>
+飛行機 ひこうき 飛行機 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 13P
++ 17P <rel type="デ" target="飛行機" sid="fuman-trip-0000001578-1" id="12"/><rel type="ガ" target="著者"/><rel type="ガ" mode="？" target="不特定:人"/><rel type="外の関係" target="とき" sid="fuman-trip-0000001578-1" id="18"/>
+苦労 くろう 苦労 名詞 6 サ変名詞 2 * 0 * 0
+したり したり する 動詞 2 * 0 サ変動詞 16 タ系連用タリ形 15
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 13D
++ 15D <rel type="=≒" target="前" sid="fuman-trip-0000001578-1" id="6"/>
+前 ぜん 前 接頭辞 13 名詞接頭辞 1 * 0 * 0
++ 16D <rel type="修飾" target="前" sid="fuman-trip-0000001578-1" id="14"/>
+泊 ぱく 泊 名詞 6 普通名詞 1 * 0 * 0
++ 17D <rel type="ヲ" target="泊" sid="fuman-trip-0000001578-1" id="15"/><rel type="ガ" target="著者"/><rel type="ガ" mode="？" target="不特定:人"/><rel type="ニ≒" target="不特定:物1"/>
+しない しない しない 名詞 6 普通名詞 1 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 14D
++ 18D <rel type="ト" target="しない" sid="fuman-trip-0000001578-1" id="16"/><rel type="外の関係" target="とき" sid="fuman-trip-0000001578-1" id="18"/><rel type="ガ" target="著者"/><rel type="ガ" mode="？" target="不特定:人"/>
+いけなく いけなく いけない 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
+* 15D
++ 19D <rel type="トイウ" target="いけなくなる" sid="fuman-trip-0000001578-1" id="17"/><rel type="トイウ" mode="AND" target="苦労したり" sid="fuman-trip-0000001578-1" id="13"/>
+とき とき とき 名詞 6 副詞的名詞 9 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="とき" sid="fuman-trip-0000001578-1" id="18"/><rel type="ガ２" target="著者"/><rel type="ガ２" mode="？" target="不特定:人"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

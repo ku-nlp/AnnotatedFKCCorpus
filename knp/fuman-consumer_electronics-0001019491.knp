@@ -1,0 +1,57 @@
+# S-ID:fuman-consumer_electronics-0001019491-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/26 MEMO:
+* 1D
++ 1D
+スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="ニ" target="スマホ" sid="fuman-consumer_electronics-0001019491-1" id="0"/><rel type="ガ" target="不満" sid="fuman-consumer_electronics-0001019491-1" id="2"/>
+関係 かんけい 関係 名詞 6 サ変名詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 4D <rel type="修飾" target="関係" sid="fuman-consumer_electronics-0001019491-1" id="1"/>
+不満 ふまん 不満だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 4D
+よく よく よい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+* 7P
++ 8P <rel type="ガ" target="著者"/><rel type="ヲ" target="不満" sid="fuman-consumer_electronics-0001019491-1" id="2"/>
+聞き きき 聞く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8
+ます ます ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 基本形 2
+が が が 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 6D
+ガラケー がらけー ガラケー 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 7D
++ 8D <rel type="ニツイテ" target="ガラケー" sid="fuman-consumer_electronics-0001019491-1" id="5"/>
+不満 ふまん 不満だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+って って って 助詞 9 副助詞 2 * 0 * 0
+* 7D
++ 8D
+あまり あまり あまり 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="不満" sid="fuman-consumer_electronics-0001019491-1" id="6"/><rel type="=≒" target="聞きます" sid="fuman-consumer_electronics-0001019491-1" id="4"/>
+聞き きき 聞く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8
+ませ ませ ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 未然形 3
+ん ん ぬ 助動詞 5 * 0 助動詞ぬ型 27 音便基本形 12
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001019491-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/26 MEMO:
+* 1D
++ 1D
+そんなに そんなに そんなに 指示詞 7 副詞形態指示詞 3 * 0 * 0
+* 3D
++ 3D <rel type="=" target="不満" sid="fuman-consumer_electronics-0001019491-1" id="2"/><rel type="ガ" target="スマホ" sid="fuman-consumer_electronics-0001019491-1" id="0"/>
+不満 ふまん 不満だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+なら なら なら 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 3D <rel type="=" target="ガラケー" sid="fuman-consumer_electronics-0001019491-1" id="5"/>
+ガラケー がらけー ガラケー 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ニ" target="ガラケー" sid="fuman-consumer_electronics-0001019491-2" id="2"/><rel type="ガ" target="不特定:人"/><rel type="カラ" target="スマホ" sid="fuman-consumer_electronics-0001019491-1" id="0"/>
+戻せば もどせば 戻す 動詞 2 * 0 子音動詞サ行 5 基本条件形 7
+いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,59 @@
+# S-ID:fuman-hospital-0001053345-1 KNP:4.2-75a8fa27 DATE:2020/06/17 SCORE:18.00000 MOD:2020/08/11 MEMO:
+* 2D
++ 2D <NE:DATE:昨日>
+昨日 きのう 昨日 名詞 6 時相名詞 10 * 0 * 0
+* 2D
++ 2D
+薬 くすり 薬 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="著者"/><rel type="ヲ" target="薬" sid="fuman-hospital-0001053345-1" id="1"/><rel type="ニ" target="不特定:人1"/><rel type="時間" target="昨日" sid="fuman-hospital-0001053345-1" id="0"/>
+処方 しょほう 処方 名詞 6 普通名詞 1 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+もらったら もらったら もらう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 タ系条件形 13
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="外の関係" target="税" sid="fuman-hospital-0001053345-1" id="4"/>
+消費 しょうひ 消費 名詞 6 サ変名詞 2 * 0 * 0
++ 5D <rel type="ノ？" target="消費" sid="fuman-hospital-0001053345-1" id="3"/>
+税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="税" sid="fuman-hospital-0001053345-1" id="4"/><rel type="ニ" target="不特定:人1"/>
+取ら とら 取る 動詞 2 * 0 子音動詞ラ行 10 未然形 3
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001053345-2 KNP:4.2-75a8fa27 DATE:2020/06/17 SCORE:90.00000 MOD:2020/08/11 MEMO:
+* 2D
++ 3D
+今 いま 今 名詞 6 時相名詞 10 * 0 * 0
+まで まで まで 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D
+消費 しょうひ 消費 名詞 6 サ変名詞 2 * 0 * 0
++ 3D <rel type="=" target="税" sid="fuman-hospital-0001053345-1" id="4"/>
+税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 6P
++ 7P <rel type="ガ" target="税" sid="fuman-hospital-0001053345-2" id="2"/><rel type="マデ" target="今" sid="fuman-hospital-0001053345-2" id="0"/><rel type="ニ" target="薬" sid="fuman-hospital-0001053345-1" id="1"/>
+つか つか つく 動詞 2 * 0 子音動詞カ行 2 未然形 3
+なかった なかった ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 タ形 8
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 7D
+これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D <rel type="ガ" target="出費" sid="fuman-hospital-0001053345-2" id="6"/><rel type="ニ" target="著者"/>
+痛い いたい 痛い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 6D
++ 7D <rel type="ガ" target="著者"/><rel type="ニ" target="税" sid="fuman-hospital-0001053345-2" id="2"/>
+出費 しゅっぴ 出費 名詞 6 サ変名詞 2 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ニ" target="出費" sid="fuman-hospital-0001053345-2" id="6"/><rel type="カラ" target="これ" sid="fuman-hospital-0001053345-2" id="4"/><rel type="ガ" target="税" sid="fuman-hospital-0001053345-2" id="2"/>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

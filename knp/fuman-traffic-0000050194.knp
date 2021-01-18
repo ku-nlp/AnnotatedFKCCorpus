@@ -1,0 +1,16 @@
+# S-ID:fuman-traffic-0000050194-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-25.94488 MOD:2020/09/02 MEMO:
+* 1D
++ 1D
+中年 ちゅうねん 中年 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="修飾" target="中年" sid="fuman-traffic-0000050194-1" id="0"/>
+女性 じょせい 女性 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="女性" sid="fuman-traffic-0000050194-1" id="1"/><rel type="ヲ" target="不特定:物１"/>
+運転 うんてん 運転 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="運転" sid="fuman-traffic-0000050194-1" id="2"/>
+危なっかしい あぶなっかしい 危なっかしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

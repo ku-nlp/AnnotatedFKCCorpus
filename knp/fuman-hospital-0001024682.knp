@@ -1,0 +1,68 @@
+# S-ID:fuman-hospital-0001024682-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:50.00000 MOD:2020/08/04 MEMO:
+* 1D
++ 1D
+心電図 しんでんず 心電図 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ヲ" target="心電図" sid="fuman-hospital-0001024682-1" id="0"/><rel type="ガ" target="著者"/><rel type="デ" target="室" sid="fuman-hospital-0001024682-1" id="4"/><rel type="デ" mode="？" target="なし"/>
+とって とって とる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+くる くる くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 基本形 2
+ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+* 4P
++ 5P <rel type="ガ" target="著者"/><rel type="ニ" target="不特定:人1"/><rel type="ト" target="とってくるように" sid="fuman-hospital-0001024682-1" id="1"/>
+言わ いわ 言う 動詞 2 * 0 子音動詞ワ行 12 未然形 3
+れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D <rel type="=" target="心電図" sid="fuman-hospital-0001024682-1" id="0"/>
+心電図 しんでんず 心電図 名詞 6 普通名詞 1 * 0 * 0
++ 5D <rel type="ノ？" target="心電図" sid="fuman-hospital-0001024682-1" id="3"/>
+室 しつ 室 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 9D <rel type="ガ" target="著者"/><rel type="ニ" target="室" sid="fuman-hospital-0001024682-1" id="4"/>
+行ったら いったら 行く 動詞 2 * 0 子音動詞カ行促音便形 3 タ系条件形 13
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 7D <rel type="ガ" target="人" sid="fuman-hospital-0001024682-1" id="7"/><rel type="ニツイテ" target="心電図" sid="fuman-hospital-0001024682-1" id="0"/><rel type="ヲ" target="著者"/>
+検査 けんさ 検査 名詞 6 サ変名詞 2 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+* 8D
++ 9D
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 9D
+男 おとこ 男 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="人" sid="fuman-hospital-0001024682-1" id="7"/><rel type="=構" target="人" sid="fuman-hospital-0001024682-1" id="7"/><rel type="修飾" target="男" sid="fuman-hospital-0001024682-1" id="8"/>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+だった だった だ 判定詞 4 * 0 判定詞 25 ダ列タ形 8
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001024682-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:80.00000 MOD:2020/08/04 MEMO:
+* 1D
++ 1D <rel type="ノ" target="不特定:人"/>
+胸 むね 胸 名詞 6 普通名詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="胸" sid="fuman-hospital-0001024682-2" id="0"/><rel type="デ" target="検査" sid="fuman-hospital-0001024682-2" id="2"/>
+出す だす 出す 動詞 2 * 0 子音動詞サ行 5 基本形 2
+* 4D
++ 4D <rel type="修飾" target="出す" sid="fuman-hospital-0001024682-2" id="1"/><rel type="=≒" target="検査する" sid="fuman-hospital-0001024682-1" id="6"/>
+検査 けんさ 検査 名詞 6 サ変名詞 2 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D <rel type="=≒" target="男" sid="fuman-hospital-0001024682-1" id="8"/>
+女性 じょせい 女性 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="検査" sid="fuman-hospital-0001024682-2" id="2"/><rel type="デ" target="女性" sid="fuman-hospital-0001024682-2" id="3"/><rel type="ニ" target="不特定:人1"/><rel type="ニ" mode="？" target="不特定:人"/>
+お お お 接頭辞 13 名詞接頭辞 1 * 0 * 0
+願い ねがい 願う 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+たい たい たい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+です です です 助動詞 5 * 0 無活用型 26 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

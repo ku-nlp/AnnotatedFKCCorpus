@@ -1,0 +1,87 @@
+# S-ID:fuman-hospital-0001036312-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/10 MEMO:
+* 1P
++ 2P
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+や や や 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D
+介護 かいご 介護 名詞 6 サ変名詞 2 * 0 * 0
++ 3D <rel type="ノ？" target="介護" sid="fuman-hospital-0001036312-1" id="1"/>
+施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 7D
++ 10D <rel type="ノ" target="施設" sid="fuman-hospital-0001036312-1" id="2"/><rel type="ノ" mode="AND" target="病院" sid="fuman-hospital-0001036312-1" id="0"/>
+職員 しょくいん 職員 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 5D
+高齢 こうれい 高齢 名詞 6 普通名詞 1 * 0 * 0
++ 6D <rel type="ノ？" target="高齢" sid="fuman-hospital-0001036312-1" id="4"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 10D
+対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2
+* 7P
++ 8D
+タメ ため タメ 名詞 6 普通名詞 1 * 0 * 0
++ 10P <rel type="ノ" target="職員" sid="fuman-hospital-0001036312-1" id="3"/><rel type="ニタイシテ" target="者" sid="fuman-hospital-0001036312-1" id="5"/><rel type="ノ？" target="タメ" sid="fuman-hospital-0001036312-1" id="7"/>
+口 ぐち 口 名詞 6 普通名詞 1 * 0 * 0
+や や や 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 10D
+必要 ひつよう 必要だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+の の の 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 12D <rel type="ガ" target="職員" sid="fuman-hospital-0001036312-1" id="3"/><rel type="ニタイシテ" target="者" sid="fuman-hospital-0001036312-1" id="5"/><rel type="修飾" target="必要以上" sid="fuman-hospital-0001036312-1" id="9"/>
+なれなれし なれなれし なれなれしい 形容詞 3 * 0 イ形容詞イ段 19 語幹 1
+さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 12D
+違和感 いわかん 違和感 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="違和感" sid="fuman-hospital-0001036312-1" id="11"/><rel type="ガ２" target="著者"/><rel type="ニ" target="なれなれしさ" sid="fuman-hospital-0001036312-1" id="10"/><rel type="ニ" mode="AND" target="口" sid="fuman-hospital-0001036312-1" id="8"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001036312-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:48.00000 MOD:2020/08/10 MEMO:
+* 1D
++ 1D <rel type="ニ" target="者" sid="fuman-hospital-0001036312-1" id="5"/><rel type="ガ" target="方" sid="fuman-hospital-0001036312-2" id="3"/><rel type="デ" target="方" sid="fuman-hospital-0001036312-2" id="1"/>
+接し せっし 接し 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:接し-せっし-接す-2-0-5-8"
++ 2D <rel type="ノ" target="接し" sid="fuman-hospital-0001036312-2" id="0"/>
+方 かた 方 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="方" sid="fuman-hospital-0001036312-2" id="1"/><rel type="ガ２" target="方" sid="fuman-hospital-0001036312-2" id="3"/>
+素晴らしい すばらしい 素晴らしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+* 3D
++ 4D <rel type="=≒" target="職員" sid="fuman-hospital-0001036312-1" id="3"/>
+方 かた 方 名詞 6 普通名詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 7D
++ 8D <rel type="ガ" target="方" sid="fuman-hospital-0001036312-2" id="3"/><rel type="ニ" target="病院" sid="fuman-hospital-0001036312-1" id="0"/><rel type="ニ" mode="AND" target="施設" sid="fuman-hospital-0001036312-1" id="2"/>
+い い いる 動詞 2 * 0 母音動詞 1 基本連用形 8
+ます ます ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 基本形 2
+が が が 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 6D <rel type="ガ" target="著者"/><rel type="ヲ" target="なれなれしさ" sid="fuman-hospital-0001036312-1" id="10"/><rel type="ヲ" mode="AND" target="口" sid="fuman-hospital-0001036312-1" id="8"/>
+見て みて 見る 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+いて いて いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+* 6D
++ 7D <rel type="ガ" target="著者"/><rel type="外の関係" target="こと" sid="fuman-hospital-0001036312-2" id="7"/>
+不愉快に ふゆかいに 不愉快だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
+* 7D
++ 8D <rel type="トイウ" target="不愉快になる" sid="fuman-hospital-0001036312-2" id="6"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="こと" sid="fuman-hospital-0001036312-2" id="7"/><rel type="ガ２" target="著者"/>
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

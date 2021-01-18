@@ -1,0 +1,50 @@
+# S-ID:fuman-consumer_electronics-0001011146-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:8.00000 MOD:2020/08/24 MEMO:
+* 3D
++ 3D <rel type="ガ" target="著者"/>
+忘れ わすれ 忘れ 名詞 6 普通名詞 1 * 0 * 0
+っぽい っぽい っぽい 接尾辞 14 形容詞性名詞接尾辞 6 イ形容詞アウオ段 18 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 2D
+チン ちん チン 副詞 8 * 0 * 0 * 0
+* 3D
++ 3D <rel type="デ" target="不特定:物1"/><rel type="ヲ" target="不特定:物"/><rel type="ガ" target="著者"/>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10
+まま まま まま 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="=≒" target="忘れ" sid="fuman-consumer_electronics-0001011146-1" id="0"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="した" sid="fuman-consumer_electronics-0001011146-1" id="2"/>
+忘れて わすれて 忘れる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+しまう しまう しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001011146-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:23.00000 MOD:2020/08/24 MEMO:
+* 4D
++ 6D
+なんか なんか なんか 副詞 8 * 0 * 0 * 0
+* 4D
++ 6D
+センサー せんさー センサー 名詞 6 普通名詞 1 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+なんか なんか なんか 助詞 9 副助詞 2 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="カラ" target="不特定:物1"/>
+取り とり 取り 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:取り-とり-取る-2-0-10-8"
+忘れ わすれ 忘れ 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:忘れ-わすれ-忘れる-2-0-1-8"
++ 4D <rel type="ヲ" target="取り忘れ" sid="fuman-consumer_electronics-0001011146-2" id="2"/><rel type="ガ" target="ブザー" sid="fuman-consumer_electronics-0001011146-2" id="4"/>
+防止 ぼうし 防止 名詞 6 サ変名詞 2 * 0 * 0
++ 5D <rel type="ガ" target="もの" sid="fuman-consumer_electronics-0001011146-2" id="5"/>
+ブザー ぶざー ブザー 名詞 6 普通名詞 1 * 0 * 0
+みたいな みたいな みたいだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連体形 3
+* 4D
++ 6D <rel type="修飾" target="ブザー" sid="fuman-consumer_electronics-0001011146-2" id="4"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="もの" sid="fuman-consumer_electronics-0001011146-2" id="5"/><rel type="デ" target="センサーかなんか" sid="fuman-consumer_electronics-0001011146-2" id="1"/><rel type="ニ" target="不特定:人1"/><rel type="ニ" mode="AND" target="不特定:物1"/>
+作って つくって 作る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

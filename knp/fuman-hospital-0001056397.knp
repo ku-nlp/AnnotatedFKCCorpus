@@ -1,0 +1,61 @@
+# S-ID:fuman-hospital-0001056397-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:78.00000 MOD:2020/08/12 MEMO:
+* 1D
++ 2D <rel type="ガ" target="物" sid="fuman-hospital-0001056397-1" id="2"/>
+白い しろい 白い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 2D
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="fuman-hospital-0001056397-1" id="2"/><rel type="ニ" target="歯" sid="fuman-hospital-0001056397-1" id="6"/>
+詰め つめ 詰め 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="ノ？" target="詰め" sid="fuman-hospital-0001056397-1" id="1"/>
+物 もの 物 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 4D <rel type="ガ" target="物" sid="fuman-hospital-0001056397-1" id="2"/><rel type="ガ２" target="不特定:人1"/>
+出来 でき 出来る 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 8D <rel type="ガ" target="著者"/><rel type="ニ" target="不特定:人1"/><rel type="ト" target="出来ない" sid="fuman-hospital-0001056397-1" id="3"/>
+言わ いわ 言う 動詞 2 * 0 子音動詞ワ行 12 未然形 3
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+が が が 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 7D <rel type="ノ" target="不特定:人1"/>
+他 ほか 他 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 7D
+歯 は 歯 名詞 6 普通名詞 1 * 0 * 0
++ 8D <rel type="ノ？" target="歯" sid="fuman-hospital-0001056397-1" id="6"/><rel type="修飾" target="他" sid="fuman-hospital-0001056397-1" id="5"/>
+医者 いしゃ 医者 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="デ" target="医者" sid="fuman-hospital-0001056397-1" id="7"/><rel type="ヲ" target="物" sid="fuman-hospital-0001056397-1" id="2"/>
+やって やって やる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+もらえた もらえた もらえる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001056397-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/12 MEMO:
+* 1D
++ 2D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0
+* 2D
++ 2D
+歯 は 歯 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="=≒" target="医者" sid="fuman-hospital-0001056397-1" id="7"/><rel type="=≒" mode="AND" target="不特定:人1"/><rel type="ノ？" target="歯" sid="fuman-hospital-0001056397-2" id="1"/>
+医者 いしゃ 医者 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 6D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+* 4D
++ 5D <rel type="ガ" target="医者" sid="fuman-hospital-0001056397-2" id="2"/><rel type="デ" target="方" sid="fuman-hospital-0001056397-2" id="5"/>
+やり やり やり 名詞 6 普通名詞 1 * 0 * 0
++ 6D <rel type="ノ" target="やり" sid="fuman-hospital-0001056397-2" id="4"/>
+方 かた 方 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="方" sid="fuman-hospital-0001056397-2" id="5"/><rel type="ニヨッテ" target="医者" sid="fuman-hospital-0001056397-2" id="2"/>
+違う ちがう 違う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

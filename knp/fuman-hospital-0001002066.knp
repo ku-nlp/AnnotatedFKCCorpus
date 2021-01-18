@@ -1,0 +1,63 @@
+# S-ID:fuman-hospital-0001002066-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:73.00000 MOD:2020/08/14 MEMO:
+* 6D
++ 1D
+専業 せんぎょう 専業 名詞 6 普通名詞 1 * 0 * 0
++ 7D <rel type="ガ" target="著者"/><rel type="修飾" target="専業" sid="fuman-hospital-0001002066-1" id="0"/><rel type="=構" target="著者"/>
+主婦 しゅふ 主婦 名詞 6 普通名詞 1 * 0 * 0
+です です だ 判定詞 4 * 0 判定詞 25 デス列基本形 27
+が が が 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 6D
+人間ドック にんげんどっく 人間ドック 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 4D
+自腹 じばら 自腹 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 5P
++ 6P <rel type="ニ" target="人間ドック" sid="fuman-hospital-0001002066-1" id="2"/><rel type="ガ" target="主婦" sid="fuman-hospital-0001002066-1" id="1"/><rel type="デ" target="自腹" sid="fuman-hospital-0001002066-1" id="3"/><rel type="デ" mode="？" target="なし"/>
+行か いか 行く 動詞 2 * 0 子音動詞カ行促音便形 3 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13
+* 5D
++ 6D
+かなり かなり かなり 副詞 8 * 0 * 0 * 0
+* 6D
++ 7D <rel type="ガ" target="人間ドック" sid="fuman-hospital-0001002066-1" id="2"/>
+高額だ こうがくだ 高額だ 形容詞 3 * 0 ナノ形容詞 22 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ト" target="高額だ" sid="fuman-hospital-0001002066-1" id="6"/><rel type="ト" mode="AND" target="行かないとで" sid="fuman-hospital-0001002066-1" id="4"/><rel type="ニ" target="不特定:人"/>
+聞き きき 聞く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8
+ました ました ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 タ形 7
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001002066-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/14 MEMO:
+* 1P
++ 1P
+病気 びょうき 病気 名詞 6 普通名詞 1 * 0 * 0
+や や や 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D
+癌 がん 癌 名詞 6 普通名詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 5P
++ 5P <rel type="ガ" target="癌" sid="fuman-hospital-0001002066-2" id="1"/><rel type="ガ" mode="AND" target="病気" sid="fuman-hospital-0001002066-2" id="0"/><rel type="ガ２" target="著者"/>
+不安です ふあんです 不安だ 形容詞 3 * 0 ナ形容詞 21 デス列基本形 29
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0
+的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3
+* 5D
++ 5D <rel type="修飾" target="経済的な" sid="fuman-hospital-0001002066-2" id="3"/><rel type="ノ" target="人間ドック" sid="fuman-hospital-0001002066-1" id="2"/><rel type="ノ" mode="AND" target="著者"/>
+負担 ふたん 負担 名詞 6 サ変名詞 2 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="負担" sid="fuman-hospital-0001002066-2" id="4"/><rel type="外の関係" target="人間ドック" sid="fuman-hospital-0001002066-1" id="2"/><rel type="ガ２" target="著者"/>
+おおきい おおきい おおきい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本形 2
+です です です 助動詞 5 * 0 無活用型 26 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

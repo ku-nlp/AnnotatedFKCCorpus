@@ -1,0 +1,72 @@
+# S-ID:fuman-consumer_electronics-0001013957-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:50.00000 MOD:2020/08/24 MEMO:
+* 2D
++ 1D
+電子 でんし 電子 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="修飾" target="電子" sid="fuman-consumer_electronics-0001013957-1" id="0"/>
+レンジ れんじ レンジ 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 3D
+牛乳 ぎゅうにゅう 牛乳 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D <rel type="ヲ" target="牛乳" sid="fuman-consumer_electronics-0001013957-1" id="2"/><rel type="デ" target="レンジ" sid="fuman-consumer_electronics-0001013957-1" id="1"/><rel type="ガ" target="不特定:人"/>
+温める あたためる 温める 動詞 2 * 0 母音動詞 1 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 6D <rel type="=" target="牛乳" sid="fuman-consumer_electronics-0001013957-1" id="2"/>
+牛乳 ぎゅうにゅう 牛乳 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D <rel type="ノ" target="牛乳" sid="fuman-consumer_electronics-0001013957-1" id="4"/>
+膜 まく 膜 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 7D <rel type="ガ" target="膜" sid="fuman-consumer_electronics-0001013957-1" id="5"/><rel type="ニ" target="牛乳" sid="fuman-consumer_electronics-0001013957-1" id="4"/>
+張る はる 張る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
++ 8D
+の の の 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="の" sid="fuman-consumer_electronics-0001013957-1" id="7"/><rel type="ガ２" target="著者"/>
+嫌だ いやだ 嫌だ 形容詞 3 * 0 ナ形容詞 21 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001013957-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:28.00000 MOD:2020/08/24 MEMO:
+* 2D
++ 2D <rel type="=" target="膜" sid="fuman-consumer_electronics-0001013957-1" id="5"/>
+膜 まく 膜 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D
+栄養 えいよう 栄養 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="栄養" sid="fuman-consumer_electronics-0001013957-2" id="1"/><rel type="ニ" target="膜" sid="fuman-consumer_electronics-0001013957-2" id="0"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
++ 4D
+の の の 名詞 6 形式名詞 8 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="著者"/><rel type="ヲ" target="の" sid="fuman-consumer_electronics-0001013957-2" id="3"/>
+知って しって 知る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+が が が 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 7D <rel type="ガ２" target="著者"/><rel type="ガ" target="膜" sid="fuman-consumer_electronics-0001013957-2" id="0"/>
+苦手な にがてな 苦手だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+* 6D
++ 7D
+いつも いつも いつも 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="膜" sid="fuman-consumer_electronics-0001013957-2" id="0"/>
+取ら とら 取る 動詞 2 * 0 子音動詞ラ行 10 未然形 3
+なくて なくて ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 タ系連用テ形 12
+は は は 助詞 9 副助詞 2 * 0 * 0
+なら なら なる 動詞 2 * 0 子音動詞ラ行 10 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

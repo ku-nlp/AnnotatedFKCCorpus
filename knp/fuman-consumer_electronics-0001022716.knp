@@ -1,0 +1,46 @@
+# S-ID:fuman-consumer_electronics-0001022716-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/26 MEMO:
+* 1D
++ 1D
+イヤホン いやほん イヤホン 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ヲ" target="イヤホン" sid="fuman-consumer_electronics-0001022716-1" id="0"/><rel type="ガ" target="著者"/>
+持ち歩く もちあるく 持ち歩く 動詞 2 * 0 子音動詞カ行 2 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ノ" target="イヤホン" sid="fuman-consumer_electronics-0001022716-1" id="0"/>
+コード こーど コード 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="コード" sid="fuman-consumer_electronics-0001022716-1" id="2"/>
+絡まって からまって 絡まる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+しまう しまう しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001022716-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:80.00000 MOD:2020/08/26 MEMO:
+* 1D
++ 1D <rel type="ガ" target="私" sid="fuman-consumer_electronics-0001022716-2" id="1"/>
+ズボラな ずぼらな ズボラだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 4
+* 3D
++ 3D <rel type="=" target="著者"/>
+私 わたし 私 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 3D
+うまく うまく うまい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+* 4D
++ 4D <rel type="ガ" target="私" sid="fuman-consumer_electronics-0001022716-2" id="1"/><rel type="ヲ" target="イヤホン" sid="fuman-consumer_electronics-0001022716-1" id="0"/><rel type="外の関係" target="方法" sid="fuman-consumer_electronics-0001022716-2" id="4"/>
+保管 ほかん 保管 名詞 6 サ変名詞 2 * 0 * 0
+できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2
+* 5D
++ 5D <rel type="ノ" target="保管できる" sid="fuman-consumer_electronics-0001022716-2" id="3"/>
+方法 ほうほう 方法 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="方法" sid="fuman-consumer_electronics-0001022716-2" id="4"/>
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+か か か 助詞 9 終助詞 4 * 0 * 0
+な な な 助詞 9 終助詞 4 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

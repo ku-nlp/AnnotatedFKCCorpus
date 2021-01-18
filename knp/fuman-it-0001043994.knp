@@ -1,0 +1,25 @@
+# S-ID:fuman-it-0001043994-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/19 MEMO:
+* 1D
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="外の関係" target="制度" sid="fuman-it-0001043994-1" id="1"/>
+既読 きどく 既読 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="ノ" target="既読" sid="fuman-it-0001043994-1" id="0"/>
+制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="制度" sid="fuman-it-0001043994-1" id="1"/><rel type="ガ２" target="著者"/>
+いら いら いる 動詞 2 * 0 子音動詞ラ行 10 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-it-0001043994-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/19 MEMO:
+* 1D
++ 1D <rel type="ガ" target="神経" sid="fuman-it-0001043994-2" id="1"/>
+余計な よけいな 余計だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3
+* 2D
++ 2D
+神経 しんけい 神経 名詞 6 普通名詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="神経" sid="fuman-it-0001043994-2" id="1"/><rel type="ニヨッテ" target="制度" sid="fuman-it-0001043994-1" id="1"/>
+つかう つかう つかう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

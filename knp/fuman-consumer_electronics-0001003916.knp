@@ -1,0 +1,40 @@
+# S-ID:fuman-consumer_electronics-0001003916-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:28.00000 MOD:2020/07/21 MEMO:
+* 2D
++ 2D <rel type="ガ" target="不特定:物1"/>
+黒い くろい 黒い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 2D
+ホコリ ほこり ホコリ 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="ホコリ" sid="fuman-consumer_electronics-0001003916-1" id="1"/><rel type="外の関係" target="こと" sid="fuman-consumer_electronics-0001003916-1" id="3"/><rel type="ガ２" target="不特定:物1"/>
+目立つ めだつ 目立つ 動詞 2 * 0 子音動詞タ行 6 基本形 2
+* 4D
++ 4D <rel type="トイウ" target="目立つ" sid="fuman-consumer_electronics-0001003916-1" id="2"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="こと" sid="fuman-consumer_electronics-0001003916-1" id="3"/><rel type="ガ２" target="著者"/>
+不満 ふまん 不満だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001003916-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:0.00000 MOD:2020/08/19 MEMO:
+* 1D
++ 2D
+頻繁に ひんぱんに 頻繁だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7
+* 2P
++ 2D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物1"/>
+拭き ふき 拭き 名詞 6 普通名詞 1 * 0 * 0
++ 3P <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物1"/>
+掃除 そうじ 掃除 名詞 6 サ変名詞 2 * 0 * 0
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+なきゃ なきゃ ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 音便条件形２ 17
+いけなくて いけなくて いけない 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ２" target="著者"/><rel type="ガ" target="不特定:状況"/>
+めんどくさい めんどくさい めんどくさい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+です です です 助動詞 5 * 0 無活用型 26 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

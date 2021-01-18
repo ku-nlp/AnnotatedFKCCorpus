@@ -1,0 +1,43 @@
+# S-ID:fuman-hospital-0001030141-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/10 MEMO:
+* 1D
++ 1D
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 6D <rel type="ノ" target="病院" sid="fuman-hospital-0001030141-1" id="0"/>
+受付 うけつけ 受付 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D
+高齢 こうれい 高齢 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="修飾" target="高齢" sid="fuman-hospital-0001030141-1" id="2"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 5D <rel type="=構" target="者" sid="fuman-hospital-0001030141-1" id="3"/><rel type="修飾" target="者" sid="fuman-hospital-0001030141-1" id="3"/>
+方 かた 方 名詞 6 普通名詞 1 * 0 * 0
+達 たち 達 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D <rel type="デ" target="受付" sid="fuman-hospital-0001030141-1" id="1"/><rel type="ガ" target="方達" sid="fuman-hospital-0001030141-1" id="4"/>
+集まって あつまって 集まる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+* -1D
++ -1D <rel type="デ" target="受付" sid="fuman-hospital-0001030141-1" id="1"/><rel type="ガ" target="不特定:状況"/><rel type="ニ" target="騒音" sid="fuman-hospital-0001030141-1" id="6"/>
+騒音 そうおん 騒音 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001030141-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:0.00000 MOD:2020/08/10 MEMO:
+* 1D
++ 1D
+もう もう もう 副詞 8 * 0 * 0 * 0
+* 2D
++ 2D
+少し すこし 少し 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="方達" sid="fuman-hospital-0001030141-1" id="4"/><rel type="デ" target="受付" sid="fuman-hospital-0001030141-1" id="1"/>
+静かに しずかに 静かだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7
+して して する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ系連用テ形 14
+欲しい ほしい 欲しい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

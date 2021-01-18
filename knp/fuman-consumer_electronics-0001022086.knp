@@ -1,0 +1,48 @@
+# S-ID:fuman-consumer_electronics-0001022086-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:40.00000 MOD:2020/08/26 MEMO:
+* 3D
++ 4D
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
+* 2P
++ 2P
+ＤＶＤ ＤＶＤ ＤＶＤ 名詞 6 普通名詞 1 * 0 * 0
+や や や 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 4D
+Ｂｌｕ－ｒａｙ ぶるーれい Ｂｌｕ－ｒａｙ 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ニ" target="不特定:物1"/><rel type="カラ" target="テレビ" sid="fuman-consumer_electronics-0001022086-1" id="0"/><rel type="カラ" mode="OR" target="ＤＶＤ" sid="fuman-consumer_electronics-0001022086-1" id="1"/><rel type="カラ" mode="OR" target="Ｂｌｕ－ｒａｙ" sid="fuman-consumer_electronics-0001022086-1" id="2"/>
+入力 にゅうりょく 入力 名詞 6 サ変名詞 2 * 0 * 0
++ 5D <rel type="カラ" target="テレビ" sid="fuman-consumer_electronics-0001022086-1" id="0"/><rel type="ガ" target="著者"/><rel type="ヲ" target="入力" sid="fuman-consumer_electronics-0001022086-1" id="3"/><rel type="ニ" target="ＤＶＤ" sid="fuman-consumer_electronics-0001022086-1" id="1"/><rel type="ニ" mode="OR" target="Ｂｌｕ－ｒａｙ" sid="fuman-consumer_electronics-0001022086-1" id="2"/>
+切り替え きりかえ 切り替える 動詞 2 * 0 母音動詞 1 基本連用形 8
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10
+* 7D
++ 8D <rel type="ノ" target="切り替えした" sid="fuman-consumer_electronics-0001022086-1" id="4"/>
+とき とき とき 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 8D
+いきなり いきなり いきなり 副詞 8 * 0 * 0 * 0
+* 7D
++ 8D <rel type="ノ" target="不特定:物1"/>
+音 おと 音 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="音" sid="fuman-consumer_electronics-0001022086-1" id="7"/><rel type="時間" target="とき" sid="fuman-consumer_electronics-0001022086-1" id="5"/>
+大きく おおきく 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本連用形 7
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001022086-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:0.00000 MOD:2020/08/26 MEMO:
+* 1D
++ 1D <rel type="ガ" target="著者"/><rel type="ニ" target="大きくなる" sid="fuman-consumer_electronics-0001022086-1" id="8"/>
+びっくり びっくり びっくり 名詞 6 サ変名詞 2 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+から から から 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="大きくなる" sid="fuman-consumer_electronics-0001022086-1" id="8"/><rel type="ニ" target="不特定:人1"/>
+やめて やめて やめる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

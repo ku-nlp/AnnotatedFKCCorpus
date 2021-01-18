@@ -1,0 +1,43 @@
+# S-ID:fuman-traffic-0000247629-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-38.47361 MOD:2020/09/02 MEMO:
+* 1D
++ 1D
+この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0
+* 2D
++ 2D
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 8D <rel type="ガ" target="不特定:状況"/><rel type="ニ" target="時間" sid="fuman-traffic-0000247629-1" id="1"/>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D
+いつも いつも いつも 副詞 8 * 0 * 0 * 0
+* 5D
++ 5D
+大きな おおきな 大きな 連体詞 11 * 0 * 0 * 0
+* 6D
++ 6D <rel type="ノ？" target="バイク" sid="fuman-traffic-0000247629-1" id="7"/>
+音 おと 音 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 8D <rel type="ヲ" target="音" sid="fuman-traffic-0000247629-1" id="5"/><rel type="ガ" target="バイク" sid="fuman-traffic-0000247629-1" id="7"/>
+立てて たてて 立てる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+* 8D
++ 8D
+バイク ばいく バイク 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="バイク" sid="fuman-traffic-0000247629-1" id="7"/><rel type="時間" target="時間" sid="fuman-traffic-0000247629-1" id="1"/>
+通る とおる 通る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000247629-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-1.97340 MOD:2020/09/02 MEMO:
+* -1D
++ 1D
+本当 ほんとう 本当だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
++ -1D <rel type="ガ" target="通る" sid="fuman-traffic-0000247629-1" id="8"/><rel type="ガ２" target="著者"/>
+迷惑 めいわく 迷惑 名詞 6 サ変名詞 2 * 0 * 0
+だー だ だ 判定詞 4 * 0 判定詞 25 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,37 @@
+# S-ID:fuman-consumer_electronics-0001000363-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:42.00000 MOD:2020/08/27 MEMO:
+* 3D
++ 1D
+スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0
++ 5D <rel type="ノ" target="スマホ" sid="fuman-consumer_electronics-0001000363-1" id="0"/>
+カバー かばー カバー 名詞 6 サ変名詞 2 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 3D
++ 3D
+プラスチック ぷらすちっく プラスチック 名詞 6 普通名詞 1 * 0 * 0
++ 5D <rel type="ノ" target="プラスチック" sid="fuman-consumer_electronics-0001000363-1" id="2"/>
+製 せい 製 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 5D <rel type="ガ" target="製" sid="fuman-consumer_electronics-0001000363-1" id="3"/><rel type="外の関係" target="カバー" sid="fuman-consumer_electronics-0001000363-1" id="1"/>
+かわいい かわいい かわいい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+けど けど けど 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="製" sid="fuman-consumer_electronics-0001000363-1" id="3"/><rel type="外の関係" target="カバー" sid="fuman-consumer_electronics-0001000363-1" id="1"/>
+滑る すべる 滑る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001000363-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/27 MEMO:
+* 1D
++ 1D <rel type="ノ" target="著者"/>
+手 て 手 名詞 6 普通名詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="製" sid="fuman-consumer_electronics-0001000363-1" id="3"/><rel type="カラ" target="手" sid="fuman-consumer_electronics-0001000363-2" id="0"/>
+滑って すべって 滑る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="スマホ" sid="fuman-consumer_electronics-0001000363-1" id="0"/><rel type="ヲ" mode="AND" target="製" sid="fuman-consumer_electronics-0001000363-1" id="3"/>
+落とし おとし 落とす 動詞 2 * 0 子音動詞サ行 5 基本連用形 8
+そう そう そうだ 接尾辞 14 形容詞性述語接尾辞 5 ナ形容詞 21 語幹 1
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

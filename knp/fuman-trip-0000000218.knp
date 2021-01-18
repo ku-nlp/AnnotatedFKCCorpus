@@ -1,0 +1,101 @@
+# S-ID:fuman-trip-0000000218-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-17.64579 MOD:2020/08/31 MEMO:
+* 1D
++ 1D <rel type="ノ" target="不特定:物1"/>
+入れ物 いれもの 入れ物 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="入れ物" sid="fuman-trip-0000000218-1" id="0"/>
+薄い うすい 薄い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-trip-0000000218-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-67.13680 MOD:2020/08/31 MEMO:
+* 1D
++ 1D
+あんなに あんなに あんなに 指示詞 7 副詞形態指示詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="もの" sid="fuman-trip-0000000218-2" id="2"/>
+熱い あつい 熱い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 3D
++ 3D <rel type="=" target="不特定:物1"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ヲ" target="もの" sid="fuman-trip-0000000218-2" id="2"/><rel type="ニ" target="入れ物" sid="fuman-trip-0000000218-1" id="0"/><rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="？" target="著者"/>
+入れる いれる 入れる 動詞 2 * 0 母音動詞 1 基本形 2
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5P
++ 5P <rel type="ガ" target="著者"/><rel type="ヲ" target="入れ物" sid="fuman-trip-0000000218-1" id="0"/>
+持て もて 持てる 動詞 2 * 0 母音動詞 1 未然形 3
+なくて なくて ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ" target="著者"/>
+辛い つらい 辛い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-trip-0000000218-3 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-47.96849 MOD:2020/08/31 MEMO:
+* 1D
++ 1D <rel type="ノ？" target="不特定:物1"/><rel type="ノ？" mode="AND" target="不特定:人1"/>
+店 みせ 店 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="店" sid="fuman-trip-0000000218-3" id="0"/>
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="中" sid="fuman-trip-0000000218-3" id="4"/>
+空いて すいて 空く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D
+雨 あめ 雨 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 6D <rel type="ノ" target="雨" sid="fuman-trip-0000000218-3" id="3"/>
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 6D <rel type="ノ" target="店" sid="fuman-trip-0000000218-3" id="0"/>
+外 そと 外 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="デ" target="外" sid="fuman-trip-0000000218-3" id="5"/><rel type="修飾" target="中" sid="fuman-trip-0000000218-3" id="4"/><rel type="ヲ" target="もの" sid="fuman-trip-0000000218-2" id="2"/><rel type="ニ" target="不特定:人1"/>
+食べ たべ 食べる 動詞 2 * 0 母音動詞 1 未然形 3
+させ させ させる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3
+られた られた られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-trip-0000000218-4 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-21.06015 MOD:2020/08/31 MEMO:
+* 1D
++ 1D
+人数 にんずう 人数 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="ノ" target="もの" sid="fuman-trip-0000000218-2" id="2"/><rel type="ノ" mode="AND" target="人数" sid="fuman-trip-0000000218-4" id="0"/>
+分 ぶん 分 名詞 6 普通名詞 1 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="分" sid="fuman-trip-0000000218-4" id="1"/>
+買わ かわ 買う 動詞 2 * 0 子音動詞ワ行 12 未然形 3
+なかった なかった ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 タ形 8
+から から から 助詞 9 接続助詞 3 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="食べさせられた" sid="fuman-trip-0000000218-3" id="6"/><rel type="トイウ" target="買わなかったから" sid="fuman-trip-0000000218-4" id="2"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-trip-0000000218-5 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-33.58611 MOD:2020/08/31 MEMO:
+* 1D
++ 1D
+客 きゃく 客 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="修飾" target="客" sid="fuman-trip-0000000218-5" id="0"/>
+商売 しょうばい 商売 名詞 6 サ変名詞 2 * 0 * 0
+* 2D
++ 3D <rel type="ヲ" target="商売" sid="fuman-trip-0000000218-5" id="1"/><rel type="ガ" target="不特定:人1"/>
+やめろ やめろ やめる 動詞 2 * 0 母音動詞 1 命令形 6
+と と と 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ト" target="やめろ" sid="fuman-trip-0000000218-5" id="2"/><rel type="ガ" target="著者"/><rel type="ニタイシテ" target="こと" sid="fuman-trip-0000000218-4" id="3"/>
+思った おもった 思う 動詞 2 * 0 子音動詞ワ行 12 タ形 10
+EOS

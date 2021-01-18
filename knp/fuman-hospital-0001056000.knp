@@ -1,0 +1,84 @@
+# S-ID:fuman-hospital-0001056000-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/12 MEMO:
+* 1D
++ 2D
+年配 ねんぱい 年配 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="婦" sid="fuman-hospital-0001056000-1" id="2"/><rel type="ヲ" target="不特定:人"/>
+看護 かんご 看護 名詞 6 サ変名詞 2 * 0 * 0
++ 3D <rel type="修飾" target="年配" sid="fuman-hospital-0001056000-1" id="0"/><rel type="ノ？" target="看護" sid="fuman-hospital-0001056000-1" id="1"/>
+婦 ふ 婦 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="婦" sid="fuman-hospital-0001056000-1" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="著者"/>
+対応 たいおう 対応 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4P
++ 5P <rel type="ガ" target="対応" sid="fuman-hospital-0001056000-1" id="3"/>
+高圧 こうあつ 高圧 名詞 6 普通名詞 1 * 0 * 0
+的で てきで 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ" target="対応" sid="fuman-hospital-0001056000-1" id="3"/>
+偉 えら 偉い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
+そう そう そうだ 接尾辞 14 形容詞性述語接尾辞 5 ナ形容詞 21 語幹 1
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001056000-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:46.00000 MOD:2020/08/12 MEMO:
+* 1D
++ 1D
+医師 いし 医師 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ヲ" target="医師" sid="fuman-hospital-0001056000-2" id="0"/>
+頼り たより 頼り 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="医師" sid="fuman-hospital-0001056000-2" id="0"/><rel type="ヲ" target="著者"/><rel type="ヲ" mode="AND" target="不特定:人"/>
+診察 しんさつ 診察 名詞 6 サ変名詞 2 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 12D
++ 14D <rel type="ニ" target="診察" sid="fuman-hospital-0001056000-2" id="2"/><rel type="ガ" target="著者"/><rel type="ガ" mode="AND" target="不特定:人"/>
+来て 来て 来る 動詞 2 * 0 カ変動詞来 15 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 5D <rel type="ガ" target="医師" sid="fuman-hospital-0001056000-2" id="0"/><rel type="外の関係" target="前" sid="fuman-hospital-0001056000-2" id="5"/><rel type="ヲ" target="著者"/><rel type="ヲ" mode="AND" target="不特定:人"/>
+診察 しんさつ 診察 名詞 6 サ変名詞 2 * 0 * 0
++ 8D <rel type="ノ" target="診察" sid="fuman-hospital-0001056000-2" id="4"/>
+前 まえ 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 8D <rel type="=" target="年配" sid="fuman-hospital-0001056000-1" id="0"/>
+年配 ねんぱい 年配 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 10D
++ 8D
+看護 かんご 看護 名詞 6 サ変名詞 2 * 0 * 0
++ 12D <rel type="=" target="婦" sid="fuman-hospital-0001056000-1" id="2"/><rel type="時間" target="前" sid="fuman-hospital-0001056000-2" id="5"/><rel type="修飾" target="年配" sid="fuman-hospital-0001056000-2" id="6"/>
+婦 ふ 婦 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 10D
++ 12D <rel type="ガ" target="婦" sid="fuman-hospital-0001056000-2" id="8"/>
+偉 えら 偉い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
+そうに そうに そうだ 接尾辞 14 形容詞性述語接尾辞 5 ナ形容詞 21 ダ列基本連用形 7
+* 9P
++ 11P <rel type="ノ？" target="不特定:人"/><rel type="ノ？" mode="AND" target="著者"/>
+症状 しょうじょう 症状 名詞 6 普通名詞 1 * 0 * 0
+や や や 助詞 9 接続助詞 3 * 0 * 0
+* 10D
++ 12D <rel type="ノ？" target="著者"/><rel type="ノ？" mode="AND" target="不特定:人"/>
+薬 くすり 薬 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 12D
++ 14D <rel type="ガ" target="婦" sid="fuman-hospital-0001056000-2" id="8"/><rel type="ヲ" target="症状" sid="fuman-hospital-0001056000-2" id="10"/><rel type="ヲ" mode="AND" target="薬" sid="fuman-hospital-0001056000-2" id="11"/>
+判断 はんだん 判断 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+* 12D
++ 14D <rel type="ノ" target="著者"/>
+気分 きぶん 気分 名詞 6 普通名詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="気分" sid="fuman-hospital-0001056000-2" id="13"/><rel type="ガ２" target="著者"/>
+悪い わるい 悪い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

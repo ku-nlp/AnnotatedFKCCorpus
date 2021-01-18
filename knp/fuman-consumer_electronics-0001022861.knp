@@ -1,0 +1,60 @@
+# S-ID:fuman-consumer_electronics-0001022861-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:38.00000 MOD:2020/08/26 MEMO:
+* 1D
++ 1D
+何 なに 何 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="何" sid="fuman-consumer_electronics-0001022861-1" id="0"/>
+原因 げんいん 原因 名詞 6 サ変名詞 2 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="原因" sid="fuman-consumer_electronics-0001022861-1" id="1"/><rel type="ニ" target="著者"/>
+分から わから 分かる 動詞 2 * 0 子音動詞ラ行 10 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+が が が 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="著者"/><rel type="ヲ" target="番組" sid="fuman-consumer_electronics-0001022861-1" id="4"/><rel type="デ" target="不特定:物1"/>
+録画 ろくが 録画 名詞 6 サ変名詞 2 * 0 * 0
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10
+つもりの つもりの つもりだ 助動詞 5 * 0 判定詞 25 ダ列特殊連体形 4
+* 5D
++ 5D <rel type="修飾" target="録画したつもり" sid="fuman-consumer_electronics-0001022861-1" id="3"/>
+番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="番組" sid="fuman-consumer_electronics-0001022861-1" id="4"/><rel type="=" target="録画した" sid="fuman-consumer_electronics-0001022861-1" id="3"/>
+録画 ろくが 録画 名詞 6 サ変名詞 2 * 0 * 0
+できて できて できる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3
+なかった なかった ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 タ形 8
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001022861-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/26 MEMO:
+* 1D
++ 1D <rel type="ガ" target="著者"/><rel type="ヲ" target="番組" sid="fuman-consumer_electronics-0001022861-1" id="4"/>
+見よう みよう 見る 動詞 2 * 0 母音動詞 1 意志形 4
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="著者"/><rel type="ト" target="見よう" sid="fuman-consumer_electronics-0001022861-2" id="0"/><rel type="外の関係" target="とき" sid="fuman-consumer_electronics-0001022861-2" id="2"/>
+思った おもった 思う 動詞 2 * 0 子音動詞ワ行 12 タ形 10
+* 4D
++ 5D <rel type="ノ" target="思った" sid="fuman-consumer_electronics-0001022861-2" id="1"/>
+とき とき とき 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="=≒" target="録画" sid="fuman-consumer_electronics-0001022861-1" id="3"/>
+録画 ろくが 録画 名詞 6 サ変名詞 2 * 0 * 0
++ 5D <rel type="ノ" target="録画" sid="fuman-consumer_electronics-0001022861-2" id="3"/>
+リスト りすと リスト 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D <rel type="ニ" target="リスト" sid="fuman-consumer_electronics-0001022861-2" id="4"/><rel type="時間" target="とき" sid="fuman-consumer_electronics-0001022861-2" id="2"/><rel type="ガ" target="番組" sid="fuman-consumer_electronics-0001022861-1" id="4"/>
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="ない" sid="fuman-consumer_electronics-0001022861-2" id="5"/>
+イライラ いらいら イライラ 副詞 8 * 0 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

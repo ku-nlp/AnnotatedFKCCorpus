@@ -1,0 +1,45 @@
+# S-ID:fuman-hospital-0001007528-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:38.00000 MOD:2020/08/14 MEMO:
+* 1D
++ 1D <rel type="ノ" target="著者"/>
+胸 むね 胸 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 2D <rel type="ガ" target="著者"/><rel type="ヲ" target="胸" sid="fuman-hospital-0001007528-1" id="0"/><rel type="ニ" target="不特定:物1"/><rel type="外の関係" target="の" sid="fuman-hospital-0001007528-1" id="2"/>
+挟ま はさま 挟む 動詞 2 * 0 子音動詞マ行 9 未然形 3
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
++ 6D <rel type="トイウ" target="挟まれる" sid="fuman-hospital-0001007528-1" id="1"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 4D
+冷や汗 ひやあせ 冷や汗 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="冷や汗" sid="fuman-hospital-0001007528-1" id="3"/><rel type="外の関係" target="くらい" sid="fuman-hospital-0001007528-1" id="5"/><rel type="ガ２" target="著者"/>
+出る でる 出る 動詞 2 * 0 母音動詞 1 基本形 2
+* 5D
++ 6D <rel type="トイウ" target="出る" sid="fuman-hospital-0001007528-1" id="4"/>
+くらい くらい くらい 名詞 6 副詞的名詞 9 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="の" sid="fuman-hospital-0001007528-1" id="2"/><rel type="ガ２" target="著者"/>
+痛い いたい 痛い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001007528-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:60.00000 MOD:2020/08/14 MEMO:
+* 1D
++ 1D
+もっと もっと もっと 副詞 8 * 0 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="方法" sid="fuman-hospital-0001007528-2" id="2"/><rel type="ト" target="の" sid="fuman-hospital-0001007528-1" id="2"/>
+別の べつの 別だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4
+* 3D
++ 3D
+方法 ほうほう 方法 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="方法" sid="fuman-hospital-0001007528-2" id="2"/>
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+のだろう のだろう のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本推量形 4
+か か か 助詞 9 終助詞 4 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

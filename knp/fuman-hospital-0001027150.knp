@@ -1,0 +1,77 @@
+# S-ID:fuman-hospital-0001027150-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:88.00000 MOD:2020/08/07 MEMO:
+* 8D
++ 8D
+薬局 やっきょく 薬局 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 2D
+普通に ふつうに 普通だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8
+* 3D
++ 3D <rel type="ガ" target="薬局" sid="fuman-hospital-0001027150-1" id="0"/><rel type="ヲ" target="薬" sid="fuman-hospital-0001027150-1" id="3"/>
+売って うって 売る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+* 7D
++ 7D
+薬 くすり 薬 名詞 6 普通名詞 1 * 0 * 0
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12
+は は は 助詞 9 副助詞 2 * 0 * 0
+なく なく ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 6D
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D
+処方箋 しょほうせん 処方箋 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 7D <rel type="ガ" target="処方箋" sid="fuman-hospital-0001027150-1" id="5"/><rel type="カラ" target="病院" sid="fuman-hospital-0001027150-1" id="4"/><rel type="外の関係" target="薬" sid="fuman-hospital-0001027150-1" id="7"/>
+出た でた 出る 動詞 2 * 0 母音動詞 1 タ形 10
+* 8D
++ 8D <rel type="トイウ" target="出た" sid="fuman-hospital-0001027150-1" id="6"/><rel type="=≒" target="薬" sid="fuman-hospital-0001027150-1" id="3"/>
+薬 くすり 薬 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 9D <rel type="ガ" target="著者"/><rel type="ヲ" target="薬" sid="fuman-hospital-0001027150-1" id="7"/><rel type="デ" target="薬局" sid="fuman-hospital-0001027150-1" id="0"/><rel type="外の関係" target="時" sid="fuman-hospital-0001027150-1" id="9"/>
+買う かう 買う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+* 11D
++ 12D <rel type="ノ" target="買う" sid="fuman-hospital-0001027150-1" id="8"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 11D
++ 11D
+クレジット くれじっと クレジット 名詞 6 普通名詞 1 * 0 * 0
++ 12D <rel type="ノ？" target="クレジット" sid="fuman-hospital-0001027150-1" id="10"/>
+カード かーど カード 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 12D
++ 13D <rel type="ガ" target="カード" sid="fuman-hospital-0001027150-1" id="11"/><rel type="ガ２" target="著者"/><rel type="時間" target="時" sid="fuman-hospital-0001027150-1" id="9"/><rel type="デ" target="薬局" sid="fuman-hospital-0001027150-1" id="0"/><rel type="外の関係" target="の" sid="fuman-hospital-0001027150-1" id="13"/>
+使え つかえ 使える 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
++ 14D <rel type="トイウ" target="使えない" sid="fuman-hospital-0001027150-1" id="12"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="の" sid="fuman-hospital-0001027150-1" id="13"/><rel type="ガ２" target="著者"/>
+困る こまる 困る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001027150-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/07 MEMO:
+* 1D
++ 1D <rel type="ノ" target="薬" sid="fuman-hospital-0001027150-1" id="7"/>
+薬代 くすりだい 薬代 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="薬代" sid="fuman-hospital-0001027150-2" id="0"/>
+高く たかく 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+なって なって なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ系連用テ形 14
+くる くる くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D
+特に とくに 特に 副詞 8 * 0 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

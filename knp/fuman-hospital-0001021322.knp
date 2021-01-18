@@ -1,0 +1,57 @@
+# S-ID:fuman-hospital-0001021322-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/04 MEMO:
+* 1D
++ 1D <NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ノ？" target="日本" sid="fuman-hospital-0001021322-1" id="0"/>
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+* 4D
++ 5D <rel type="ノ" target="病院" sid="fuman-hospital-0001021322-1" id="1"/>
+どこ どこ どこ 指示詞 7 名詞形態指示詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="不特定:人"/><rel type="デ" target="病院" sid="fuman-hospital-0001021322-1" id="1"/>
+待ち まち 待ち 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:待ち-まち-待つ-2-0-6-8"
++ 5D <rel type="ノ" target="待ち" sid="fuman-hospital-0001021322-1" id="3"/>
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
+* 5D
++ 6D <rel type="ガ" target="時間" sid="fuman-hospital-0001021322-1" id="4"/><rel type="ガ２" target="どこ" sid="fuman-hospital-0001021322-1" id="2"/>
+長くて ながくて 長い 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="長くて" sid="fuman-hospital-0001021322-1" id="5"/>
+不満です ふまんです 不満だ 形容詞 3 * 0 ナノ形容詞 22 デス列基本形 30
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001021322-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/04 MEMO:
+* 1D
++ 1D
+一 いち 一 名詞 6 数詞 7 * 0 * 0
+時間 じかん 時間 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="著者"/><rel type="時間" target="一時間以上" sid="fuman-hospital-0001021322-2" id="0"/><rel type="=" target="待ち" sid="fuman-hospital-0001021322-1" id="3"/><rel type="デ" target="病院" sid="fuman-hospital-0001021322-1" id="1"/>
+待つ まつ 待つ 動詞 2 * 0 子音動詞タ行 6 基本形 2
+なら なら なら 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 4D
+一 いっ 一 名詞 6 数詞 7 * 0 * 0
+回 かい 回 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="著者"/>
+家 いえ 家 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="著者"/><rel type="ニ" target="家" sid="fuman-hospital-0001021322-2" id="3"/>
+帰って かえって 帰る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+* 6D
++ 6D
+家事 かじ 家事 名詞 6 普通名詞 1 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="家事とか" sid="fuman-hospital-0001021322-2" id="5"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+たい たい たい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

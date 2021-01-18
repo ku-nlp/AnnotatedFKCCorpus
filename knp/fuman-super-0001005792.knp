@@ -1,0 +1,43 @@
+# S-ID:fuman-super-0001005792-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:72.00000 MOD:2020/08/18 MEMO:
+* 1D
++ 1D <rel type="ガ" target="不特定:人"/><rel type="デ" target="ところ" sid="fuman-super-0001005792-1" id="1"/>
+お お お 接頭辞 13 名詞接頭辞 1 * 0 * 0
+買い物 かいもの 買い物 名詞 6 サ変名詞 2 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+* 2D
++ 2D <rel type="ノ" target="不特定:物1"/>
+ところ ところ ところ 名詞 6 副詞的名詞 9 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 4P
++ 4P <rel type="ガ" target="ところ" sid="fuman-super-0001005792-1" id="1"/>
+綺麗な きれいな 綺麗だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+* 4D
++ 4D <rel type="ノ" target="不特定:物1"/>
+トイレ といれ トイレ 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="トイレ" sid="fuman-super-0001005792-1" id="3"/><rel type="=≒" target="綺麗な" sid="fuman-super-0001005792-1" id="2"/><rel type="外の関係" target="の" sid="fuman-super-0001005792-1" id="5"/>
+汚い きたない 汚い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
++ 6D <rel type="トイウ" target="汚い" sid="fuman-super-0001005792-1" id="4"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="の" sid="fuman-super-0001005792-1" id="5"/><rel type="ガ２" target="著者"/>
+ガッカリ がっかり ガッカリ 副詞 8 * 0 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-super-0001005792-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/18 MEMO:
+* 2D
++ 2D <rel type="ノ" target="トイレ" sid="fuman-super-0001005792-1" id="3"/>
+臭い におい 臭い 名詞 6 普通名詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="著者"/>
+気 き 気 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="臭い" sid="fuman-super-0001005792-2" id="0"/><rel type="ニ" target="気" sid="fuman-super-0001005792-2" id="1"/><rel type="ガ２" target="著者"/>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

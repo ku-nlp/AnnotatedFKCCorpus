@@ -1,0 +1,52 @@
+# S-ID:fuman-hospital-0000103334-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:28.00000 MOD:2020/08/13 MEMO:
+* 4D
++ 4D <rel type="ノ" target="不特定:人1"/>
+院長 いんちょう 院長 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2P
++ 2P <rel type="ノ？" target="不特定:人1"/>
+患者 かんじゃ 患者 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="不特定:人1"/>
+スタッフ すたっふ スタッフ 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="院長" sid="fuman-hospital-0000103334-1" id="0"/>
+態度 たいど 態度 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ２" target="院長" sid="fuman-hospital-0000103334-1" id="0"/><rel type="ニ" target="スタッフ" sid="fuman-hospital-0000103334-1" id="2"/><rel type="ニ" mode="AND" target="患者" sid="fuman-hospital-0000103334-1" id="1"/><rel type="ガ" target="態度" sid="fuman-hospital-0000103334-1" id="3"/>
+悪い わるい 悪い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0000103334-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/13 MEMO:
+* 1D
++ 1D <rel type="=" target="患者" sid="fuman-hospital-0000103334-1" id="1"/>
+患者 かんじゃ 患者 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="患者" sid="fuman-hospital-0000103334-2" id="0"/>
+前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 5P
++ 5P <rel type="ガ" target="院長" sid="fuman-hospital-0000103334-1" id="0"/><rel type="デ" target="前" sid="fuman-hospital-0000103334-2" id="1"/><rel type="ヲ" target="スタッフ" sid="fuman-hospital-0000103334-1" id="2"/>
+どなったり どなったり どなる 動詞 2 * 0 子音動詞ラ行 10 タ系連用タリ形 15
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 5D <rel type="ニ" target="院長" sid="fuman-hospital-0000103334-1" id="0"/><rel type="ガ" target="患者" sid="fuman-hospital-0000103334-1" id="1"/><rel type="ガ" mode="？" target="スタッフ" sid="fuman-hospital-0000103334-1" id="2"/>
+質問 しつもん 質問 名詞 6 サ変名詞 2 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="答える" sid="fuman-hospital-0000103334-2" id="5"/><rel type="ガ２" target="院長" sid="fuman-hospital-0000103334-1" id="0"/>
+めんどくさ めんどくさ めんどくさい 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
+そうに そうに そうだ 接尾辞 14 形容詞性述語接尾辞 5 ナ形容詞 21 ダ列基本連用形 7
+* -1D
++ -1D <rel type="ガ" target="院長" sid="fuman-hospital-0000103334-1" id="0"/><rel type="ニ" target="質問" sid="fuman-hospital-0000103334-2" id="3"/>
+答える こたえる 答える 動詞 2 * 0 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

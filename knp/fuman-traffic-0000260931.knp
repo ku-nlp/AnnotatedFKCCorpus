@@ -1,0 +1,92 @@
+# S-ID:fuman-traffic-0000260931-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-39.58107 MOD:2020/09/02 MEMO:
+* 8D
++ 1D
+信号 しんごう 信号 名詞 6 サ変名詞 2 * 0 * 0
++ 9D <rel type="ガ" target="著者"/><rel type="ヲ" target="信号" sid="fuman-traffic-0000260931-1" id="0"/>
+待ち まち 待ち 名詞 6 普通名詞 1 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+たら たら る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系条件形 13
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 3D <rel type="ノ" target="著者"/>
+隣 となり 隣 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 4D <rel type="ガ" target="車" sid="fuman-traffic-0000260931-1" id="4"/><rel type="ニ" target="隣" sid="fuman-traffic-0000260931-1" id="2"/>
+止まって とまって 止まる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+た た る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+* 5D
++ 6D
+車 くるま 車 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 6D
+女 おんな 女 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 7D
++ 8D <rel type="ノ？" target="車" sid="fuman-traffic-0000260931-1" id="4"/><rel type="修飾" target="女" sid="fuman-traffic-0000260931-1" id="5"/>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 8D
+タバコ たばこ タバコ 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 9D <rel type="ガ" target="人" sid="fuman-traffic-0000260931-1" id="6"/><rel type="ヲ" target="タバコ" sid="fuman-traffic-0000260931-1" id="7"/><rel type="デ" target="車" sid="fuman-traffic-0000260931-1" id="4"/>
+吸って すって 吸う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14
+* -1D
++ -1D <rel type="ガ" target="人" sid="fuman-traffic-0000260931-1" id="6"/><rel type="カラ" target="車" sid="fuman-traffic-0000260931-1" id="4"/><rel type="ヲ" target="タバコ" sid="fuman-traffic-0000260931-1" id="7"/>
+ポイ ぽい ポイ 副詞 8 * 0 * 0 * 0
+捨て すて 捨て 名詞 6 普通名詞 1 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+きた きた くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000260931-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-86.06428 MOD:2020/09/02 MEMO:
+* 8D
++ 8D <rel type="=" target="タバコ" sid="fuman-traffic-0000260931-1" id="7"/>
+タバコ たばこ タバコ 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="車" sid="fuman-traffic-0000260931-1" id="4"/>
+窓 まど 窓 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ヲ" target="窓" sid="fuman-traffic-0000260931-2" id="1"/><rel type="ガ" target="人" sid="fuman-traffic-0000260931-1" id="6"/>
+開けて ひらけて 開ける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+* 5D
++ 5D <rel type="ノ" target="車" sid="fuman-traffic-0000260931-1" id="4"/>
+外 がい 外 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="修飾" target="タバコ" sid="fuman-traffic-0000260931-2" id="0"/>
+灰 はい 灰 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 7D <rel type="ヲ" target="灰" sid="fuman-traffic-0000260931-2" id="4"/><rel type="ニ" target="外" sid="fuman-traffic-0000260931-2" id="3"/><rel type="ガ" target="人" sid="fuman-traffic-0000260931-1" id="6"/>
+捨てる すてる 捨てる 動詞 2 * 0 母音動詞 1 基本形 2
+だけ だけ だけ 助詞 9 副助詞 2 * 0 * 0
+でも でも でも 助詞 9 副助詞 2 * 0 * 0
+* 7D
++ 7D <rel type="ノ？" target="人" sid="fuman-traffic-0000260931-1" id="6"/>
+神経 しんけい 神経 名詞 6 普通名詞 1 * 0 * 0
+* 8D
++ 8D <rel type="ガ" target="著者"/><rel type="ヲ" target="神経" sid="fuman-traffic-0000260931-2" id="6"/><rel type="ニ" target="捨てる" sid="fuman-traffic-0000260931-2" id="5"/>
+疑う うたがう 疑う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 8
+* 10D
++ 10D <rel type="=" target="ポイ捨て" sid="fuman-traffic-0000260931-1" id="9"/><rel type="ヲ" target="タバコ" sid="fuman-traffic-0000260931-2" id="0"/><rel type="ガ" target="人" sid="fuman-traffic-0000260931-1" id="6"/>
+ポイ ぽい ポイ 副詞 8 * 0 * 0 * 0
+捨て すて 捨て 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:捨て-すて-捨てる-2-0-1-8"
+と と と 助詞 9 格助詞 1 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+* 10D
++ 10D
+常識 じょうしき 常識 名詞 6 普通名詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="常識" sid="fuman-traffic-0000260931-2" id="9"/><rel type="ガ２" target="人" sid="fuman-traffic-0000260931-1" id="6"/>
+な な ない 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
+さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0
+すぎる すぎる すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

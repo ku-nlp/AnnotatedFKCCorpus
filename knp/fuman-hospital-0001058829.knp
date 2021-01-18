@@ -1,0 +1,67 @@
+# S-ID:fuman-hospital-0001058829-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:50.00000 MOD:2020/08/13 MEMO:
+* 1D
++ 1D
+待合室 まちあいしつ 待合室 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="著者"/><rel type="デ" target="待合室" sid="fuman-hospital-0001058829-1" id="0"/><rel type="外の関係" target="時" sid="fuman-hospital-0001058829-1" id="2"/>
+待って まって 待つ 動詞 2 * 0 子音動詞タ行 6 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+* 7D
++ 8D <rel type="ノ" target="待ってる" sid="fuman-hospital-0001058829-1" id="1"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 8D <rel type="ノ" target="著者"/>
+子ども こども 子ども 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D <rel type="ガ" target="グズ" sid="fuman-hospital-0001058829-1" id="6"/>
+激しい はげしい 激しい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+* 6D
++ 6D
+寝 ね 寝 名詞 6 普通名詞 1 * 0 * 0
++ 7D <rel type="ガ" target="子ども" sid="fuman-hospital-0001058829-1" id="3"/><rel type="修飾" target="寝" sid="fuman-hospital-0001058829-1" id="5"/>
+グズ ぐず グズ 名詞 6 サ変名詞 2 * 0 * 0 "品詞変更:グズ-グズ-グズ-15-2-0-0"
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 7P
++ 8P <rel type="ガ" target="子ども" sid="fuman-hospital-0001058829-1" id="3"/><rel type="ヲ" target="グズ" sid="fuman-hospital-0001058829-1" id="6"/><rel type="時間" target="時" sid="fuman-hospital-0001058829-1" id="2"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+始め はじめ 始める 動詞 2 * 0 母音動詞 1 基本連用形 8
+* -1D
++ -1D <rel type="ガ" target="子ども" sid="fuman-hospital-0001058829-1" id="3"/><rel type="時間" target="時" sid="fuman-hospital-0001058829-1" id="2"/>
+落ち着か おちつか 落ち着く 動詞 2 * 0 子音動詞カ行 2 未然形 3
+なかった なかった ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 タ形 8
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001058829-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/13 MEMO:
+* 1D
++ 1D <rel type="ノ" target="待合室" sid="fuman-hospital-0001058829-1" id="0"/>
+外 そと 外 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 2P
++ 2P <rel type="ニ" target="外" sid="fuman-hospital-0001058829-2" id="0"/><rel type="ガ" target="著者"/><rel type="ガ" mode="AND" target="子ども" sid="fuman-hospital-0001058829-1" id="3"/>
+出たり でたり 出る 動詞 2 * 0 母音動詞 1 タ系連用タリ形 15
+* 3D
++ 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="子ども" sid="fuman-hospital-0001058829-1" id="3"/>
+抱っこ だっこ 抱っこ 名詞 6 サ変名詞 2 * 0 * 0
+したり したり する 動詞 2 * 0 サ変動詞 16 タ系連用タリ形 15
+して して する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ系連用テ形 14
+* 6P
++ 6P <rel type="ガ" target="著者"/>
+大変だ たいへんだ 大変だ 形容詞 3 * 0 ナ形容詞 21 基本形 2
+し し し 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="著者"/>
+周り まわり 周り 名詞 6 普通名詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 6D <rel type="カラ" target="周り" sid="fuman-hospital-0001058829-2" id="4"/><rel type="ヘ" target="子ども" sid="fuman-hospital-0001058829-1" id="3"/><rel type="ヘ" mode="AND" target="著者"/>
+視線 しせん 視線 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="視線" sid="fuman-hospital-0001058829-2" id="5"/><rel type="ガ２" target="著者"/>
+痛かった いたかった 痛い 形容詞 3 * 0 イ形容詞アウオ段 18 タ形 8
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

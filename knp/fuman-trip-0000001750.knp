@@ -1,0 +1,98 @@
+# S-ID:fuman-trip-0000001750-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-8.82817 MOD:2020/08/31 MEMO:
+* 1D
++ 1D <rel type="ノ" target="不特定:人1"/>
+店員 てんいん 店員 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="店員" sid="fuman-trip-0000001750-1" id="0"/>
+態度 たいど 態度 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="態度" sid="fuman-trip-0000001750-1" id="1"/>
+悪い わるい 悪い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-trip-0000001750-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-71.55313 MOD:2020/08/31 MEMO:
+* 1D
++ 2D <rel type="ガ" target="品" sid="fuman-trip-0000001750-2" id="2"/>
+たくさんの たくさんの たくさんだ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4
+* 2D
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="品" sid="fuman-trip-0000001750-2" id="2"/>
+試食 ししょく 試食 名詞 6 サ変名詞 2 * 0 * 0
++ 3D <rel type="修飾" target="たくさんの" sid="fuman-trip-0000001750-2" id="0"/>
+品 ひん 品 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 7D <rel type="ヲ" target="品" sid="fuman-trip-0000001750-2" id="2"/><rel type="ガ" target="不特定:人1"/><rel type="ニ" target="不特定:物1"/>
+置いて おいて 置く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+から から から 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 5D <rel type="外の関係" target="の" sid="fuman-trip-0000001750-2" id="5"/><rel type="ガ" target="不特定:物1"/><rel type="デ" target="不特定:人"/>
+込み こみ 込む 動詞 2 * 0 子音動詞マ行 9 基本連用形 8
+合う あう 合う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
++ 7D <rel type="トイウ" target="込み合う" sid="fuman-trip-0000001750-2" id="4"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 5D
++ 7D <rel type="ガ" target="事" sid="fuman-trip-0000001750-2" id="7"/>
+当然の とうぜんの 当然だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4
+* -1D
++ -1D <rel type="ガ" target="の" sid="fuman-trip-0000001750-2" id="5"/><rel type="=構" target="の" sid="fuman-trip-0000001750-2" id="5"/><rel type="カラ" target="置いている" sid="fuman-trip-0000001750-2" id="3"/>
+事 こと 事 名詞 6 普通名詞 1 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-trip-0000001750-3 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-104.01998 MOD:2020/08/31 MEMO:
+* 3D
++ 3D <rel type="=" target="著者"/>
+こっち こっち こっち 指示詞 7 名詞形態指示詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="こっち" sid="fuman-trip-0000001750-3" id="0"/>
+楽しく たのしく 楽しい 形容詞 3 * 0 イ形容詞イ段 19 基本連用形 7
+* 3D
++ 3D <rel type="ガ" target="こっち" sid="fuman-trip-0000001750-3" id="0"/><rel type="ヲ" target="品" sid="fuman-trip-0000001750-2" id="2"/><rel type="=≒" target="試食" sid="fuman-trip-0000001750-2" id="1"/>
+試食 ししょく 試食 名詞 6 サ変名詞 2 * 0 * 0
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+ながら ながら ながら 助詞 9 接続助詞 3 * 0 * 0
+* 11D
++ 12D <rel type="ガ" target="こっち" sid="fuman-trip-0000001750-3" id="0"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="不特定:物1"/>
+選んで えらんで 選ぶ 動詞 2 * 0 子音動詞バ行 8 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 5D <rel type="ノ？" target="不特定:人1"/>
+商品 しょうひん 商品 名詞 6 普通名詞 1 * 0 * 0
++ 6D <rel type="ヲ" target="商品" sid="fuman-trip-0000001750-3" id="4"/><rel type="ガ" target="店員" sid="fuman-trip-0000001750-1" id="0"/><rel type="ニ" target="不特定:物1"/>
+補充 ほじゅう 補充 名詞 6 サ変名詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 8D
++ 9D <rel type="ノ" target="補充" sid="fuman-trip-0000001750-3" id="5"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 8D <rel type="ガ" target="顔" sid="fuman-trip-0000001750-3" id="8"/><rel type="ガ２" target="店員" sid="fuman-trip-0000001750-1" id="0"/>
+嫌な いやな 嫌だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3
+* 8D
++ 9D <rel type="ノ" target="店員" sid="fuman-trip-0000001750-1" id="0"/>
+顔 かお 顔 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 11D
++ 12D <rel type="ヲ" target="顔" sid="fuman-trip-0000001750-3" id="8"/><rel type="ガ" target="こっち" sid="fuman-trip-0000001750-3" id="0"/><rel type="時間" target="時" sid="fuman-trip-0000001750-3" id="6"/><rel type="ニ" target="店員" sid="fuman-trip-0000001750-1" id="0"/>
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 10D
++ 11D <rel type="ガ" target="こっち" sid="fuman-trip-0000001750-3" id="0"/><rel type="外の関係" target="気" sid="fuman-trip-0000001750-3" id="11"/><rel type="ヲ" target="商品" sid="fuman-trip-0000001750-3" id="4"/><rel type="デ" target="不特定:物1"/>
+買う かう 買う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+* 11D
++ 12D <rel type="トイウ" target="買う" sid="fuman-trip-0000001750-3" id="10"/><rel type="ノ" target="こっち" sid="fuman-trip-0000001750-3" id="0"/>
+気 き 気 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="気" sid="fuman-trip-0000001750-3" id="11"/><rel type="ガ２" target="こっち" sid="fuman-trip-0000001750-3" id="0"/>
+なくなる なくなる なくなる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

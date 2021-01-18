@@ -1,0 +1,75 @@
+# S-ID:fuman-it-0001030251-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:60.00000 MOD:2020/08/24 MEMO:
+* 2D
++ 1D <rel type="ガ" target="著者"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="文" sid="fuman-it-0001030251-1" id="1"/><rel type="ヲ" target="不特定:状況"/>
+説明 せつめい 説明 名詞 6 サ変名詞 2 * 0 * 0
++ 4D <rel type="修飾" target="説明" sid="fuman-it-0001030251-1" id="0"/>
+文 ぶん 文 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="著者"/><rel type="ニ" target="不特定:人"/><rel type="ヲ" target="不特定:物1"/><rel type="デ" target="方法" sid="fuman-it-0001030251-1" id="3"/>
+発送 はっそう 発送 名詞 6 サ変名詞 2 * 0 * 0
++ 4D <rel type="ノ" target="発送" sid="fuman-it-0001030251-1" id="2"/>
+方法 ほうほう 方法 名詞 6 普通名詞 1 * 0 * 0
+* 9D
++ 13D <rel type="ニ" target="文" sid="fuman-it-0001030251-1" id="1"/><rel type="ガ" target="方法" sid="fuman-it-0001030251-1" id="3"/>
+書いて かいて 書く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
+のに のに のに 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+落札 らくさつ 落札 名詞 6 サ変名詞 2 * 0 * 0
++ 8D <rel type="ノ" target="落札" sid="fuman-it-0001030251-1" id="5"/>
+後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 7D
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ト" target="不特定:人"/><rel type="外の関係" target="ナビ" sid="fuman-it-0001030251-1" id="8"/>
+取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0
++ 11D <rel type="ノ" target="取引" sid="fuman-it-0001030251-1" id="7"/><rel type="修飾" target="後" sid="fuman-it-0001030251-1" id="6"/>
+ナビ なび ナビ 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 11D
+いちいち いちいち いちいち 副詞 8 * 0 * 0 * 0
+* 7D
++ 11D <rel type="ガ" target="人" sid="fuman-it-0001030251-1" id="12"/><rel type="ニ" target="著者"/><rel type="ヲ" target="方法" sid="fuman-it-0001030251-1" id="3"/>
+注文 ちゅうもん 注文 名詞 6 サ変名詞 2 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 12D <rel type="ヲ" target="注文" sid="fuman-it-0001030251-1" id="10"/><rel type="ガ" target="人" sid="fuman-it-0001030251-1" id="12"/><rel type="ニ" target="著者"/><rel type="ニツイテ" target="方法" sid="fuman-it-0001030251-1" id="3"/><rel type="デ" target="ナビ" sid="fuman-it-0001030251-1" id="8"/>
+つけて つけて つける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+くる くる くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 基本形 2
+* 9D
++ 13D <rel type="修飾" target="つけてくる" sid="fuman-it-0001030251-1" id="11"/>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="人" sid="fuman-it-0001030251-1" id="12"/>
+不満 ふまん 不満だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-it-0001030251-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/23 MEMO:
+* 1D
++ 1D
+説明 せつめい 説明 名詞 6 サ変名詞 2 * 0 * 0
++ 2D <rel type="=" target="文" sid="fuman-it-0001030251-1" id="1"/>
+文 ぶん 文 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 3D <rel type="=" target="方法" sid="fuman-it-0001030251-1" id="3"/><rel type="ノ" target="文" sid="fuman-it-0001030251-2" id="1"/>
+方法 ほうほう 方法 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 4D <rel type="ニ" target="方法" sid="fuman-it-0001030251-2" id="2"/><rel type="ガ" target="人" sid="fuman-it-0001030251-1" id="12"/>
+従え したがえ 従える 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+の の のだ 助動詞 5 * 0 ナ形容詞 21 語幹 1
+なら なら なら 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="人" sid="fuman-it-0001030251-1" id="12"/><rel type="ヲ" target="不特定:物1"/><rel type="=≒" target="落札" sid="fuman-it-0001030251-1" id="5"/>
+落札 らくさつ 落札 名詞 6 サ変名詞 2 * 0 * 0
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+ないで ないで ぬ 助動詞 5 * 0 助動詞ぬ型 27 タ系連用テ形 9
+くれ くれ くれ 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 "品詞変更:くれ-くれ-くれる-14-7-1-8"
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

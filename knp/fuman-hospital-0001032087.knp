@@ -1,0 +1,27 @@
+# S-ID:fuman-hospital-0001032087-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:0.00000 MOD:2020/08/10 MEMO:
+* 2D
++ 3D
+年寄り としより 年寄り 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 3D
+毎日 まいにち 毎日 名詞 6 時相名詞 10 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ 3D
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
++ -1D <rel type="ガ" target="年寄り" sid="fuman-hospital-0001032087-1" id="0"/><rel type="ニ" target="病院" sid="fuman-hospital-0001032087-1" id="2"/><rel type="時間" target="毎日" sid="fuman-hospital-0001032087-1" id="1"/>
+通い がよい 通い 名詞 6 普通名詞 1 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001032087-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:0.00000 MOD:2020/08/10 MEMO:
+* 1D
++ 1D <rel type="ガ" target="年寄り" sid="fuman-hospital-0001032087-1" id="0"/>
+歳 とし 歳 名詞 6 普通名詞 1 * 0 * 0
+だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2
+から から から 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="通い" sid="fuman-hospital-0001032087-1" id="3"/><rel type="ガ" mode="？" target="不特定:状況"/>
+しょうがない しょうがない しょうがない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

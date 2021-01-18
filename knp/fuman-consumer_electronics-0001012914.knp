@@ -1,0 +1,51 @@
+# S-ID:fuman-consumer_electronics-0001012914-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:18.00000 MOD:2020/08/24 MEMO:
+* 3D
++ 1D
+一 いち 一 名詞 6 数詞 7 * 0 * 0
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
++ 4D
+中 じゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+* 2D
++ 3D <rel type="ノ？" target="著者"/>
+パソコン ぱそこん パソコン 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 4D <rel type="ノ" target="パソコン" sid="fuman-consumer_electronics-0001012914-1" id="2"/>
+画面 がめん 画面 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D <rel type="ガ" target="著者"/><rel type="ヲ" target="画面" sid="fuman-consumer_electronics-0001012914-1" id="3"/><rel type="時間" target="中" sid="fuman-consumer_electronics-0001012914-1" id="1"/>
+見て みて 見る 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 6D
+めまい めまい めまい 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="めまい" sid="fuman-consumer_electronics-0001012914-1" id="5"/><rel type="ガ２" target="著者"/>
+起きた おきた 起きる 動詞 2 * 0 母音動詞 1 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001012914-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/24 MEMO:
+* 1D
++ 1D
+半日 はんにち 半日 名詞 6 時相名詞 10 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="著者"/><rel type="時間" target="半日" sid="fuman-consumer_electronics-0001012914-2" id="0"/>
+寝て ねて 寝る 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 4D
+まだ まだ まだ 副詞 8 * 0 * 0 * 0
+* 4D
++ 4D <rel type="=≒" target="めまい" sid="fuman-consumer_electronics-0001012914-1" id="5"/><rel type="ガ" target="著者"/>
+ふらつき ふらつき ふらつき 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="ふらつき" sid="fuman-consumer_electronics-0001012914-2" id="3"/><rel type="ガ２" target="著者"/>
+残って のこって 残る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

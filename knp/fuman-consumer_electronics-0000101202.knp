@@ -1,0 +1,36 @@
+# S-ID:fuman-consumer_electronics-0000101202-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/17 MEMO:
+* 2D
++ 2D
+ゴミ ごみ ゴミ 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D
+常に つねに 常に 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="ゴミ" sid="fuman-consumer_electronics-0000101202-1" id="0"/><rel type="ニ" target="不特定:物1"/><rel type="外の関係" target="不特定:物2"/>
+絡まる からまる 絡まる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0000101202-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/17 MEMO:
+* 1D
++ 1D
+ヘッド へっど ヘッド 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="修飾" target="ヘッド" sid="fuman-consumer_electronics-0000101202-2" id="0"/><rel type="=構" target="ヘッド" sid="fuman-consumer_electronics-0000101202-2" id="0"/><rel type="ノ" target="不特定:物2"/>
+部分 ぶぶん 部分 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="部分" sid="fuman-consumer_electronics-0000101202-2" id="1"/><rel type="外の関係" target="気" sid="fuman-consumer_electronics-0000101202-2" id="3"/>
+回転 かいてん 回転 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+* 3D
++ 4D <rel type="トイウ" target="回転していない" sid="fuman-consumer_electronics-0000101202-2" id="2"/><rel type="ノ" target="著者"/>
+気 き 気 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="気" sid="fuman-consumer_electronics-0000101202-2" id="3"/><rel type="ガ２" target="著者"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+ます ます ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,85 @@
+# S-ID:fuman-consumer_electronics-0001005216-1 KNP:4.2-75a8fa27 DATE:2020/06/17 SCORE:38.00000 MOD:2020/08/21 MEMO:
+* 1D
++ 1D
+アイロン あいろん アイロン 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="アイロン" sid="fuman-consumer_electronics-0001005216-1" id="0"/>
+電源 でんげん 電源 名詞 6 普通名詞 1 * 0 * 0
+* 5D
++ 6D <rel type="ヲ" target="電源" sid="fuman-consumer_electronics-0001005216-1" id="1"/><rel type="ガ" target="著者"/>
+切った きった 切る 動詞 2 * 0 子音動詞ラ行 10 タ形 10
+か か か 助詞 9 接続助詞 3 * 0 * 0
+どう どう どう 指示詞 7 副詞形態指示詞 3 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 4D <rel type="ガ" target="著者"/><rel type="外の関係" target="先" sid="fuman-consumer_electronics-0001005216-1" id="4"/>
+外出 がいしゅつ 外出 名詞 6 サ変名詞 2 * 0 * 0
++ 6D <rel type="ノ" target="外出" sid="fuman-consumer_electronics-0001005216-1" id="3"/>
+先 さき 先 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D
+気 き 気 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 8D <rel type="ニ" target="気" sid="fuman-consumer_electronics-0001005216-1" id="5"/><rel type="ガ２" target="著者"/><rel type="ガ" target="切ったかどうか" sid="fuman-consumer_electronics-0001005216-1" id="2"/><rel type="デ" target="先" sid="fuman-consumer_electronics-0001005216-1" id="4"/>
+なり なり なる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+だす だす だす 動詞 2 * 0 子音動詞サ行 5 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 8D <rel type="ガ" target="著者"/>
+不安で ふあんで 不安だ 形容詞 3 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ" target="著者"/>
+たまら たまら たまる 動詞 2 * 0 子音動詞ラ行 10 未然形 3
+なく なく ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001005216-2 KNP:4.2-75a8fa27 DATE:2020/06/17 SCORE:50.00000 MOD:2020/08/27 MEMO:
+* 1D
++ 1D <rel type="=" target="アイロン" sid="fuman-consumer_electronics-0001005216-1" id="0"/>
+アイロン あいろん アイロン 名詞 6 普通名詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ヲ" target="アイロン" sid="fuman-consumer_electronics-0001005216-2" id="0"/><rel type="ガ" target="著者"/><rel type="=" target="切った" sid="fuman-consumer_electronics-0001005216-1" id="2"/><rel type="外の関係" target="後" sid="fuman-consumer_electronics-0001005216-2" id="2"/>
+切った きった 切る 動詞 2 * 0 子音動詞ラ行 10 タ形 10
+* 9D
++ 9D <rel type="ノ" target="切った" sid="fuman-consumer_electronics-0001005216-2" id="1"/>
+後 あと 後 名詞 6 副詞的名詞 9 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="アイロン" sid="fuman-consumer_electronics-0001005216-2" id="0"/>
+余熱 よねつ 余熱 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 9D <rel type="ガ" target="余熱" sid="fuman-consumer_electronics-0001005216-2" id="3"/>
+もったいない もったいない もったいない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+* 6D
++ 6D
+鉄 てつ 鉄 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 9D
++ 9D <rel type="ノ" target="アイロン" sid="fuman-consumer_electronics-0001005216-2" id="0"/><rel type="修飾" target="鉄" sid="fuman-consumer_electronics-0001005216-2" id="5"/>
+面 めん 面 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 8D
+布 ぬの 布 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 9D <rel type="ニ" target="布" sid="fuman-consumer_electronics-0001005216-2" id="7"/><rel type="ガ" target="著者"/><rel type="ヲ" target="面" sid="fuman-consumer_electronics-0001005216-2" id="6"/>
+当て あて 当て 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:当て-あて-当てる-2-0-1-8"
+っぱなし っぱなし っぱなし 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:っぱなし-っぱなし-っぱなす-2-0-5-8"
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="面" sid="fuman-consumer_electronics-0001005216-2" id="6"/><rel type="ニ" target="当てっぱなし" sid="fuman-consumer_electronics-0001005216-2" id="8"/><rel type="判ガ" target="たまらなくなる" sid="fuman-consumer_electronics-0001005216-1" id="8"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+から から から 助詞 9 接続助詞 3 * 0 * 0
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,51 @@
+# S-ID:fuman-traffic-0000107153-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-94.63493 MOD:2020/09/03 MEMO:
+* 1D
++ 1D <NE:LOCATION:名古屋市>
+名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0
+内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 7D <rel type="ノ？" target="名古屋市内" sid="fuman-traffic-0000107153-1" id="0"/>
+道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 3D
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0
++ 7D <rel type="修飾" target="バス" sid="fuman-traffic-0000107153-1" id="2"/><rel type="ノ" target="道路" sid="fuman-traffic-0000107153-1" id="1"/>
+レーン れーん レーン 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D
+右折 うせつ 右折 名詞 6 サ変名詞 2 * 0 * 0
++ 7D <rel type="修飾" target="右折" sid="fuman-traffic-0000107153-1" id="4"/><rel type="ノ" target="道路" sid="fuman-traffic-0000107153-1" id="1"/><rel type="=≒" target="レーン" sid="fuman-traffic-0000107153-1" id="3"/>
+レーン れーん レーン 名詞 6 普通名詞 1 * 0 * 0
+より より より 助詞 9 格助詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 5D
++ 7D
+右 みぎ 右 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 11D <rel type="ガ" target="レーン" sid="fuman-traffic-0000107153-1" id="3"/><rel type="ニ" target="右" sid="fuman-traffic-0000107153-1" id="6"/><rel type="ヨリ" target="レーン" sid="fuman-traffic-0000107153-1" id="5"/><rel type="デ" target="道路" sid="fuman-traffic-0000107153-1" id="1"/>
+あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 9D <rel type="=" target="道路" sid="fuman-traffic-0000107153-1" id="1"/>
+道 みち 道 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 11D <rel type="ニ" target="道" sid="fuman-traffic-0000107153-1" id="8"/><rel type="ガ" target="著者"/><rel type="ガ" mode="？" target="不特定:人"/>
+慣れて なれて 慣れる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 11D <rel type="ガ" target="道" sid="fuman-traffic-0000107153-1" id="8"/>
+複雑で ふくざつで 複雑だ 形容詞 3 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+* -1D
++ -1D <rel type="ヲ" target="道" sid="fuman-traffic-0000107153-1" id="8"/><rel type="ガ" target="著者"/><rel type="ガ" mode="？" target="不特定:人"/>
+走り はしり 走る 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+にくい にくい にくい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

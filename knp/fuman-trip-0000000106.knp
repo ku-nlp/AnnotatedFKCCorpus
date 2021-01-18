@@ -1,0 +1,54 @@
+# S-ID:fuman-trip-0000000106-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-49.06743 MOD:2020/08/26 MEMO:
+* 1D
++ 1D
+お お お 接頭辞 13 名詞接頭辞 1 * 0 * 0
+店 みせ 店 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 3D <rel type="ノ" target="お店" sid="fuman-trip-0000000106-1" id="0"/>
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 3D
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="人" sid="fuman-trip-0000000106-1" id="2"/><rel type="ニ" target="中" sid="fuman-trip-0000000106-1" id="1"/>
+多 おお 多い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
+すぎて すぎて すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+* 5D
++ 5D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="中" sid="fuman-trip-0000000106-1" id="1"/>
+試食 ししょく 試食 名詞 6 サ変名詞 2 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="試食" sid="fuman-trip-0000000106-1" id="4"/>
+あきらめた あきらめた あきらめる 動詞 2 * 0 母音動詞 1 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-trip-0000000106-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-29.86468 MOD:2020/08/26 MEMO:
+* 1D
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="所" sid="fuman-trip-0000000106-2" id="1"/><rel type="ニ" target="不特定:人"/>
+直売 ちょくばい 直売 名詞 6 サ変名詞 2 * 0 * 0
++ 3D <rel type="=" target="お店" sid="fuman-trip-0000000106-1" id="0"/><rel type="ノ？" target="直売" sid="fuman-trip-0000000106-2" id="0"/>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0
+ならでは ならでは ならでは 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="品" sid="fuman-trip-0000000106-2" id="3"/><rel type="ニ" target="不特定:人"/>
+お お お 接頭辞 13 名詞接頭辞 1 * 0 * 0
+買い得 かいどく 買い得 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="修飾" target="所" sid="fuman-trip-0000000106-2" id="1"/>
+品 ひん 品 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 5D <rel type="ガ" target="品" sid="fuman-trip-0000000106-2" id="3"/><rel type="外の関係" target="気" sid="fuman-trip-0000000106-2" id="5"/><rel type="ニ" target="お店" sid="fuman-trip-0000000106-1" id="0"/>
+少なかった すくなかった 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 タ形 8
+* 4D
++ 6D <rel type="トイウ" target="少なかった" sid="fuman-trip-0000000106-2" id="4"/><rel type="ノ" target="著者"/>
+気 き 気 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="気" sid="fuman-trip-0000000106-2" id="5"/><rel type="ガ２" target="著者"/>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

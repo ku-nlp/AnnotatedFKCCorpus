@@ -1,0 +1,54 @@
+# S-ID:fuman-consumer_electronics-0001002062-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:53.00000 MOD:2020/08/19 MEMO:
+* 1P
++ 1P <rel type="ガ" target="不特定:物1"/>
+小さくて ちいさくて 小さい 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+* 4D
++ 4D <rel type="ガ" target="不特定:物1"/>
+可愛い かわいい 可愛い 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+し し し 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物1"/><rel type="外の関係" target="勝手" sid="fuman-consumer_electronics-0001002062-1" id="3"/>
+使い つかい 使う 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8
+* 4D
++ 4D <rel type="修飾" target="使い" sid="fuman-consumer_electronics-0001002062-1" id="2"/>
+勝手 がって 勝手だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="勝手" sid="fuman-consumer_electronics-0001002062-1" id="3"/><rel type="ガ２" target="不特定:物1"/>
+いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+けど けど けど 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 6D <rel type="ノ" target="不特定:物1"/>
+音 おと 音 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="音" sid="fuman-consumer_electronics-0001002062-1" id="5"/><rel type="ガ２" target="不特定:物1"/>
+うるさ うるさ うるさい 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
+すぎる すぎる すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001002062-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:60.00000 MOD:2020/08/27 MEMO:
+* 3D
++ 1D
+夜 よる 夜 名詞 6 時相名詞 10 * 0 * 0
++ 5D
+遅く おそく 遅い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+に に に 助詞 9 格助詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 2D
++ 3D <rel type="ノ" target="著者"/>
+近所 きんじょ 近所 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="ニ" target="近所" sid="fuman-consumer_electronics-0001002062-2" id="2"/><rel type="ガ" target="音" sid="fuman-consumer_electronics-0001002062-1" id="5"/>
+迷惑 めいわく 迷惑だだ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 5D <rel type="ガ" target="音" sid="fuman-consumer_electronics-0001002062-1" id="5"/><rel type="ニ" target="迷惑" sid="fuman-consumer_electronics-0001002062-2" id="3"/>
+なり なり なる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+そうで そうで そうだ 接尾辞 14 形容詞性述語接尾辞 5 ナ形容詞 21 ダ列タ系連用テ形 12
+* -1D
++ -1D <rel type="時間" target="遅く" sid="fuman-consumer_electronics-0001002062-2" id="1"/><rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物1"/>
+使え つかえ 使える 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

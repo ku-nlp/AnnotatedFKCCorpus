@@ -1,0 +1,65 @@
+# S-ID:fuman-consumer_electronics-0001006629-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:50.00000 MOD:2020/08/21 MEMO:
+* 1D
++ 3D <rel type="ガ" target="器" sid="fuman-consumer_electronics-0001006629-1" id="3"/>
+大型の おおがたの 大型だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4
+* 2D
++ 3D
+プラズマ ぷらずま プラズマ 名詞 6 普通名詞 1 * 0 * 0
++ 3D
+加湿 かしつ 加湿 名詞 6 サ変名詞 2 * 0 * 0
++ 4D <rel type="修飾" target="プラズマ" sid="fuman-consumer_electronics-0001006629-1" id="1"/><rel type="ノ？" target="加湿" sid="fuman-consumer_electronics-0001006629-1" id="2"/>
+器 き 器 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 10D <rel type="ガ" target="著者"/><rel type="ヲ" target="器" sid="fuman-consumer_electronics-0001006629-1" id="3"/>
+利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+た た る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+が が が 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 8D
+水垢 みずあか 水垢 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 7D <rel type="ノ" target="器" sid="fuman-consumer_electronics-0001006629-1" id="3"/>
+奥 おく 奥 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 8D <rel type="ノ" target="奥" sid="fuman-consumer_electronics-0001006629-1" id="6"/>
+方 ほう 方 名詞 6 普通名詞 1 * 0 * 0
+まで まで まで 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 10D <rel type="ガ" target="水垢" sid="fuman-consumer_electronics-0001006629-1" id="5"/><rel type="マデ" target="方" sid="fuman-consumer_electronics-0001006629-1" id="7"/>
+こびりついて こびりついて こびりつく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+しまって しまって しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 タ系連用テ形 14
+* 8D
++ 10D <rel type="ガ" target="著者"/><rel type="ヲ" target="水垢" sid="fuman-consumer_electronics-0001006629-1" id="5"/><rel type="ヲ" mode="？" target="器" sid="fuman-consumer_electronics-0001006629-1" id="3"/>
+掃除 そうじ 掃除 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="掃除" sid="fuman-consumer_electronics-0001006629-1" id="9"/><rel type="ガ２" target="著者"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+づらい づらい づらい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001006629-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/21 MEMO:
+* 3D
++ 3D <rel type="ヲ" target="水垢" sid="fuman-consumer_electronics-0001006629-1" id="5"/><rel type="ガ" target="著者"/>
+放置 ほうち 放置 名詞 6 サ変名詞 2 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="ミスト" sid="fuman-consumer_electronics-0001006629-2" id="2"/><rel type="カラ" target="器" sid="fuman-consumer_electronics-0001006629-1" id="3"/>
+出て でて 出る 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+くる くる くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D
+ミスト みすと ミスト 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="ミスト" sid="fuman-consumer_electronics-0001006629-2" id="2"/>
+臭く くさく 臭い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

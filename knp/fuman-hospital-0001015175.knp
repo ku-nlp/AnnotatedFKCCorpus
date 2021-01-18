@@ -1,0 +1,52 @@
+# S-ID:fuman-hospital-0001015175-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:40.00000 MOD:2020/08/03 MEMO:
+* 2D
++ 2D <rel type="ノ" target="不特定:物1"/>
+受付 うけつけ 受付 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D
+症状 しょうじょう 症状 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 7P
++ 7P <rel type="ガ" target="著者"/><rel type="ヲ" target="症状" sid="fuman-hospital-0001015175-1" id="1"/><rel type="デ" target="受付" sid="fuman-hospital-0001015175-1" id="0"/><rel type="ニ" target="受付" sid="fuman-hospital-0001015175-1" id="0"/>
+聞か きか 聞く 動詞 2 * 0 子音動詞カ行 2 未然形 3
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+が が が 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D
+大きな おおきな 大きな 連体詞 11 * 0 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="受付" sid="fuman-hospital-0001015175-1" id="0"/>
+声 こえ 声 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 7D <rel type="ガ" target="著者"/><rel type="デ" target="声" sid="fuman-hospital-0001015175-1" id="4"/><rel type="ニ" target="受付" sid="fuman-hospital-0001015175-1" id="0"/>
+話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+* 7D
++ 7D
+みんな みんな みんな 副詞 8 * 0 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ニ" target="みんな" sid="fuman-hospital-0001015175-1" id="6"/><rel type="ガ" target="話される" sid="fuman-hospital-0001015175-1" id="5"/>
+聞こえて きこえて 聞こえる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001015175-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/14 MEMO:
+* 1D
++ 1D
+プライバシー ぷらいばしー プライバシー 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ニ" target="プライバシー" sid="fuman-hospital-0001015175-2" id="0"/><rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="？" target="受付" sid="fuman-hospital-0001015175-1" id="0"/>
+配慮 はいりょ 配慮 名詞 6 サ変名詞 2 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="配慮" sid="fuman-hospital-0001015175-2" id="1"/><rel type="ニ" target="不特定:人1"/><rel type="ニ" mode="？" target="受付" sid="fuman-hospital-0001015175-1" id="0"/>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

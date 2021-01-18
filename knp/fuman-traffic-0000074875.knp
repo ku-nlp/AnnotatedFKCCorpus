@@ -1,0 +1,37 @@
+# S-ID:fuman-traffic-0000074875-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-30.91369 MOD:2020/09/03 MEMO:
+* 1D
++ 1D <rel type="ノ？" target="著者"/>
+車 くるま 車 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="著者"/><rel type="ヲ" target="車" sid="fuman-traffic-0000074875-1" id="0"/><rel type="外の関係" target="とき" sid="fuman-traffic-0000074875-1" id="2"/>
+運転 うんてん 運転 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+* 5D
++ 5D <rel type="ノ" target="運転している" sid="fuman-traffic-0000074875-1" id="1"/>
+とき とき とき 名詞 6 副詞的名詞 9 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D
+自転車 じてんしゃ 自転車 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="自転車" sid="fuman-traffic-0000074875-1" id="3"/>
+動き うごき 動き 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:動き-うごき-動く-2-0-2-8"
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="動き" sid="fuman-traffic-0000074875-1" id="4"/><rel type="ガ２" target="著者"/><rel type="時間" target="とき" sid="fuman-traffic-0000074875-1" id="2"/>
+怖い こわい 怖い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000074875-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-15.57369 MOD:2020/09/03 MEMO:
+* 1D
++ 1D
+急に きゅうに 急だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8
+* -1D
++ -1D <rel type="ガ" target="自転車" sid="fuman-traffic-0000074875-1" id="3"/><rel type="=≒" target="動き" sid="fuman-traffic-0000074875-1" id="4"/>
+曲がったり まがったり 曲がる 動詞 2 * 0 子音動詞ラ行 10 タ系連用タリ形 15
+する する する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,72 @@
+# S-ID:fuman-consumer_electronics-0001001836-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:16.00000 MOD:2020/08/19 MEMO:
+* 1D
++ 1D
+スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="スマホ" sid="fuman-consumer_electronics-0001001836-1" id="0"/>
+画面 がめん 画面 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="著者"/><rel type="ヲ" target="画面" sid="fuman-consumer_electronics-0001001836-1" id="1"/>
+見て みて 見る 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="目" sid="fuman-consumer_electronics-0001001836-1" id="4"/>
+寄り より 寄り 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:寄り-より-寄る-2-0-10-8"
++ 5D <rel type="修飾" target="寄り" sid="fuman-consumer_electronics-0001001836-1" id="3"/><rel type="ノ" target="著者"/>
+目 め 目 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 7D <rel type="ガ" target="著者"/><rel type="ニ" target="目" sid="fuman-consumer_electronics-0001001836-1" id="4"/>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 7D
+とても とても とても 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/>
+疲れ つかれ 疲れる 動詞 2 * 0 母音動詞 1 基本連用形 8
+ます ます ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001001836-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:38.00000 MOD:2020/08/27 MEMO:
+* 1D
++ 1D <rel type="=" target="スマホ" sid="fuman-consumer_electronics-0001001836-1" id="0"/>
+スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ヲ" target="スマホ" sid="fuman-consumer_electronics-0001001836-2" id="0"/><rel type="ガ" target="著者"/><rel type="デ" target="手" sid="fuman-consumer_electronics-0001001836-2" id="2"/>
+持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2
+* 3P
++ 3P <rel type="ノ" target="著者"/><rel type="修飾" target="持つ" sid="fuman-consumer_electronics-0001001836-2" id="1"/>
+手 て 手 名詞 6 普通名詞 1 * 0 * 0
+や や や 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="著者"/>
+肩 かた 肩 名詞 6 普通名詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 7D
++ 9D <rel type="ガ" target="手" sid="fuman-consumer_electronics-0001001836-2" id="2"/><rel type="ガ" mode="AND" target="肩" sid="fuman-consumer_electronics-0001001836-2" id="3"/><rel type="ガ２" target="著者"/>
+凝る こる 凝る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="時間" sid="fuman-consumer_electronics-0001001836-2" id="6"/>
+長 ちょう 長 接頭辞 13 名詞接頭辞 1 * 0 * 0
++ 7D <rel type="修飾" target="長" sid="fuman-consumer_electronics-0001001836-2" id="5"/>
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
+* 7D
++ 8D <rel type="ガ" target="著者"/><rel type="ヲ" target="スマホ" sid="fuman-consumer_electronics-0001001836-2" id="0"/><rel type="時間" target="時間" sid="fuman-consumer_electronics-0001001836-2" id="6"/><rel type="外の関係" target="の" sid="fuman-consumer_electronics-0001001836-2" id="8"/>
+使う つかう 使う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
++ 9D <rel type="トイウ" target="使う" sid="fuman-consumer_electronics-0001001836-2" id="7"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="の" sid="fuman-consumer_electronics-0001001836-2" id="8"/>
+困難です こんなんです 困難だ 形容詞 3 * 0 ナ形容詞 21 デス列基本形 29
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

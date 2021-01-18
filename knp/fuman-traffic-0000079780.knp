@@ -1,0 +1,27 @@
+# S-ID:fuman-traffic-0000079780-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-6.93294 MOD:2020/09/03 MEMO:
+* 1D
++ 1D
+高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
++ 2D <rel type="ノ" target="高速" sid="fuman-traffic-0000079780-1" id="0"/>
+料金 りょうきん 料金 名詞 6 普通名詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="料金" sid="fuman-traffic-0000079780-1" id="1"/>
+高 たか 高い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
+過ぎる すぎる 過ぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000079780-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-25.77323 MOD:2020/09/03 MEMO:
+* 2D
++ 2D
+また また また 副詞 8 * 0 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="料金" sid="fuman-traffic-0000079780-1" id="1"/><NE:MONEY:１０００円>
+１０００ せん １０００ 名詞 6 数詞 7 * 0 * 0
+円 えん 円 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="１０００円" sid="fuman-traffic-0000079780-2" id="1"/><rel type="ヲ" target="料金" sid="fuman-traffic-0000079780-1" id="1"/>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

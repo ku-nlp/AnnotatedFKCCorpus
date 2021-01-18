@@ -1,0 +1,53 @@
+# S-ID:fuman-consumer_electronics-0001022632-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/26 MEMO:
+* 5D
++ 5D <rel type="ガ" target="リモコン" sid="fuman-consumer_electronics-0001022632-1" id="3"/>
+壊れた こわれた 壊れる 動詞 2 * 0 母音動詞 1 タ形 10
+けど けど けど 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ノ？" target="不特定:物1"/><rel type="ノ？" mode="？" target="リモコン" sid="fuman-consumer_electronics-0001022632-1" id="3"/>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="会社" sid="fuman-consumer_electronics-0001022632-1" id="1"/>
+潰れて つぶれて 潰れる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+て て る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+* 5D
++ 5D <rel type="ノ" target="不特定:物1"/>
+リモコン りもこん リモコン 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="著者"/>
+手 て 手 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="リモコン" sid="fuman-consumer_electronics-0001022632-1" id="3"/><rel type="ニ" target="手" sid="fuman-consumer_electronics-0001022632-1" id="4"/><rel type="ガ２" target="著者"/>
+入ら はいら 入る 動詞 2 * 0 子音動詞ラ行 10 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001022632-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:18.00000 MOD:2020/08/26 MEMO:
+* 1D
++ 1D <rel type="=≒" target="リモコン" sid="fuman-consumer_electronics-0001022632-1" id="3"/>
+リモコン りもこん リモコン 名詞 6 普通名詞 1 * 0 * 0
+だけ だけ だけ 助詞 9 副助詞 2 * 0 * 0
+って って って 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 4D <rel type="ヲ" target="リモコン" sid="fuman-consumer_electronics-0001022632-2" id="0"/><rel type="ガ" target="不特定:人"/>
+売って うって 売る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+けど けど けど 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 3D <rel type="=≒" target="著者"/>
+うち うち うち 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 4D <rel type="ノ？" target="著者"/><rel type="修飾" target="うち" sid="fuman-consumer_electronics-0001022632-2" id="2"/><rel type="=" target="不特定:物1"/>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* -1D
++ -1D <rel type="ニ" target="テレビ" sid="fuman-consumer_electronics-0001022632-2" id="3"/><rel type="ガ" target="リモコン" sid="fuman-consumer_electronics-0001022632-2" id="0"/>
+使え つかえ 使える 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

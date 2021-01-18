@@ -1,0 +1,23 @@
+# S-ID:fuman-traffic-0000121644-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-1049.93632 MOD:2020/09/01 MEMO:
+* 1D
++ 1D
+赤 あか 赤 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="修飾" target="赤" sid="fuman-traffic-0000121644-1" id="0"/>
+信号 しんごう 信号 名詞 6 サ変名詞 2 * 0 * 0
+でも でも でも 助詞 9 副助詞 2 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="車" sid="fuman-traffic-0000121644-1" id="3"/><rel type="ヲ" target="信号" sid="fuman-traffic-0000121644-1" id="1"/>
+無視 むし 無視 名詞 6 サ変名詞 2 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+* 4D
++ 5D
+車 くるま 車 名詞 6 普通名詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="車" sid="fuman-traffic-0000121644-1" id="3"/><rel type="ニトッテ" target="著者"/><rel type="ニトッテ" mode="AND" target="不特定:人"/>
+危なくて あぶなくて 危ない 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ" target="不特定:状況"/>
+しょうがない しょうがない しょうがない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

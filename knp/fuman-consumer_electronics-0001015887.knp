@@ -1,0 +1,95 @@
+# S-ID:fuman-consumer_electronics-0001015887-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:70.00000 MOD:2020/11/11 MEMO:
+* 1D
++ 1D
+手帳 てちょう 手帳 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="ノ" target="手帳" sid="fuman-consumer_electronics-0001015887-1" id="0"/>
+型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
++ 3D <rel type="修飾" target="型" sid="fuman-consumer_electronics-0001015887-1" id="1"/>
+カバー かばー カバー 名詞 6 サ変名詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 9D
++ 13D <rel type="ノ" target="カバー" sid="fuman-consumer_electronics-0001015887-1" id="2"/>
+フタ ふた フタ 名詞 6 普通名詞 1 * 0 * 0
+側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D
+交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0
++ 6D <rel type="ノ" target="交通" sid="fuman-consumer_electronics-0001015887-1" id="4"/>
+系 けい 系 名詞 6 普通名詞 1 * 0 * 0
++ 9D <rel type="修飾" target="系" sid="fuman-consumer_electronics-0001015887-1" id="5"/>
+カード かーど カード 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 8D <rel type="ノ" target="ポケット" sid="fuman-consumer_electronics-0001015887-1" id="11"/>
+横 よこ 横 名詞 6 普通名詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="カード" sid="fuman-consumer_electronics-0001015887-1" id="6"/><rel type="カラ" target="横" sid="fuman-consumer_electronics-0001015887-1" id="7"/>
+スライド すらいど スライド 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+* 6D
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="カード" sid="fuman-consumer_electronics-0001015887-1" id="6"/><rel type="外の関係" target="タイプ" sid="fuman-consumer_electronics-0001015887-1" id="10"/><rel type="ニ" target="ポケット" sid="fuman-consumer_electronics-0001015887-1" id="11"/>
+入れ いれ 入れる 動詞 2 * 0 母音動詞 1 未然形 3
+られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+* 7D
++ 11D <rel type="トイウ" target="入れられる" sid="fuman-consumer_electronics-0001015887-1" id="9"/>
+タイプ たいぷ タイプ 名詞 6 サ変名詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 9D
++ 13D <rel type="修飾" target="タイプ" sid="fuman-consumer_electronics-0001015887-1" id="10"/>
+ポケット ぽけっと ポケット 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 13D <rel type="ノ" target="ポケット" sid="fuman-consumer_electronics-0001015887-1" id="11"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+* 15P
++ 19P <rel type="ガ" target="ポケット" sid="fuman-consumer_electronics-0001015887-1" id="11"/><rel type="ニ" target="フタ側" sid="fuman-consumer_electronics-0001015887-1" id="3"/>
+付いて ついて 付く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+が が が 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 11D
++ 15D <rel type="=" target="ポケット" sid="fuman-consumer_electronics-0001015887-1" id="11"/>
+ポケット ぽけっと ポケット 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 15D
++ 19D <rel type="ガ" target="ポケット" sid="fuman-consumer_electronics-0001015887-1" id="14"/>
+緩くて ゆるくて 緩い 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+* 13D
++ 17D <rel type="ノ" target="ポケット" sid="fuman-consumer_electronics-0001015887-1" id="11"/>
+中 なか 中 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 15D
++ 19D <rel type="修飾" target="中" sid="fuman-consumer_electronics-0001015887-1" id="16"/><rel type="=" target="カード" sid="fuman-consumer_electronics-0001015887-1" id="6"/>
+カード かーど カード 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 15D
++ 19D
+よく よく よい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+* -1D
++ -1D <rel type="ガ" target="カード" sid="fuman-consumer_electronics-0001015887-1" id="17"/><rel type="カラ" target="カバー" sid="fuman-consumer_electronics-0001015887-1" id="2"/>
+落ちて おちて 落ちる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+しまう しまう しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001015887-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/25 MEMO:
+* 3D
++ 3D <rel type="=" target="落ちて" sid="fuman-consumer_electronics-0001015887-1" id="19"/>
+これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="=" target="カード" sid="fuman-consumer_electronics-0001015887-1" id="17"/>
+カード かーど カード 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D
+一 いち 一 名詞 6 数詞 7 * 0 * 0
+度 ど 度 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+* -1D
++ -1D <rel type="ヲ" target="カード" sid="fuman-consumer_electronics-0001015887-2" id="1"/><rel type="デ" target="これ" sid="fuman-consumer_electronics-0001015887-2" id="0"/><rel type="ガ" target="著者"/>
+なくして なくして なくす 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

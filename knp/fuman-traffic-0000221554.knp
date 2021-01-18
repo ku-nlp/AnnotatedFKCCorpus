@@ -1,0 +1,53 @@
+# S-ID:fuman-traffic-0000221554-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-36.41068 MOD:2020/09/02 MEMO:
+* 1D
++ 1D
+車 くるま 車 名詞 6 普通名詞 1 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ト" target="車" sid="fuman-traffic-0000221554-1" id="0"/><rel type="ガ" target="著者"/><rel type="デ" target="道" sid="fuman-traffic-0000221554-1" id="4"/>
+すれ違う すれちがう すれ違う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+* 8D
++ 9D
+とき とき とき 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D
+より より より 副詞 8 * 0 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="不特定:物1"/>
+道 みち 道 名詞 6 普通名詞 1 * 0 * 0
++ 6D <rel type="ノ" target="道" sid="fuman-traffic-0000221554-1" id="4"/>
+幅 はば 幅 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 8D <rel type="ガ" target="幅" sid="fuman-traffic-0000221554-1" id="5"/>
+狭く せまく 狭い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+なって なって なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ系連用テ形 14
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 8D <rel type="ノ" target="著者"/>
+気 き 気 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8P
++ 9P <rel type="ニ" target="車" sid="fuman-traffic-0000221554-1" id="0"/><rel type="時間" target="とき" sid="fuman-traffic-0000221554-1" id="2"/><rel type="ヲ" target="気" sid="fuman-traffic-0000221554-1" id="7"/><rel type="ガ" target="著者"/>
+遣う つかう 遣う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+し し し 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* -1D
++ -1D <rel type="時間" target="とき" sid="fuman-traffic-0000221554-1" id="2"/><rel type="ガ" target="不特定:物1"/>
+危ない あぶない 危ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000221554-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-27.22984 MOD:2020/09/02 MEMO:
+* 1D
++ 1D
+さっさと さっさと さっさと 副詞 8 * 0 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="車" sid="fuman-traffic-0000221554-1" id="0"/>
+退けろ のけろ 退ける 動詞 2 * 0 母音動詞 1 命令形 6
+と と と 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ト" target="退けろ" sid="fuman-traffic-0000221554-2" id="1"/><rel type="ガ" target="著者"/>
+思う おもう 思う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

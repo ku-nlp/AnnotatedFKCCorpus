@@ -1,0 +1,47 @@
+# S-ID:fuman-consumer_electronics-0001001397-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/27 MEMO:
+* 1D
++ 1D <rel type="ガ" target="不特定:人"/><rel type="デ" target="機" sid="fuman-consumer_electronics-0001001397-1" id="1"/><rel type="ヲ" target="不特定:物"/>
+掃除 そうじ 掃除 名詞 6 サ変名詞 2 * 0 * 0
++ 3D <rel type="ノ？" target="掃除" sid="fuman-consumer_electronics-0001001397-1" id="0"/>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 3D
+ゴミ ごみ ゴミ 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="ノ" target="機" sid="fuman-consumer_electronics-0001001397-1" id="1"/><rel type="ノ？" target="ゴミ" sid="fuman-consumer_electronics-0001001397-1" id="2"/>
+パック ぱっく パック 名詞 6 サ変名詞 2 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 5D <rel type="ヲ" target="パック" sid="fuman-consumer_electronics-0001001397-1" id="3"/><rel type="ガ" target="著者"/><rel type="外の関係" target="瞬間" sid="fuman-consumer_electronics-0001001397-1" id="5"/>
+替える かえる 替える 動詞 2 * 0 母音動詞 1 基本形 2
+* 4D
++ 6D <rel type="ノ" target="替える" sid="fuman-consumer_electronics-0001001397-1" id="4"/>
+瞬間 しゅんかん 瞬間 名詞 6 時相名詞 10 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="瞬間" sid="fuman-consumer_electronics-0001001397-1" id="5"/><rel type="ガ２" target="著者"/>
+嫌い きらい 嫌いだ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001001397-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:18.00000 MOD:2020/08/27 MEMO:
+* 1D
++ 1D <rel type="=≒" target="ゴミ" sid="fuman-consumer_electronics-0001001397-1" id="2"/>
+埃 ほこり 埃 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4P
++ 4P <rel type="ガ" target="埃" sid="fuman-consumer_electronics-0001001397-2" id="0"/><rel type="時間" target="瞬間" sid="fuman-consumer_electronics-0001001397-1" id="5"/>
+舞う まう 舞う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+し し し 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D
+結構 けっこう 結構 副詞 8 * 0 * 0 * 0
+* 4D
++ 4D
+手間 てま 手間 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="手間" sid="fuman-consumer_electronics-0001001397-2" id="3"/><rel type="ニ" target="替える" sid="fuman-consumer_electronics-0001001397-1" id="4"/>
+かかる かかる かかる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,42 @@
+# S-ID:fuman-super-0001017064-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:58.00000 MOD:2020/08/21 MEMO:
+* 1D
++ 1D <rel type="ガ" target="著者"/><rel type="外の関係" target="後" sid="fuman-super-0001017064-1" id="1"/><rel type="ヲ" target="不特定:物1"/>
+飲んだ のんだ 飲む 動詞 2 * 0 子音動詞マ行 9 タ形 10
+* 6D
++ 6D <rel type="ノ" target="飲んだ" sid="fuman-super-0001017064-1" id="0"/>
+後 あと 後 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D
+ココア ここあ ココア 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="苦味" sid="fuman-super-0001017064-1" id="4"/>
+嫌な いやな 嫌だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3
+* 6D
++ 6D <rel type="修飾" target="嫌な" sid="fuman-super-0001017064-1" id="3"/><rel type="ノ？" target="ココア" sid="fuman-super-0001017064-1" id="2"/>
+苦 にが 苦い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
+味 み 味 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D <rel type="ノ" target="著者"/>
+喉 のど 喉 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ニ" target="喉" sid="fuman-super-0001017064-1" id="5"/><rel type="時間" target="後" sid="fuman-super-0001017064-1" id="1"/><rel type="ガ" target="苦味" sid="fuman-super-0001017064-1" id="4"/>
+残る のこる 残る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-super-0001017064-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/21 MEMO:
+* 1D
++ 1D
+ザラザラ ざらざら ザラザラ 副詞 8 * 0 * 0 * 0
++ 2D <rel type="トイウ" target="ザラザラ" sid="fuman-super-0001017064-2" id="0"/>
+感 かん 感 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="感" sid="fuman-super-0001017064-2" id="1"/><rel type="ニ" target="喉" sid="fuman-super-0001017064-1" id="5"/><rel type="=≒" target="残る" sid="fuman-super-0001017064-1" id="6"/>
+残る のこる 残る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

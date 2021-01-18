@@ -1,0 +1,61 @@
+# S-ID:fuman-consumer_electronics-0001004636-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/27 MEMO:
+* 1D
++ 1D
+まあまあ まあまあ まあまあ 副詞 8 * 0 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="器" sid="fuman-consumer_electronics-0001004636-1" id="3"/>
+良い よい 良い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 6D
++ 3D <rel type="ガ" target="不特定:人"/><rel type="デ" target="器" sid="fuman-consumer_electronics-0001004636-1" id="3"/>
+炊飯 すいはん 炊飯 名詞 6 サ変名詞 2 * 0 * 0
++ 7D <rel type="ノ？" target="炊飯" sid="fuman-consumer_electronics-0001004636-1" id="2"/><rel type="ガ" target="不特定:物1"/>
+器 き 器 名詞 6 普通名詞 1 * 0 * 0
+の の だ 判定詞 4 * 0 判定詞 25 ダ列特殊連体形 4
+はずな はずな はずだ 助動詞 5 * 0 判定詞 25 ダ列基本連体形 3
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+* 6D
++ 7D
+イマイチ いまいち イマイチだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+* 5D
++ 6D <rel type="ノ" target="不特定:物2"/>
+味 あじ 味 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 7D <rel type="ガ" target="味" sid="fuman-consumer_electronics-0001004636-1" id="5"/>
+美味しく おいしく 美味しい 形容詞 3 * 0 イ形容詞イ段 19 基本連用形 7
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="デ" target="不特定:物1"/><rel type="ヲ" target="不特定:物2"/>
+炊け たけ 炊ける 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001004636-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/27 MEMO:
+* 2D
++ 3D <rel type="ガ" target="著者"/>
+誤って あやまって 誤る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+* 2D
++ 2D <rel type="ガ" target="不特定:物1"/><rel type="ヲ" target="不特定:物2"/><rel type="外の関係" target="ボタン" sid="fuman-consumer_electronics-0001004636-2" id="2"/>
+保温 ほおん 保温 名詞 6 サ変名詞 2 * 0 * 0
++ 3D <rel type="ノ？" target="保温" sid="fuman-consumer_electronics-0001004636-2" id="1"/><rel type="ノ" target="不特定:物1"/>
+ボタン ぼたん ボタン 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="著者"/><rel type="ヲ" target="ボタン" sid="fuman-consumer_electronics-0001004636-2" id="2"/>
+切る きる 切る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 5D
+再度 さいど 再度 名詞 6 時相名詞 10 * 0 * 0
+* 5D
++ 6D <rel type="ガ" target="著者"/><rel type="ヲ" target="ボタン" sid="fuman-consumer_electronics-0001004636-2" id="2"/><rel type="外の関係" target="の" sid="fuman-consumer_electronics-0001004636-2" id="6"/>
+つけ つけ つける 動詞 2 * 0 母音動詞 1 未然形 3
+られ られ られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
++ 7D <rel type="トイウ" target="つけられない" sid="fuman-consumer_electronics-0001004636-2" id="5"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="の" sid="fuman-consumer_electronics-0001004636-2" id="6"/><rel type="ガ２" target="著者"/>
+不満 ふまん 不満だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

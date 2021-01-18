@@ -1,0 +1,52 @@
+# S-ID:fuman-it-0001002781-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/07/27 MEMO:
+* 1D
++ 1D
+誤字 ごじ 誤字 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="著者"/><rel type="ヲ" target="誤字" sid="fuman-it-0001002781-1" id="0"/>
+直そう なおそう 直す 動詞 2 * 0 子音動詞サ行 5 意志形 4
+と と と 助詞 9 格助詞 1 * 0 * 0
+したら したら する 動詞 2 * 0 サ変動詞 16 タ系条件形 13
+* 4D
++ 4D <rel type="ガ" target="著者"/>
+間違えて まちがえて 間違える 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+* 4D
++ 4D
+そのまま そのまま そのまま 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物1"/><rel type="ニ" target="不特定:物2"/>
+投稿 とうこう 投稿 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+しまった しまった しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-it-0001002781-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/17 MEMO:
+* 2D
++ 1D <rel type="ガ" target="著者"/><rel type="ガ" mode="AND" target="不特定:人"/><rel type="=≒" target="投稿" sid="fuman-it-0001002781-1" id="4"/>
+投稿 とうこう 投稿 名詞 6 サ変名詞 2 * 0 * 0
++ 3D <rel type="ノ" target="投稿" sid="fuman-it-0001002781-2" id="0"/>
+前 まえ 前 名詞 6 時相名詞 10 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 3D <rel type="ヲ" target="内容" sid="fuman-it-0001002781-2" id="5"/><rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="AND" target="著者"/>
+確認 かくにん 確認 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4P
++ 6P <rel type="ガ" target="確認" sid="fuman-it-0001002781-2" id="2"/><rel type="時間" target="前" sid="fuman-it-0001002781-2" id="1"/><rel type="ガ２" target="著者"/><rel type="ガ２" mode="AND" target="不特定:人1"/><rel type="デ" target="不特定:物2"/><rel type="デ" mode="？" target="なし"/>
+出来たり できたり 出来る 動詞 2 * 0 母音動詞 1 タ系連用タリ形 15
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 5D <rel type="=" target="投稿" sid="fuman-it-0001002781-2" id="0"/>
+投稿 とうこう 投稿 名詞 6 サ変名詞 2 * 0 * 0
++ 6D <rel type="ノ" target="投稿" sid="fuman-it-0001002781-2" id="4"/>
+内容 ないよう 内容 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="内容" sid="fuman-it-0001002781-2" id="5"/><rel type="ガ２" target="著者"/><rel type="ガ２" mode="AND" target="不特定:人1"/><rel type="デ" target="不特定:物2"/><rel type="デ" mode="？" target="なし"/>
+編集 へんしゅう 編集 名詞 6 サ変名詞 2 * 0 * 0
+出来たら できたら 出来る 動詞 2 * 0 母音動詞 1 タ系条件形 13
+いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

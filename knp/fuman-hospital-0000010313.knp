@@ -1,0 +1,65 @@
+# S-ID:fuman-hospital-0000010313-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:-7.00000 MOD:2020/08/03 MEMO:
+* 1D
++ 1D
+インフルエンザ いんふるえんざ インフルエンザ 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ノ？" target="インフルエンザ" sid="fuman-hospital-0000010313-1" id="0"/>
+ワクチン わくちん ワクチン 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="ノ" target="ワクチン" sid="fuman-hospital-0000010313-1" id="1"/>
+費用 ひよう 費用 名詞 6 普通名詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* -1D
++ 4D
+全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="費用" sid="fuman-hospital-0000010313-1" id="2"/><rel type="デ" target="全国" sid="fuman-hospital-0000010313-1" id="3"/><rel type="ニ" target="不特定:人"/>
+統一 とういつ 統一 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0000010313-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:60.00000 MOD:2020/08/03 MEMO:
+* 1D
++ 1D
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+* 3D
++ 3D <rel type="ノ" target="ワクチン" sid="fuman-hospital-0000010313-1" id="1"/>
+金額 きんがく 金額 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="金額" sid="fuman-hospital-0000010313-2" id="2"/><rel type="ニヨッテ" target="病院" sid="fuman-hospital-0000010313-2" id="0"/>
+ちがう ちがう ちがう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="金額" sid="fuman-hospital-0000010313-2" id="2"/><rel type="外の関係" target="ところ" sid="fuman-hospital-0000010313-2" id="5"/>
+安い やすい 安い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 6D
++ 6D <rel type="修飾" target="安い" sid="fuman-hospital-0000010313-2" id="4"/><rel type="=≒" target="病院" sid="fuman-hospital-0000010313-2" id="0"/>
+ところ ところ ところ 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 10P
++ 10P <rel type="ニ" target="ところ" sid="fuman-hospital-0000010313-2" id="5"/><rel type="ガ" target="不特定:人"/>
+殺到 さっとう 殺到 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 8D
++ 8D <rel type="ガ" target="お金" sid="fuman-hospital-0000010313-2" id="8"/>
+高い たかい 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 9D
++ 9D <rel type="=" target="費用" sid="fuman-hospital-0000010313-1" id="2"/>
+お お お 接頭辞 13 名詞接頭辞 1 * 0 * 0
+金 かね 金 名詞 6 普通名詞 1 * 0 * 0
+* 10D
++ 10D <rel type="ガ" target="著者"/><rel type="ヲ" target="お金" sid="fuman-hospital-0000010313-2" id="8"/>
+出して だして 出す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="ワクチン" sid="fuman-hospital-0000010313-1" id="1"/>
+打つ うつ 打つ 動詞 2 * 0 子音動詞タ行 6 基本形 2
+しか しか しか 助詞 9 副助詞 2 * 0 * 0
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

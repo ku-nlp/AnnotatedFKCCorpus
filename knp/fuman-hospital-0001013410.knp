@@ -1,0 +1,55 @@
+# S-ID:fuman-hospital-0001013410-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/14 MEMO:
+* 6D
++ 2D
+国道 こくどう 国道 名詞 6 普通名詞 1 * 0 * 0
++ 2D
+１３ じゅうさん １３ 名詞 6 数詞 7 * 0 * 0
+号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
++ 8D <NE:LOCATION:国道１３号線>
+線 せん 線 名詞 6 普通名詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 4D
+ある ある ある 連体詞 11 * 0 * 0 * 0
+* 5D
++ 7D <rel type="ノ" target="線" sid="fuman-hospital-0001013410-1" id="2"/>
+場所 ばしょ 場所 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 7D
+朝 あさ 朝 名詞 6 時相名詞 10 * 0 * 0
+* 5D
++ 7D
+いつも いつも いつも 副詞 8 * 0 * 0 * 0
+* 6D
++ 8D <rel type="ガ" target="場所" sid="fuman-hospital-0001013410-1" id="4"/><rel type="時間" target="朝" sid="fuman-hospital-0001013410-1" id="5"/>
+混んで こんで 混む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14
+て て る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+* -1D
++ -1D <rel type="外の関係" target="線" sid="fuman-hospital-0001013410-1" id="2"/><rel type="ガ" target="混んでて" sid="fuman-hospital-0001013410-1" id="7"/><rel type="ガ２" target="著者"/>
+困る こまる 困る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001013410-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/14 MEMO:
+* 1D
++ 1D
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="ガ" target="著者"/><rel type="ヲ" target="病院" sid="fuman-hospital-0001013410-2" id="0"/>
+受診 じゅしん 受診 名詞 6 サ変名詞 2 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="道" sid="fuman-hospital-0001013410-2" id="3"/><rel type="デ" target="受診" sid="fuman-hospital-0001013410-2" id="1"/>
+使う つかう 使う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+* 4D
++ 5D <rel type="ガ" target="線" sid="fuman-hospital-0001013410-1" id="2"/><rel type="=構" target="線" sid="fuman-hospital-0001013410-1" id="2"/>
+道 みち 道 名詞 6 普通名詞 1 * 0 * 0
+だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2
+から から から 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 5D
+本当 ほんとう 本当だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+* -1D
++ -1D <rel type="=" target="困る" sid="fuman-hospital-0001013410-1" id="8"/>
+こまる こまる こまる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

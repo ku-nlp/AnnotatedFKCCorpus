@@ -1,0 +1,45 @@
+# S-ID:fuman-traffic-0000091401-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-53.51165 MOD:2020/09/03 MEMO:
+* 7D
++ 8D
+男性 だんせい 男性 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ノ？" target="男性" sid="fuman-traffic-0000091401-1" id="0"/>
+自転車 じてんしゃ 自転車 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 8D <rel type="ニ" target="自転車" sid="fuman-traffic-0000091401-1" id="1"/><rel type="ガ" target="男性" sid="fuman-traffic-0000091401-1" id="0"/>
+乗り のり 乗る 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+ながら ながら ながら 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="自転車" sid="fuman-traffic-0000091401-1" id="1"/>
+ハンドル はんどる ハンドル 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="男性" sid="fuman-traffic-0000091401-1" id="0"/>
+肘 ひじ 肘 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 7P
++ 8P <rel type="ガ" target="男性" sid="fuman-traffic-0000091401-1" id="0"/><rel type="ヲ" target="肘" sid="fuman-traffic-0000091401-1" id="4"/><rel type="ニ" target="ハンドル" sid="fuman-traffic-0000091401-1" id="3"/>
+つき つき つく 動詞 2 * 0 子音動詞カ行 2 基本連用形 8
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 7D
+カップ かっぷ カップ 名詞 6 普通名詞 1 * 0 * 0
++ 8D <rel type="修飾" target="カップ" sid="fuman-traffic-0000091401-1" id="6"/>
+ラーメン らーめん ラーメン 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="男性" sid="fuman-traffic-0000091401-1" id="0"/><rel type="ヲ" target="ラーメン" sid="fuman-traffic-0000091401-1" id="7"/>
+食べて たべて 食べる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8
+ました ました ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 タ形 7
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000091401-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-3.91700 MOD:2020/09/03 MEMO:
+* -1D
++ -1D <rel type="ガ" target="食べていました" sid="fuman-traffic-0000091401-1" id="8"/>
+危ない あぶない 危ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

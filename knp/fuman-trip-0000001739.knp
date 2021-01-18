@@ -1,0 +1,40 @@
+# S-ID:fuman-trip-0000001739-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-62.79142 MOD:2020/08/31 MEMO:
+* 1D
++ 1D <rel type="ノ？" target="不特定:物1"/>
+朝食 ちょうしょく 朝食 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="修飾" target="朝食" sid="fuman-trip-0000001739-1" id="0"/>
+バイキング ばいきんぐ バイキング 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 9D <rel type="ガ" target="著者"/><rel type="デ" target="バイキング" sid="fuman-trip-0000001739-1" id="1"/><rel type="ヲ" target="不特定:物1"/>
+予約 よやく 予約 名詞 6 サ変名詞 2 * 0 * 0
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 9D
+当日 とうじつ 当日 名詞 6 時相名詞 10 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="バイキング" sid="fuman-trip-0000001739-1" id="1"/><rel type="ヲ" mode="？" target="不特定:物1"/><rel type="=≒" target="予約した" sid="fuman-trip-0000001739-1" id="2"/><rel type="外の関係" target="人数" sid="fuman-trip-0000001739-1" id="5"/>
+予約 よやく 予約 名詞 6 サ変名詞 2 * 0 * 0
++ 6D <rel type="ノ" target="予約" sid="fuman-trip-0000001739-1" id="4"/>
+人数 にんずう 人数 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 9D <rel type="ガ" target="人数" sid="fuman-trip-0000001739-1" id="5"/><rel type="時間" target="当日" sid="fuman-trip-0000001739-1" id="3"/>
+少ない すくない 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+みたいで みたいで みたいだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 8D
+ただ ただ ただ 副詞 8 * 0 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 7D
++ 9D <rel type="修飾" target="ただ" sid="fuman-trip-0000001739-1" id="7"/><rel type="=≒" target="朝食" sid="fuman-trip-0000001739-1" id="0"/>
+朝食 ちょうしょく 朝食 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ニ" target="朝食" sid="fuman-trip-0000001739-1" id="8"/><rel type="ガ" target="バイキング" sid="fuman-trip-0000001739-1" id="1"/><rel type="デ" target="不特定:物1"/><rel type="時間" target="当日" sid="fuman-trip-0000001739-1" id="3"/>
+なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10
+... ... ... 特殊 1 記号 5 * 0 * 0
+EOS

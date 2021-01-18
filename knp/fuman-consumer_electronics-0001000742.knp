@@ -1,0 +1,51 @@
+# S-ID:fuman-consumer_electronics-0001000742-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:50.00000 MOD:2020/08/17 MEMO:
+* 1D
++ 1D
+ドライヤー どらいやー ドライヤー 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="ドライヤー" sid="fuman-consumer_electronics-0001000742-1" id="0"/>
+重くて おもくて 重い 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+* 3D
++ 3D <rel type="ノ" target="著者"/>
+髪 かみ 髪 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ヲ" target="髪" sid="fuman-consumer_electronics-0001000742-1" id="2"/><rel type="ガ" target="著者"/><rel type="デ" target="ドライヤー" sid="fuman-consumer_electronics-0001000742-1" id="0"/><rel type="外の関係" target="うち" sid="fuman-consumer_electronics-0001000742-1" id="4"/>
+乾かして かわかして 乾かす 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+* 6D
++ 6D <rel type="ノ" target="乾かしている" sid="fuman-consumer_electronics-0001000742-1" id="3"/>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D <rel type="ノ" target="著者"/>
+腕 うで 腕 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="腕" sid="fuman-consumer_electronics-0001000742-1" id="5"/><rel type="ガ２" target="著者"/><rel type="時間" target="うち" sid="fuman-consumer_electronics-0001000742-1" id="4"/>
+疲れる つかれる 疲れる 動詞 2 * 0 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001000742-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/27 MEMO:
+* 1P
++ 2P <rel type="ガ" target="もの" sid="fuman-consumer_electronics-0001000742-2" id="3"/><rel type="=≒" target="重くて" sid="fuman-consumer_electronics-0001000742-1" id="1"/>
+軽くて かるくて 軽い 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+* 2D
++ 2D <rel type="ガ" target="パワー" sid="fuman-consumer_electronics-0001000742-2" id="2"/>
+ハイ はい ハイだ 形容詞 3 * 0 ナ形容詞 21 語幹 1
++ 3D <rel type="修飾" target="ハイ" sid="fuman-consumer_electronics-0001000742-2" id="1"/>
+パワー ぱわー パワー 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 4D <rel type="=≒" target="ドライヤー" sid="fuman-consumer_electronics-0001000742-1" id="0"/><rel type="修飾" target="パワー" sid="fuman-consumer_electronics-0001000742-2" id="2"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="もの" sid="fuman-consumer_electronics-0001000742-2" id="3"/>
+出る でる 出る 動詞 2 * 0 母音動詞 1 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+なぁ なあ なあ 助詞 9 終助詞 4 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

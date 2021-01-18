@@ -1,0 +1,43 @@
+# S-ID:fuman-consumer_electronics-0001005202-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/27 MEMO:
+* 2D
++ 1D <rel type="ノ" target="著者"/>
+指紋 しもん 指紋 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="デ" target="指紋" sid="fuman-consumer_electronics-0001005202-1" id="0"/><rel type="ヲ" target="著者"/><rel type="ガ" target="不特定:物1"/>
+認証 にんしょう 認証 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 3D
+１ いっ １ 名詞 6 数詞 7 * 0 * 0
++ 4D
+発 ぱつ 発 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 5D <rel type="ガ" target="認証" sid="fuman-consumer_electronics-0001005202-1" id="1"/><rel type="デ" target="発" sid="fuman-consumer_electronics-0001005202-1" id="3"/><rel type="デ" mode="？" target="なし"/>
+でき でき できる 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="できない" sid="fuman-consumer_electronics-0001005202-1" id="4"/>
+イライラ いらいら イライラ 副詞 8 * 0 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001005202-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/27 MEMO:
+* 4D
++ 4D
+結局 けっきょく 結局 副詞 8 * 0 * 0 * 0
+* 2D
++ 2D <rel type="ノ？" target="著者"/>
+パスワード ぱすわーど パスワード 名詞 6 普通名詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="パスワード" sid="fuman-consumer_electronics-0001005202-2" id="1"/><rel type="ニ" target="不特定:物1"/><rel type="外の関係" target="ほう" sid="fuman-consumer_electronics-0001005202-2" id="3"/>
+打った うった 打つ 動詞 2 * 0 子音動詞タ行 6 タ形 10
+* 4D
++ 4D <rel type="ノ" target="打った" sid="fuman-consumer_electronics-0001005202-2" id="2"/>
+ほう ほう ほう 名詞 6 副詞的名詞 9 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="ほう" sid="fuman-consumer_electronics-0001005202-2" id="3"/>
+早い はやい 早い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,33 @@
+# S-ID:fuman-traffic-0000035663-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-27.80840 MOD:2020/09/02 MEMO:
+* 1D
++ 1D <rel type="ヲ" target="不特定:物１"/><rel type="ガ" target="不特定:人１"/>
+歩き あるき 歩く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8
+* -1D
++ -1D <rel type="修飾" target="歩き" sid="fuman-traffic-0000035663-1" id="0"/>
+スマホ スマホ スマホ 名詞 6 普通名詞 1 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000035663-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-6.65061 MOD:2015/09/26 MEMO:
+* -1D
++ -1D <rel type="ガ" target="不特定:人１"/><rel type="ニ" target="著者"/><rel type="ニ" mode="？" target="不特定:人"/><rel type="ニヨッテ" target="スマホ" sid="fuman-traffic-0000035663-1" id="1"/>
+ぶつかり ぶつかり ぶつかる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+ます ます ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000035663-3 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-20.14873 MOD:2020/09/02 MEMO:
+* 2D
++ 2D
+ちゃんと ちゃんと ちゃんと 副詞 8 * 0 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="不特定:人1"/>
+前 まえ 前 名詞 6 時相名詞 10 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ヲ" target="前" sid="fuman-traffic-0000035663-3" id="1"/><rel type="ガ" target="不特定:人１"/>
+向いて むいて 向く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="不特定:人１"/>
+歩いて あるいて 歩く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+欲しい ほしい 欲しい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

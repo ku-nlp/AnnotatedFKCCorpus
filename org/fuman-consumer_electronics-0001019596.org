@@ -1,0 +1,4 @@
+# S-ID:fuman-consumer_electronics-0001019596-1
+アップデートがあるとメールの通知がちゃんとこなくなる。
+# S-ID:fuman-consumer_electronics-0001019596-2
+メールアプリ開かないときてるかきてないかわからない。

@@ -1,0 +1,78 @@
+# S-ID:fuman-hospital-0000105955-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:80.00000 MOD:2020/08/13 MEMO:
+* 8D
++ 1D
+個人 こじん 個人 名詞 6 普通名詞 1 * 0 * 0
++ 10D <rel type="修飾" target="個人" sid="fuman-hospital-0000105955-1" id="0"/>
+医 い 医 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 2P
++ 3P
+水曜日 すいようび 水曜日 名詞 6 時相名詞 10 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 5D
+木曜日 もくようび 木曜日 名詞 6 時相名詞 10 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="医" sid="fuman-hospital-0000105955-1" id="1"/>
+休み やすみ 休み 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 8P
++ 10P <rel type="ガ" target="休み" sid="fuman-hospital-0000105955-1" id="4"/><rel type="ガ２" target="医" sid="fuman-hospital-0000105955-1" id="1"/><rel type="時間" target="水曜日" sid="fuman-hospital-0000105955-1" id="2"/><rel type="時間" mode="OR" target="木曜日" sid="fuman-hospital-0000105955-1" id="3"/>
+あったり あったり ある 動詞 2 * 0 子音動詞ラ行 10 タ系連用タリ形 15
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 7D
+週 しゅう 週 名詞 6 時相名詞 10 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 10D <rel type="時間" target="週" sid="fuman-hospital-0000105955-1" id="6"/>
+何 なん 何 名詞 6 数詞 7 * 0 * 0
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+* 8D
++ 9D
+午後 ごご 午後 名詞 6 時相名詞 10 * 0 * 0
++ 10D <rel type="ガ" target="医" sid="fuman-hospital-0000105955-1" id="1"/><rel type="時間" target="午後" sid="fuman-hospital-0000105955-1" id="8"/><rel type="=≒" target="休み" sid="fuman-hospital-0000105955-1" id="4"/>
+休診 きゅうしん 休診 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="休診" sid="fuman-hospital-0000105955-1" id="9"/><rel type="時間" target="何日か" sid="fuman-hospital-0000105955-1" id="7"/><rel type="ガ２" target="医" sid="fuman-hospital-0000105955-1" id="1"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0000105955-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:68.00000 MOD:2020/07/27 MEMO:
+* 7D
++ 7D
+結局 けっきょく 結局 副詞 8 * 0 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 2D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="休み" sid="fuman-hospital-0000105955-1" id="4"/><rel type="ノ" mode="AND" target="休診" sid="fuman-hospital-0000105955-1" id="9"/>
+日 ひ 日 名詞 6 時相名詞 10 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="著者"/><rel type="ノ" mode="？" target="不特定:人"/>
+体調 たいちょう 体調 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="体調" sid="fuman-hospital-0000105955-2" id="3"/>
+悪くて わるくて 悪い 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 7D
++ 7D <rel type="ニ" target="医" sid="fuman-hospital-0000105955-1" id="1"/><rel type="時間" target="日" sid="fuman-hospital-0000105955-2" id="2"/><rel type="ガ" target="著者"/><rel type="ガ" mode="？" target="不特定:人"/>
+行け いけ 行ける 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+* 7D
++ 7D <rel type="ノ" target="著者"/><rel type="ノ" mode="？" target="不特定:人"/>
+症状 しょうじょう 症状 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="症状" sid="fuman-hospital-0000105955-2" id="6"/>
+ひどく ひどく ひどい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

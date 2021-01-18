@@ -1,0 +1,46 @@
+# S-ID:fuman-hospital-0001026105-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/04 MEMO:
+* 3D
++ 4D
+せめて せめて せめて 副詞 8 * 0 * 0 * 0
+* 2D
++ 2D
+背もたれ せもたれ 背もたれ 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="ニ" target="椅子" sid="fuman-hospital-0001026105-1" id="3"/><rel type="ガ" target="背もたれ" sid="fuman-hospital-0001026105-1" id="1"/>
+付き つき 付き 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 4D <rel type="修飾" target="付き" sid="fuman-hospital-0001026105-1" id="2"/>
+椅子 いす 椅子 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="椅子" sid="fuman-hospital-0001026105-1" id="3"/><rel type="ニ" target="不特定:人1"/><rel type="ニ" mode="AND" target="不特定:物1"/>
+置いて おいて 置く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+もらい もらい もらう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 基本連用形 8
+たい たい たい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001026105-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/04 MEMO:
+* 1D
++ 1D <rel type="=" target="背もたれ" sid="fuman-hospital-0001026105-1" id="1"/>
+背もたれ せもたれ 背もたれ 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="背もたれ" sid="fuman-hospital-0001026105-2" id="0"/><rel type="ニ" target="椅子" sid="fuman-hospital-0001026105-2" id="2"/>
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 4D
++ 5D <rel type="=≒" target="椅子" sid="fuman-hospital-0001026105-1" id="3"/><rel type="修飾" target="ない" sid="fuman-hospital-0001026105-2" id="1"/>
+椅子 いす 椅子 名詞 6 普通名詞 1 * 0 * 0
+だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ガ" mode="AND" target="著者"/><rel type="デ" target="不特定:物1"/>
+待ち まち 待ち 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:待ち-まち-待つ-2-0-6-8"
++ 5D <rel type="ノ" target="待ち" sid="fuman-hospital-0001026105-2" id="3"/>
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="時間" sid="fuman-hospital-0001026105-2" id="4"/><rel type="ガ２" target="著者"/>
+苦痛 くつう 苦痛 名詞 6 普通名詞 1 * 0 * 0
+です です だ 判定詞 4 * 0 判定詞 25 デス列基本形 27
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

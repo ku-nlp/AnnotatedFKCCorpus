@@ -1,0 +1,75 @@
+# S-ID:fuman-hospital-0001006016-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:41.00000 MOD:2020/07/13 MEMO:
+* 1D
++ 1D <rel type="ノ" target="不特定:人2"/>
+他 ほか 他 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="修飾" target="他" sid="fuman-hospital-0001006016-1" id="0"/>
+患者 かんじゃ 患者 名詞 6 普通名詞 1 * 0 * 0
+さん さん さん 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="患者" sid="fuman-hospital-0001006016-1" id="1"/>
+前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D
+大きな おおきな 大きな 連体詞 11 * 0 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="不特定:人1"/>
+声 こえ 声 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="不特定:人1"/><rel type="デ" target="声" sid="fuman-hospital-0001006016-1" id="4"/><rel type="デ" mode="AND" target="前" sid="fuman-hospital-0001006016-1" id="2"/><rel type="ヲ" target="不特定:人2"/><rel type="外の関係" target="の" sid="fuman-hospital-0001006016-1" id="6"/>
+問診 もんしん 問診 名詞 6 サ変名詞 2 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
++ 7D <rel type="トイウ" target="問診する" sid="fuman-hospital-0001006016-1" id="5"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 7D
++ 8D <rel type="ガ" target="の" sid="fuman-hospital-0001006016-1" id="6"/>
+どう どう どう 指示詞 7 副詞形態指示詞 3 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ト" target="どうか" sid="fuman-hospital-0001006016-1" id="7"/>
+思う おもう 思う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001006016-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/14 MEMO:
+* 2D
++ 2D <rel type="ガ" target="不特定:人2"/><rel type="ニ" target="不特定:人1"/><rel type="ヲ" target="症状" sid="fuman-hospital-0001006016-2" id="1"/><rel type="ヲ" mode="AND" target="病気" sid="fuman-hospital-0001006016-2" id="2"/>
+言い いい 言う 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8
+にくい にくい にくい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+* 2P
++ 2P
+症状 しょうじょう 症状 名詞 6 普通名詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 5D
+病気 びょうき 病気 名詞 6 普通名詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D <rel type="=≒" target="不特定:人2"/>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="人" sid="fuman-hospital-0001006016-2" id="3"/>
+それぞれ それぞれ それぞれ 名詞 6 普通名詞 1 * 0 * 0
+* 8D
++ 8D <rel type="ガ" target="病気" sid="fuman-hospital-0001006016-2" id="2"/><rel type="ガ" mode="AND" target="症状" sid="fuman-hospital-0001006016-2" id="1"/><rel type="ニ" target="それぞれ" sid="fuman-hospital-0001006016-2" id="4"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+だろう だろう だろう 助動詞 5 * 0 助動詞だろう型 28 基本形 2
+し し し 助詞 9 接続助詞 3 * 0 * 0
+* 7D
++ 7D
+そういう そういう そういう 指示詞 7 連体詞形態指示詞 2 * 0 * 0
+* 8D
++ 8D <rel type="ガ" target="不特定:人1"/><rel type="ニ" target="不特定:人2"/><rel type="ト" target="ある" sid="fuman-hospital-0001006016-2" id="5"/>
+配慮 はいりょ 配慮 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="配慮" sid="fuman-hospital-0001006016-2" id="7"/><rel type="ニ" target="不特定:人1"/>
+足りて たりて 足りる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

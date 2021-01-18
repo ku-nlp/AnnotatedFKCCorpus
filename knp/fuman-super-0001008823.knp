@@ -1,0 +1,62 @@
+# S-ID:fuman-super-0001008823-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:60.00000 MOD:2020/08/18 MEMO:
+* 2D
++ 3D <rel type="ノ？" target="不特定:物1"/>
+レジ れじ レジ 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D
+Ｌ える Ｌ 名詞 6 普通名詞 1 * 0 * 0
+字 じ 字 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="ノ" target="Ｌ字" sid="fuman-super-0001008823-1" id="1"/>
+型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 7D <rel type="ガ" target="レジ" sid="fuman-super-0001008823-1" id="0"/><rel type="ニ" target="型" sid="fuman-super-0001008823-1" id="2"/><rel type="デ" target="不特定:物1"/><rel type="デ" mode="？" target="なし"/>
+置か おか 置く 動詞 2 * 0 子音動詞カ行 2 未然形 3
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+いて いて いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+* 4D
++ 5D <rel type="ガ" target="著者"/><rel type="ガ" mode="AND" target="不特定:人"/><rel type="ニ" target="方向" sid="fuman-super-0001008823-1" id="5"/><rel type="デ" target="レジ" sid="fuman-super-0001008823-1" id="0"/>
+並ぶ ならぶ 並ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2
+* 6D
++ 7D <rel type="ノ" target="並ぶ" sid="fuman-super-0001008823-1" id="4"/>
+方向 ほうこう 方向 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 7D
+よく よく よい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+* 7D
++ 8D <rel type="ガ" target="方向" sid="fuman-super-0001008823-1" id="5"/><rel type="外の関係" target="所" sid="fuman-super-0001008823-1" id="8"/>
+分から わから 分かる 動詞 2 * 0 子音動詞ラ行 10 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+* 8D
++ 9D <rel type="トイウ" target="分からない" sid="fuman-super-0001008823-1" id="7"/><rel type="=≒" target="不特定:物1"/>
+所 ところ 所 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="所" sid="fuman-super-0001008823-1" id="8"/><rel type="ニ" target="不特定:物1"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-super-0001008823-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/18 MEMO:
+* 1D
++ 1D
+せっかく せっかく せっかく 副詞 8 * 0 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="著者"/><rel type="ニ" target="レジ" sid="fuman-super-0001008823-1" id="0"/><rel type="=≒" target="並ぶ" sid="fuman-super-0001008823-1" id="4"/>
+並んで ならんで 並ぶ 動詞 2 * 0 子音動詞バ行 8 タ系連用テ形 14
+た た る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+* 3D
++ 3D <rel type="ガ" target="おじさん" sid="fuman-super-0001008823-2" id="3"/><rel type="ヲ" target="方向" sid="fuman-super-0001008823-1" id="5"/>
+間違えた まちがえた 間違える 動詞 2 * 0 母音動詞 1 タ形 10
+* 4D
++ 4D
+おじさん おじさん おじさん 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="おじさん" sid="fuman-super-0001008823-2" id="3"/><rel type="デ" target="レジ" sid="fuman-super-0001008823-1" id="0"/>
+抜かさ ぬかさ 抜かす 動詞 2 * 0 子音動詞サ行 5 未然形 3
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,97 @@
+# S-ID:fuman-traffic-0000099921-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-31.91376 MOD:2020/09/03 MEMO:
+* 1D
++ 1D <rel type="ガ" target="不特定:物１"/>
+渋滞 じゅうたい 渋滞 名詞 6 サ変名詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3P
++ 4P <rel type="ノ" target="渋滞" sid="fuman-traffic-0000099921-1" id="0"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+や や や 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 3D
+信号 しんごう 信号 名詞 6 サ変名詞 2 * 0 * 0
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="信号" sid="fuman-traffic-0000099921-1" id="2"/>
+待ち まち 待ち 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:待ち-まち-待つ-2-0-6-8"
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 7D <rel type="ノ" target="待ち" sid="fuman-traffic-0000099921-1" id="3"/><rel type="=≒" target="時" sid="fuman-traffic-0000099921-1" id="1"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 7D
+バイク ばいく バイク 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 7D
+車 くるま 車 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 8D <rel type="ガ" target="バイク" sid="fuman-traffic-0000099921-1" id="5"/><rel type="ヲ" target="車" sid="fuman-traffic-0000099921-1" id="6"/><rel type="時間" target="時" sid="fuman-traffic-0000099921-1" id="1"/><rel type="時間" mode="AND" target="時" sid="fuman-traffic-0000099921-1" id="4"/>
+追い越し おいこし 追い越し 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:追い越し-おいこし-追い越す-2-0-5-8"
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="追い越し" sid="fuman-traffic-0000099921-1" id="7"/>
+危ない あぶない 危ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000099921-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-80.24314 MOD:2020/09/04 MEMO:
+* 1D
++ 1D <rel type="=≒" target="車" sid="fuman-traffic-0000099921-1" id="6"/><rel type="ノ？" target="著者"/>
+車 くるま 車 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ノ？" target="車" sid="fuman-traffic-0000099921-2" id="0"/>
+スレスレ すれすれ スレスレ 副詞 8 * 0 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8P
++ 8P <rel type="ヲ" target="スレスレ" sid="fuman-traffic-0000099921-2" id="1"/><rel type="ガ" target="バイク" sid="fuman-traffic-0000099921-1" id="5"/><rel type="時間" target="時" sid="fuman-traffic-0000099921-2" id="5"/>
+通ったり とおったり 通る 動詞 2 * 0 子音動詞ラ行 10 タ系連用タリ形 15
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D <rel type="ノ？" target="著者"/><rel type="=" target="車" sid="fuman-traffic-0000099921-2" id="0"/>
+車 くるま 車 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="車" sid="fuman-traffic-0000099921-2" id="3"/><rel type="時間" target="時" sid="fuman-traffic-0000099921-2" id="5"/>
+進む すすむ 進む 動詞 2 * 0 子音動詞マ行 9 基本形 2
+* 8D
++ 8D <rel type="ノ" target="進む" sid="fuman-traffic-0000099921-2" id="4"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 7D <rel type="ノ" target="車" sid="fuman-traffic-0000099921-2" id="3"/>
+横 よこ 横 名詞 6 普通名詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 8D <rel type="=" target="追い越し" sid="fuman-traffic-0000099921-1" id="7"/><rel type="ガ" target="バイク" sid="fuman-traffic-0000099921-1" id="5"/><rel type="カラ" target="横" sid="fuman-traffic-0000099921-2" id="6"/><rel type="ヲ" target="車" sid="fuman-traffic-0000099921-2" id="3"/>
+追い越し おいこし 追い越し 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:追い越し-おいこし-追い越す-2-0-5-8"
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 9D <rel type="ガ" target="追い越し" sid="fuman-traffic-0000099921-2" id="7"/><rel type="時間" target="時" sid="fuman-traffic-0000099921-2" id="5"/>
+あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="バイク" sid="fuman-traffic-0000099921-1" id="5"/>
+ビックリ びっくり ビックリ 名詞 6 サ変名詞 2 * 0 * 0
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000099921-3 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-21.26950 MOD:2020/09/04 MEMO:
+* 1D
++ 1D <rel type="=" target="バイク" sid="fuman-traffic-0000099921-1" id="5"/>
+バイク ばいく バイク 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 4D <rel type="ガ" target="バイク" sid="fuman-traffic-0000099921-3" id="0"/><rel type="ガ２" target="不特定:人１"/>
+好き すき 好きだ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+なら なら なら 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 3D
+交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0
++ 4D <rel type="ノ" target="交通" sid="fuman-traffic-0000099921-3" id="2"/>
+ルール るーる ルール 名詞 6 普通名詞 1 * 0 * 0
+くらい くらい くらい 助詞 9 副助詞 2 * 0 * 0
+* -1D
++ -1D <rel type="ヲ" target="ルール" sid="fuman-traffic-0000099921-3" id="3"/><rel type="ガ" target="不特定:人１"/>
+守れ まもれ 守る 動詞 2 * 0 子音動詞ラ行 10 命令形 6
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,73 @@
+# S-ID:fuman-consumer_electronics-0001011821-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:50.00000 MOD:2020/08/24 MEMO:
+* 1D
++ 1D
+ブラウザ ぶらうざ ブラウザ 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="著者"/><rel type="ヲ" target="ブラウザ" sid="fuman-consumer_electronics-0001011821-1" id="0"/>
+開いて ひらいて 開く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+* 4D
++ 5D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="ブラウザ" sid="fuman-consumer_electronics-0001011821-1" id="0"/>
+検索 けんさく 検索 名詞 6 サ変名詞 2 * 0 * 0
+しよう しよう する 動詞 2 * 0 サ変動詞 16 意志形 4
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="バー" sid="fuman-consumer_electronics-0001011821-1" id="4"/><rel type="=≒" target="検索しよう" sid="fuman-consumer_electronics-0001011821-1" id="2"/>
+検索 けんさく 検索 名詞 6 サ変名詞 2 * 0 * 0
++ 5D <rel type="修飾" target="検索" sid="fuman-consumer_electronics-0001011821-1" id="3"/>
+バー ばー バー 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D <rel type="ガ" target="著者"/><rel type="ヲ" target="バー" sid="fuman-consumer_electronics-0001011821-1" id="4"/><rel type="外の関係" target="つもり" sid="fuman-consumer_electronics-0001011821-1" id="6"/>
+押した おした 押す 動詞 2 * 0 子音動詞サ行 5 タ形 10
+* 12D
++ 13D <rel type="ノ" target="押した" sid="fuman-consumer_electronics-0001011821-1" id="5"/>
+つもり つもり つもり 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 8D <rel type="=" target="ブラウザ" sid="fuman-consumer_electronics-0001011821-1" id="0"/>
+ブラウザ ぶらうざ ブラウザ 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 12D
++ 13D <rel type="ガ" target="ブラウザ" sid="fuman-consumer_electronics-0001011821-1" id="7"/><rel type="=≒" target="開いて" sid="fuman-consumer_electronics-0001011821-1" id="1"/>
+開き ひらき 開く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8
+きって きって きる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+なくて なくて ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 タ系連用テ形 12
+* 12D
++ 13D
+毎回 まいかい 毎回 名詞 6 時相名詞 10 * 0 * 0
+* 11D
++ 12D <rel type="ノ" target="バー" sid="fuman-consumer_electronics-0001011821-1" id="4"/>
+上 うえ 上 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 11D
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+広告 こうこく 広告 名詞 6 サ変名詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 12D
++ 13D <rel type="修飾" target="上" sid="fuman-consumer_electronics-0001011821-1" id="10"/><rel type="ノ" target="ブラウザ" sid="fuman-consumer_electronics-0001011821-1" id="7"/><rel type="ノ？" target="広告" sid="fuman-consumer_electronics-0001011821-1" id="11"/>
+部分 ぶぶん 部分 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="部分" sid="fuman-consumer_electronics-0001011821-1" id="12"/><rel type="修飾" target="毎回" sid="fuman-consumer_electronics-0001011821-1" id="9"/>
+開いて ひらいて 開く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+しまう しまう しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001011821-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/24 MEMO:
+* 1D
++ 1D
+すぐ すぐ すぐ 副詞 8 * 0 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="ブラウザ" sid="fuman-consumer_electronics-0001011821-1" id="7"/><rel type="=≒" target="検索しよう" sid="fuman-consumer_electronics-0001011821-1" id="2"/>
+調べ しらべ 調べる 動詞 2 * 0 母音動詞 1 基本連用形 8
+たい たい たい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+のに のに のに 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 3D
+本当に ほんとうに 本当だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8
+* -1D
++ -1D <rel type="ガ" target="開いてしまう" sid="fuman-consumer_electronics-0001011821-1" id="13"/><rel type="ガ２" target="著者"/>
+不便 ふべん 不便だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

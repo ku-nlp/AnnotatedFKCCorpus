@@ -1,0 +1,53 @@
+# S-ID:fuman-super-0001026025-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:18.00000 MOD:2020/08/25 MEMO:
+* 1P
++ 1P <NE:OPTIONAL:セブン><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+セブン せぶん セブン 名詞 6 固有名詞 3 * 0 * 0
+や や や 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <NE:OPTIONAL:ファミマ><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+ファミマ ふぁみま ファミマ 名詞 6 固有名詞 3 * 0 * 0
+など など など 助詞 9 副助詞 2 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 7D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物1"/><rel type="ト" target="セブン" sid="fuman-super-0001026025-1" id="0"/><rel type="ト" mode="AND" target="ファミマなど" sid="fuman-super-0001026025-1" id="1"/>
+比べる くらべる 比べる 動詞 2 * 0 母音動詞 1 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 7D
+どうしても どうしても どうしても 副詞 8 * 0 * 0 * 0
+* 5P
++ 5P
+パン ぱん パン 名詞 6 普通名詞 1 * 0 * 0
+や や や 助詞 9 接続助詞 3 * 0 * 0
+* 6D
++ 6D
+スイーツ すいーつ スイーツ 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 7D
++ 7D <rel type="ノ" target="スイーツ" sid="fuman-super-0001026025-1" id="5"/><rel type="ノ" mode="AND" target="パン" sid="fuman-super-0001026025-1" id="4"/>
+質 しつ 質 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="質" sid="fuman-super-0001026025-1" id="6"/><rel type="ガ２" target="不特定:物1"/><rel type="ヨリ" target="セブン" sid="fuman-super-0001026025-1" id="0"/><rel type="ヨリ" mode="AND" target="ファミマ" sid="fuman-super-0001026025-1" id="1"/>
+劣る おとる 劣る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-super-0001026025-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/25 MEMO:
+* 1P
++ 2P <rel type="ノ" target="パン" sid="fuman-super-0001026025-1" id="4"/><rel type="ノ" mode="AND" target="スイーツ" sid="fuman-super-0001026025-1" id="5"/>
+味 あじ 味 名詞 6 普通名詞 1 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="パン" sid="fuman-super-0001026025-1" id="4"/><rel type="ノ" mode="AND" target="スイーツ" sid="fuman-super-0001026025-1" id="5"/>
+パッケージ ぱっけーじ パッケージ 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="ノ？" target="パッケージ" sid="fuman-super-0001026025-2" id="1"/>
+デザイン でざいん デザイン 名詞 6 サ変名詞 2 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="デザイン" sid="fuman-super-0001026025-2" id="2"/><rel type="ヲ" mode="AND" target="味" sid="fuman-super-0001026025-2" id="0"/><rel type="ニ" target="不特定:人1"/>
+改良 かいりょう 改良 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,31 @@
+# S-ID:fuman-hospital-0001037394-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/10 MEMO:
+* 1D
++ 1D <rel type="ヲ" target="不特定:人"/><rel type="外の関係" target="書" sid="fuman-hospital-0001037394-1" id="1"/><rel type="ガ" target="不特定:人1"/>
+診断 しんだん 診断 名詞 6 サ変名詞 2 * 0 * 0
++ 2D <rel type="ノ" target="診断" sid="fuman-hospital-0001037394-1" id="0"/>
+書 しょ 書 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 3D <rel type="ノ" target="書" sid="fuman-hospital-0001037394-1" id="1"/>
+値段 ねだん 値段 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="値段" sid="fuman-hospital-0001037394-1" id="2"/>
+高 たか 高い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
+すぎる すぎる すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001037394-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:0.00000 MOD:2020/08/10 MEMO:
+* 1D
++ 1D
+もう もう もう 副詞 8 * 0 * 0 * 0
+* 2D
++ 2D
+少し すこし 少し 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="書" sid="fuman-hospital-0001037394-1" id="1"/><rel type="ニ" target="不特定:人1"/>
+安く やすく 安い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+して して する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

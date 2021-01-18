@@ -1,0 +1,112 @@
+# S-ID:fuman-consumer_electronics-0001014449-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:50.00000 MOD:2020/08/24 MEMO:
+* 3D
++ 1D
+６ ろく ６ 名詞 6 数詞 7 * 0 * 0
++ 2D <rel type="ノ" target="インク" sid="fuman-consumer_electronics-0001014449-1" id="3"/>
+色 しょく 色 名詞 6 普通名詞 1 * 0 * 0
++ 5D <rel type="修飾" target="色" sid="fuman-consumer_electronics-0001014449-1" id="1"/>
+プリンター ぷりんたー プリンター 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 5D <rel type="ノ？" target="プリンター" sid="fuman-consumer_electronics-0001014449-1" id="2"/>
+インク いんく インク 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 5D <rel type="ノ" target="インク" sid="fuman-consumer_electronics-0001014449-1" id="3"/>
+１ いっ １ 名詞 6 数詞 7 * 0 * 0
+本 ぽん 本 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+* 4D
++ 6D <rel type="ガ" target="インク" sid="fuman-consumer_electronics-0001014449-1" id="3"/><rel type="デ" target="プリンター" sid="fuman-consumer_electronics-0001014449-1" id="2"/><rel type="デ" mode="？" target="なし"/>
+切れた きれた 切れる 動詞 2 * 0 母音動詞 1 タ形 10
+* 6D
++ 8D <rel type="ノ" target="切れた" sid="fuman-consumer_electronics-0001014449-1" id="5"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 8D <rel type="=" target="プリンター" sid="fuman-consumer_electronics-0001014449-1" id="2"/>
+プリンター ぷりんたー プリンター 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 9D <rel type="ガ" target="プリンター" sid="fuman-consumer_electronics-0001014449-1" id="7"/><rel type="時間" target="時" sid="fuman-consumer_electronics-0001014449-1" id="6"/>
+使え つかえ 使える 動詞 2 * 0 母音動詞 1 未然形 3
+なく なく ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
++ 10D <rel type="トイウ" target="使えなくなる" sid="fuman-consumer_electronics-0001014449-1" id="8"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="の" sid="fuman-consumer_electronics-0001014449-1" id="9"/><rel type="ニ" target="不特定:人1"/>
+どうにか どうにか どうにか 副詞 8 * 0 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001014449-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:58.00000 MOD:2020/08/24 MEMO:
+* 9D
++ 9D
+例えば たとえば 例えば 副詞 8 * 0 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 2D <rel type="修飾" target="インク" sid="fuman-consumer_electronics-0001014449-2" id="13"/><rel type="=≒" target="色" sid="fuman-consumer_electronics-0001014449-1" id="1"/>
+マゼンタ まぜんた マゼンタ 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="マゼンタ" sid="fuman-consumer_electronics-0001014449-2" id="1"/><rel type="デ" target="プリンター" sid="fuman-consumer_electronics-0001014449-1" id="7"/><rel type="=" target="切れた" sid="fuman-consumer_electronics-0001014449-1" id="5"/>
+切れた きれた 切れる 動詞 2 * 0 母音動詞 1 タ形 10
+* 9D
++ 9D <rel type="ノ" target="切れた" sid="fuman-consumer_electronics-0001014449-2" id="2"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="修飾" target="インク" sid="fuman-consumer_electronics-0001014449-2" id="13"/><rel type="=≒" target="色" sid="fuman-consumer_electronics-0001014449-1" id="1"/>
+ブラック ぶらっく ブラック 名詞 6 普通名詞 1 * 0 * 0
+しか しか しか 助詞 9 副助詞 2 * 0 * 0
+* 7D
++ 7D <rel type="ヲ" target="ブラック" sid="fuman-consumer_electronics-0001014449-2" id="4"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="AND" target="著者"/><rel type="ニ" target="印刷" sid="fuman-consumer_electronics-0001014449-2" id="7"/>
+使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+* 7D
++ 7D
+文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 8D
++ 8D <rel type="ヲ" target="文字" sid="fuman-consumer_electronics-0001014449-2" id="6"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="AND" target="著者"/>
+印刷 いんさつ 印刷 名詞 6 サ変名詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 9D
++ 9D <rel type="ノ" target="印刷" sid="fuman-consumer_electronics-0001014449-2" id="7"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 13D
++ 14D <rel type="ヲ" target="プリンター" sid="fuman-consumer_electronics-0001014449-1" id="7"/><rel type="=≒" target="使えなくなる" sid="fuman-consumer_electronics-0001014449-1" id="8"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="AND" target="著者"/><rel type="時間" target="時" sid="fuman-consumer_electronics-0001014449-2" id="3"/><rel type="時間" mode="AND" target="時" sid="fuman-consumer_electronics-0001014449-2" id="8"/>
+動かせ うごかせ 動かせる 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+ので ので ので 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 13D
++ 14D
+常に つねに 常に 副詞 8 * 0 * 0 * 0
+* 12D
++ 12D
+全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0
++ 13D <rel type="=" target="色" sid="fuman-consumer_electronics-0001014449-1" id="1"/><rel type="修飾" target="全" sid="fuman-consumer_electronics-0001014449-2" id="11"/>
+色 しょく 色 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 13D
++ 14D <rel type="修飾" target="色" sid="fuman-consumer_electronics-0001014449-2" id="12"/><rel type="=" target="インク" sid="fuman-consumer_electronics-0001014449-1" id="3"/>
+インク いんく インク 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 14D
++ 15D <rel type="ヲ" target="インク" sid="fuman-consumer_electronics-0001014449-2" id="13"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="AND" target="著者"/>
+ストック すとっく ストック 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+おか おか おく 接尾辞 14 動詞性接尾辞 7 子音動詞カ行 2 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+いけない いけない いけない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+ので ので ので 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ２" target="不特定:人"/><rel type="ガ２" mode="AND" target="著者"/><rel type="ガ" target="ストックしておかないといけない" sid="fuman-consumer_electronics-0001014449-2" id="14"/>
+大変です たいへんです 大変だ 形容詞 3 * 0 ナ形容詞 21 デス列基本形 29
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

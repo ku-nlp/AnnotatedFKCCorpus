@@ -1,0 +1,116 @@
+# S-ID:fuman-consumer_electronics-0001014536-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:96.00000 MOD:2020/08/25 MEMO:
+* 1D
++ 1D
+７ なな ７ 名詞 6 数詞 7 * 0 * 0
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+くらい くらい くらい 助詞 9 副助詞 2 * 0 * 0
+* 2D
++ 2D <rel type="修飾" target="７年くらい" sid="fuman-consumer_electronics-0001014536-1" id="0"/>
+前 まえ 前 名詞 6 時相名詞 10 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 4D <rel type="ガ" target="著者"/><rel type="ヲ" target="機" sid="fuman-consumer_electronics-0001014536-1" id="4"/><rel type="時間" target="前" sid="fuman-consumer_electronics-0001014536-1" id="1"/>
+買った かった 買う 動詞 2 * 0 子音動詞ワ行 12 タ形 10
+* 14D
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="機" sid="fuman-consumer_electronics-0001014536-1" id="4"/>
+洗濯 せんたく 洗濯 名詞 6 サ変名詞 2 * 0 * 0
++ 15D <rel type="ノ？" target="洗濯" sid="fuman-consumer_electronics-0001014536-1" id="3"/><rel type="ガ" target="不特定:物1"/><rel type="=構" target="不特定:物1"/>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0
+だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2
+けど けど けど 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 6D <rel type="ガ" target="洗濯物" sid="fuman-consumer_electronics-0001014536-1" id="7"/>
+乾いて かわいて 乾く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+* 6D
++ 7D <rel type="ガ" target="洗濯物" sid="fuman-consumer_electronics-0001014536-1" id="7"/>
+軽い かるい 軽い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 10D
++ 11D
+洗濯物 せんたくもの 洗濯物 名詞 6 普通名詞 1 * 0 * 0
+ばかり ばかり ばかり 助詞 9 副助詞 2 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 9D <rel type="ノ" target="不特定:物1"/>
+蓋 ふた 蓋 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 10D <rel type="ガ" target="蓋" sid="fuman-consumer_electronics-0001014536-1" id="8"/><rel type="外の関係" target="ギリギリ" sid="fuman-consumer_electronics-0001014536-1" id="10"/>
+閉まる しまる 閉まる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+* 10D
++ 11D <rel type="ノ" target="閉まる" sid="fuman-consumer_electronics-0001014536-1" id="9"/><rel type="ノ" mode="AND" target="不特定:物1"/>
+ギリギリ ぎりぎり ギリギリ 副詞 8 * 0 * 0 * 0
+まで まで まで 助詞 9 格助詞 1 * 0 * 0
+* 14D
++ 15D <rel type="ガ" target="著者"/><rel type="ヲ" target="洗濯物" sid="fuman-consumer_electronics-0001014536-1" id="7"/><rel type="マデ" target="ギリギリ" sid="fuman-consumer_electronics-0001014536-1" id="10"/><rel type="ニ" target="不特定:物1"/>
+詰めて つめて 詰める 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+も も も 助詞 9 副助詞 2 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 12D
++ 13D
+水 みず 水 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 14D
++ 15D <rel type="ノ" target="水" sid="fuman-consumer_electronics-0001014536-1" id="12"/><rel type="ノ？" target="不特定:物1"/>
+量 りょう 量 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 14D
++ 15D <rel type="ノ" target="量" sid="fuman-consumer_electronics-0001014536-1" id="13"/>
+真ん中 まんなか 真ん中 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="量" sid="fuman-consumer_electronics-0001014536-1" id="13"/><rel type="ニ" target="不特定:物1"/><rel type="ヲ" target="真ん中" sid="fuman-consumer_electronics-0001014536-1" id="14"/>
+選択 せんたく 選択 名詞 6 サ変名詞 2 * 0 * 0
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001014536-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:40.00000 MOD:2020/08/25 MEMO:
+* 1D
++ 1D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="真ん中の" sid="fuman-consumer_electronics-0001014536-1" id="14"/>
+量 りょう 量 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="不特定:状況"/><rel type="デ" target="量" sid="fuman-consumer_electronics-0001014536-2" id="1"/>
+大丈夫な だいじょうぶな 大丈夫だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3
+の の のだ 助動詞 5 * 0 ナ形容詞 21 語幹 1
+か か か 助詞 9 接続助詞 3 * 0 * 0
+な な な 助詞 9 終助詞 4 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 9P
++ 9P <rel type="ガ" target="著者"/><rel type="ト" target="大丈夫なのかな" sid="fuman-consumer_electronics-0001014536-2" id="2"/>
+不安に ふあんに 不安だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7
+なり なり なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 9D
++ 9D
+結局 けっきょく 結局 副詞 8 * 0 * 0 * 0
+* 9D
++ 9D
+毎回 まいかい 毎回 名詞 6 時相名詞 10 * 0 * 0
+* 7D
++ 7D <rel type="ガ" target="水量" sid="fuman-consumer_electronics-0001014536-2" id="7"/>
+最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4
+* 8D
++ 8D <rel type="修飾" target="最大の" sid="fuman-consumer_electronics-0001014536-2" id="6"/><rel type="=≒" target="量" sid="fuman-consumer_electronics-0001014536-1" id="13"/>
+水量 すいりょう 水量 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 9D <rel type="ガ" target="著者"/><rel type="ニ" target="水量" sid="fuman-consumer_electronics-0001014536-2" id="7"/><rel type="ヲ" target="量" sid="fuman-consumer_electronics-0001014536-1" id="13"/><rel type="カラ" target="真ん中の" sid="fuman-consumer_electronics-0001014536-1" id="14"/>
+変更 へんこう 変更 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+から から から 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物1"/><rel type="カラ" target="変更して" sid="fuman-consumer_electronics-0001014536-2" id="8"/>
+回して まわして 回す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

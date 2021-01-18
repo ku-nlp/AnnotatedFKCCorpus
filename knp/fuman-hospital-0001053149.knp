@@ -1,0 +1,70 @@
+# S-ID:fuman-hospital-0001053149-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:38.00000 MOD:2020/07/15 MEMO:
+* 1D
++ 1D
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="病院" sid="fuman-hospital-0001053149-1" id="0"/>
+ホームページ ほーむぺーじ ホームページ 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ノ" target="病院" sid="fuman-hospital-0001053149-1" id="0"/>
+院長 いんちょう 院長 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="院長" sid="fuman-hospital-0001053149-1" id="2"/>
+経歴 けいれき 経歴 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="経歴" sid="fuman-hospital-0001053149-1" id="3"/><rel type="ニ" target="ホームページ" sid="fuman-hospital-0001053149-1" id="1"/><rel type="外の関係" target="病院" sid="fuman-hospital-0001053149-1" id="5"/>
+掲載 けいさい 掲載 名詞 6 サ変名詞 2 * 0 * 0
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+* 6D
++ 6D <rel type="トイウ" target="掲載されていない" sid="fuman-hospital-0001053149-1" id="4"/>
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="病院" sid="fuman-hospital-0001053149-1" id="5"/>
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001053149-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:88.00000 MOD:2020/08/11 MEMO:
+* 1D
++ 1D <rel type="ヲ" target="経歴" sid="fuman-hospital-0001053149-1" id="3"/><rel type="ニ" target="ホームページ" sid="fuman-hospital-0001053149-1" id="1"/><rel type="ガ" target="病院" sid="fuman-hospital-0001053149-1" id="5"/><rel type="=" target="掲載されていない" sid="fuman-hospital-0001053149-1" id="4"/>
+載せ のせ 載せる 動詞 2 * 0 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+* 6D
++ 6D <rel type="トイウ" target="載せない" sid="fuman-hospital-0001053149-2" id="0"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="病院" sid="fuman-hospital-0001053149-1" id="5"/><rel type="ノ" mode="？" target="院長" sid="fuman-hospital-0001053149-1" id="2"/>
+自信 じしん 自信 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="自信" sid="fuman-hospital-0001053149-2" id="3"/><rel type="ニ" target="経歴" sid="fuman-hospital-0001053149-1" id="3"/><rel type="ガ２" target="病院" sid="fuman-hospital-0001053149-1" id="5"/><rel type="ガ２" mode="？" target="院長" sid="fuman-hospital-0001053149-1" id="2"/>
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+* 7D
++ 7D <rel type="ガ" target="こと" sid="fuman-hospital-0001053149-2" id="2"/><rel type="トイウ" target="ない" sid="fuman-hospital-0001053149-2" id="4"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+な な だ 判定詞 4 * 0 判定詞 25 ダ列基本連体形 3
+のだろう のだろう のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本推量形 4
+か か か 助詞 9 終助詞 4 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ト" target="ことなのだろうか" sid="fuman-hospital-0001053149-2" id="6"/>
+思って おもって 思う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14
+しまう しまう しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

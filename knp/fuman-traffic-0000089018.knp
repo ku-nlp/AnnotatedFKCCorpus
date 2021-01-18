@@ -1,0 +1,28 @@
+# S-ID:fuman-traffic-0000089018-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-25.00402 MOD:2020/08/31 MEMO:
+* 2D
++ 2D
+街灯 がいとう 街灯 名詞 6 普通名詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 2P
++ 2P <rel type="ガ" target="街灯" sid="fuman-traffic-0000089018-1" id="0"/><rel type="ニ" target="不特定:物１"/>
+少なく すくなく 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+* -1D
++ -1D <rel type="ガ" target="不特定:物１"/>
+くらい くらい くらい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-traffic-0000089018-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-16.80957 MOD:2020/09/03 MEMO:
+* 1D
++ 1D
+夜 よ 夜 名詞 6 時相名詞 10 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="著者"/><rel type="時間" target="夜" sid="fuman-traffic-0000089018-2" id="0"/><rel type="外の関係" target="の" sid="fuman-traffic-0000089018-2" id="2"/><rel type="ヲ" target="不特定:物１"/>
+歩く あるく 歩く 動詞 2 * 0 子音動詞カ行 2 基本形 2
++ 3D <rel type="トイウ" target="歩く" sid="fuman-traffic-0000089018-2" id="1"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ２" target="著者"/><rel type="ガ" target="の" sid="fuman-traffic-0000089018-2" id="2"/>
+怖い こわい 怖い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

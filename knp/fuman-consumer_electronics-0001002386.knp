@@ -1,0 +1,45 @@
+# S-ID:fuman-consumer_electronics-0001002386-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/07/21 MEMO:
+* 1D
++ 1D
+時計 とけい 時計 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 5D <rel type="ノ" target="時計" sid="fuman-consumer_electronics-0001002386-1" id="0"/>
+誤差 ごさ 誤差 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D <rel type="ヲ" target="時計" sid="fuman-consumer_electronics-0001002386-1" id="0"/><rel type="ガ" target="著者"/><rel type="外の関係" target="期間" sid="fuman-consumer_electronics-0001002386-1" id="3"/>
+使う つかう 使う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+* 4D
++ 4D <rel type="ノ" target="使う" sid="fuman-consumer_electronics-0001002386-1" id="2"/>
+期間 きかん 期間 名詞 6 時相名詞 10 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="誤差" sid="fuman-consumer_electronics-0001002386-1" id="1"/><rel type="ニ" target="期間" sid="fuman-consumer_electronics-0001002386-1" id="3"/>
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+が が が 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="誤差" sid="fuman-consumer_electronics-0001002386-1" id="1"/>
+大きい おおきい 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001002386-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/27 MEMO:
+* 1D
++ 1D
+再 さい 再 接頭辞 13 名詞接頭辞 1 * 0 * 0
++ 2D <rel type="ヲ" target="時計" sid="fuman-consumer_electronics-0001002386-1" id="0"/><rel type="ガ" target="著者"/><rel type="修飾" target="再" sid="fuman-consumer_electronics-0001002386-2" id="0"/><rel type="外の関係" target="の" sid="fuman-consumer_electronics-0001002386-2" id="2"/>
+設定 せってい 設定 名詞 6 サ変名詞 2 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
++ 3D <rel type="トイウ" target="設定する" sid="fuman-consumer_electronics-0001002386-2" id="1"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 2D
++ 4D <rel type="ガ" target="の" sid="fuman-consumer_electronics-0001002386-2" id="2"/><rel type="ガ２" target="著者"/>
+面倒で めんどうで 面倒だ 形容詞 3 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="の" sid="fuman-consumer_electronics-0001002386-2" id="2"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

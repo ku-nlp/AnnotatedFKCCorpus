@@ -1,0 +1,60 @@
+# S-ID:fuman-consumer_electronics-0001015098-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:60.00000 MOD:2020/08/25 MEMO:
+* 3D
++ 2D
+特別 とくべつ 特別 副詞 8 * 0 * 0 * 0
++ 2D
+２ に ２ 名詞 6 数詞 7 * 0 * 0
+時間 じかん 時間 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
++ 5D <rel type="時間" target="２時間" sid="fuman-consumer_electronics-0001015098-1" id="1"/><rel type="修飾" target="特別" sid="fuman-consumer_electronics-0001015098-1" id="0"/>
+スペシャル すぺしゃる スペシャルだ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+と と と 助詞 9 格助詞 1 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 3D
++ 5D <rel type="ノ" target="スペシャルとか" sid="fuman-consumer_electronics-0001015098-1" id="2"/>
+途中 とちゅう 途中 名詞 6 時相名詞 10 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 5D <rel type="ガ" target="不特定:物1"/><rel type="ヲ" target="スペシャルとか" sid="fuman-consumer_electronics-0001015098-1" id="2"/>
+録画 ろくが 録画 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="録画" sid="fuman-consumer_electronics-0001015098-1" id="4"/><rel type="ガ２" target="スペシャル" sid="fuman-consumer_electronics-0001015098-1" id="2"/><rel type="デ" target="途中" sid="fuman-consumer_electronics-0001015098-1" id="3"/>
+切れて きれて 切れる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+しまって しまって しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 タ系連用テ形 14
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8
+ます ます ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001015098-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:8.00000 MOD:2020/08/25 MEMO:
+* 1D
++ 1D
+いつも いつも いつも 副詞 8 * 0 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D
+１ いち １ 名詞 6 数詞 7 * 0 * 0
+時間 じかん 時間 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+しか しか しか 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="不特定:物1"/><rel type="ヲ" target="スペシャルとか" sid="fuman-consumer_electronics-0001015098-1" id="2"/><rel type="時間" target="１時間" sid="fuman-consumer_electronics-0001015098-2" id="1"/><rel type="=" target="録画" sid="fuman-consumer_electronics-0001015098-1" id="4"/>
+録画 ろくが 録画 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D
+ちゃんと ちゃんと ちゃんと 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="不特定:人1"/><rel type="ヲ" target="不特定:物1"/><rel type="ヲ" mode="AND" target="スペシャルとか" sid="fuman-consumer_electronics-0001015098-1" id="2"/>
+録画 ろくが 録画 名詞 6 サ変名詞 2 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+して して する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+です です です 助動詞 5 * 0 無活用型 26 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

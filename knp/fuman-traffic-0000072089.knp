@@ -1,0 +1,39 @@
+# S-ID:fuman-traffic-0000072089-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-78.23011 MOD:2020/09/03 MEMO:
+* 1P
++ 1D
+初心 しょしん 初心 名詞 6 普通名詞 1 * 0 * 0
++ 2D <rel type="修飾" target="初心" sid="fuman-traffic-0000072089-1" id="0"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
++ 5P <rel type="ノ" target="者" sid="fuman-traffic-0000072089-1" id="1"/>
+マーク まーく マーク 名詞 6 サ変名詞 2 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 4D
+高齢 こうれい 高齢 名詞 6 普通名詞 1 * 0 * 0
++ 5D <rel type="修飾" target="高齢" sid="fuman-traffic-0000072089-1" id="3"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
++ 6D <rel type="ノ" target="者" sid="fuman-traffic-0000072089-1" id="4"/><rel type="=≒" target="マーク" sid="fuman-traffic-0000072089-1" id="2"/>
+マーク まーく マーク 名詞 6 サ変名詞 2 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 8D <rel type="ガ" target="車" sid="fuman-traffic-0000072089-1" id="8"/><rel type="ヲ" target="マーク" sid="fuman-traffic-0000072089-1" id="2"/><rel type="ヲ" mode="OR" target="マーク" sid="fuman-traffic-0000072089-1" id="5"/>
+つけて つけて つける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+* 4D
++ 8D <rel type="ガ" target="車" sid="fuman-traffic-0000072089-1" id="8"/>
+遅い おそい 遅い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 5D
++ 9D
+車 くるま 車 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 10D <rel type="ガ" target="車" sid="fuman-traffic-0000072089-1" id="8"/><rel type="ヲ" target="不特定:物"/>
+走って はしって 走る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+* -1D
++ -1D <rel type="トイウ" target="走っている" sid="fuman-traffic-0000072089-1" id="9"/><rel type="ガ" target="こと" sid="fuman-traffic-0000072089-1" id="10"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,4 @@
+# S-ID:fuman-consumer_electronics-0001023112-1
+同じメーカーでも微妙にコントロールキーなどのキー配列が違うので統一するか選べるようにしてほしい。
+# S-ID:fuman-consumer_electronics-0001023112-2
+特にコンパクトタイプのに多い。

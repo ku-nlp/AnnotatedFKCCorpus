@@ -1,0 +1,31 @@
+# S-ID:fuman-consumer_electronics-0001001189-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/07/17 MEMO:
+* 1D
++ 1D
+カメラ かめら カメラ 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="ノ" target="カメラ" sid="fuman-consumer_electronics-0001001189-1" id="0"/>
+画質 がしつ 画質 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="画質" sid="fuman-consumer_electronics-0001001189-1" id="1"/>
+悪 わる 悪い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
+すぎる すぎる すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001001189-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/27 MEMO:
+* 1D
++ 1D <rel type="ガ" target="不特定:物"/>
+ブレて ぶれて ブレる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+* 2D
++ 2D <rel type="ガ" target="不特定:物"/><rel type="外の関係" target="こと" sid="fuman-consumer_electronics-0001001189-2" id="2"/><rel type="ニ" target="不特定:物1"/>
+うつる うつる うつる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+* 3D
++ 3D <rel type="トイウ" target="うつる" sid="fuman-consumer_electronics-0001001189-2" id="1"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="こと" sid="fuman-consumer_electronics-0001001189-2" id="2"/>
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

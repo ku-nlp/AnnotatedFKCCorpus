@@ -1,0 +1,54 @@
+# S-ID:fuman-hospital-0001000578-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:13.00000 MOD:2020/07/27 MEMO:
+* 2D
++ 1D
+待ち まち 待ち 名詞 6 普通名詞 1 * 0 * 0
+合い あい 合い 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="ノ？" target="待ち合い" sid="fuman-hospital-0001000578-1" id="0"/><rel type="ノ" target="不特定:物1"/>
+室 しつ 室 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 3D <rel type="ノ" target="不特定:状況1"/>
+順番 じゅんばん 順番 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="ガ" target="著者"/><rel type="ヲ" target="順番" sid="fuman-hospital-0001000578-1" id="2"/>
+待ち まち 待ち 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 5D <rel type="ガ" target="著者"/><rel type="ヲ" target="待ち" sid="fuman-hospital-0001000578-1" id="3"/><rel type="デ" target="室" sid="fuman-hospital-0001000578-1" id="1"/>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+、 、 、 特殊 1 読点 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="順番" sid="fuman-hospital-0001000578-1" id="2"/><rel type="ニ" target="不特定:人1"/>
+飛ばさ とばさ 飛ばす 動詞 2 * 0 子音動詞サ行 5 未然形 3
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+しまった しまった しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001000578-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:23.00000 MOD:2020/08/13 MEMO:
+* 1D
++ 1D <rel type="ノ？" target="室" sid="fuman-hospital-0001000578-1" id="1"/>
+席 せき 席 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 2P
++ 2P <rel type="ガ" target="著者"/><rel type="ヲ" target="席" sid="fuman-hospital-0001000578-2" id="0"/>
+外し はずし 外す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8
+* 3D
++ 3D <rel type="ガ" target="著者"/><rel type="ニ" target="席" sid="fuman-hospital-0001000578-2" id="0"/><rel type="外の関係" target="こと" sid="fuman-hospital-0001000578-2" id="3"/>
+戻った もどった 戻る 動詞 2 * 0 子音動詞ラ行 10 タ形 10
+* 4D
++ 4D <rel type="トイウ" target="戻った" sid="fuman-hospital-0001000578-2" id="2"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="著者"/><rel type="ヲ" target="こと" sid="fuman-hospital-0001000578-2" id="3"/><rel type="ニ" target="不特定:人1"/>
+伝えた つたえた 伝える 動詞 2 * 0 母音動詞 1 タ形 10
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+、 、 、 特殊 1 読点 2 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="不特定:人1"/><rel type="ヲ" target="こと" sid="fuman-hospital-0001000578-2" id="3"/>
+忘れ わすれ 忘れる 動詞 2 * 0 母音動詞 1 未然形 3
+られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

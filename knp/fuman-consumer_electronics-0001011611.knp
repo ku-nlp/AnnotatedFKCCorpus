@@ -1,0 +1,57 @@
+# S-ID:fuman-consumer_electronics-0001011611-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/24 MEMO:
+* 1D
++ 1D
+新しく あたらしく 新しい 形容詞 3 * 0 イ形容詞イ段 19 基本連用形 7
+* 2D
++ 2D <rel type="ガ" target="著者"/><rel type="ヲ" target="扇風機" sid="fuman-consumer_electronics-0001011611-1" id="2"/>
+買った かった 買う 動詞 2 * 0 子音動詞ワ行 12 タ形 10
+* 7D
++ 9D
+扇風機 せんぷうき 扇風機 名詞 6 普通名詞 1 * 0 * 0
+な な だ 判定詞 4 * 0 判定詞 25 ダ列基本連体形 3
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D <rel type="ノ" target="著者"/>
+子供 こども 子供 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 9D <rel type="ガ" target="子供" sid="fuman-consumer_electronics-0001011611-1" id="3"/><rel type="デ" target="扇風機" sid="fuman-consumer_electronics-0001011611-1" id="2"/>
+遊んで あそんで 遊ぶ 動詞 2 * 0 子音動詞バ行 8 タ系連用テ形 14
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 7D
++ 9D
+もう もう もう 副詞 8 * 0 * 0 * 0
+* 7D
++ 7D <rel type="ノ" target="扇風機" sid="fuman-consumer_electronics-0001011611-1" id="2"/>
+首 くび 首 名詞 6 普通名詞 1 * 0 * 0
++ 8D <rel type="ガ" target="扇風機" sid="fuman-consumer_electronics-0001011611-1" id="2"/><rel type="ヲ" target="首" sid="fuman-consumer_electronics-0001011611-1" id="6"/><rel type="外の関係" target="機能" sid="fuman-consumer_electronics-0001011611-1" id="8"/>
+振り ふり 振り 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:振り-ふり-振る-2-0-10-8"
++ 9D <rel type="ノ？" target="扇風機" sid="fuman-consumer_electronics-0001011611-1" id="2"/><rel type="ノ" target="振り" sid="fuman-consumer_electronics-0001011611-1" id="7"/>
+機能 きのう 機能 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="機能" sid="fuman-consumer_electronics-0001011611-1" id="8"/>
+ぶっ ぶっ ぶっ 接頭辞 13 動詞接頭辞 2 * 0 * 0
+壊れて こわれて 壊れる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+しまった しまった しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 タ形 10
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001011611-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/24 MEMO:
+* 1D
++ 1D <rel type="=" target="扇風機" sid="fuman-consumer_electronics-0001011611-1" id="2"/>
+扇風機 せんぷうき 扇風機 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 3D <rel type="ノ" target="扇風機" sid="fuman-consumer_electronics-0001011611-2" id="0"/><rel type="=" target="首" sid="fuman-consumer_electronics-0001011611-1" id="6"/>
+首 くび 首 名詞 6 普通名詞 1 * 0 * 0
+って って って 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 3D
+結構 けっこう 結構 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="首" sid="fuman-consumer_electronics-0001011611-2" id="1"/><rel type="=≒" target="ぶっ壊れてしまった" sid="fuman-consumer_electronics-0001011611-1" id="9"/>
+壊れ こわれ 壊れる 動詞 2 * 0 母音動詞 1 基本連用形 8
+やすい やすい やすい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

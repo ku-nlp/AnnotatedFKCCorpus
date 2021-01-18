@@ -1,0 +1,92 @@
+# S-ID:fuman-hospital-0001009944-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:71.00000 MOD:2020/08/14 MEMO:
+* 7D
++ 1D
+皮膚 ひふ 皮膚 名詞 6 普通名詞 1 * 0 * 0
++ 8D <rel type="ノ" target="皮膚" sid="fuman-hospital-0001009944-1" id="0"/>
+科 か 科 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 2D
++ 3D <rel type="ノ" target="旦那" sid="fuman-hospital-0001009944-1" id="5"/>
+奥さん おくさん 奥さん 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 4D <rel type="ガ" target="旦那" sid="fuman-hospital-0001009944-1" id="5"/><rel type="ニ" target="奥さん" sid="fuman-hospital-0001009944-1" id="2"/>
+付き添い つきそい 付き添い 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 5D <rel type="ガ" target="旦那" sid="fuman-hospital-0001009944-1" id="5"/><rel type="ニ" target="科" sid="fuman-hospital-0001009944-1" id="1"/><rel type="デ" target="付き添い" sid="fuman-hospital-0001009944-1" id="3"/><rel type="デ" mode="？" target="なし"/>
+きて きて くる 動詞 2 * 0 カ変動詞 14 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+* 7D
++ 8D <rel type="ノ" target="奥さん" sid="fuman-hospital-0001009944-1" id="2"/>
+旦那 だんな 旦那 名詞 6 普通名詞 1 * 0 * 0
+さん さん さん 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 7D <rel type="ノ" target="科" sid="fuman-hospital-0001009944-1" id="1"/>
+待合 まちあい 待合 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 7D
++ 8D <rel type="ノ？" target="待合" sid="fuman-hospital-0001009944-1" id="6"/>
+椅子 いす 椅子 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 9D <rel type="ガ" target="旦那" sid="fuman-hospital-0001009944-1" id="5"/><rel type="ニ" target="椅子" sid="fuman-hospital-0001009944-1" id="7"/><rel type="デ" target="科" sid="fuman-hospital-0001009944-1" id="1"/><rel type="外の関係" target="の" sid="fuman-hospital-0001009944-1" id="9"/>
+座って すわって 座る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
++ 10D <rel type="トイウ" target="座ってる" sid="fuman-hospital-0001009944-1" id="8"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 9D
++ 11D <rel type="ガ" target="の" sid="fuman-hospital-0001009944-1" id="9"/>
+どう どう どう 指示詞 7 副詞形態指示詞 3 * 0 * 0
+か か か 助詞 9 接続助詞 3 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ト" target="どうか" sid="fuman-hospital-0001009944-1" id="10"/>
+思う おもう 思う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001009944-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:89.00000 MOD:2020/08/14 MEMO:
+* 1D
++ 1D <rel type="=" target="椅子" sid="fuman-hospital-0001009944-1" id="7"/>
+椅子 いす 椅子 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="椅子" sid="fuman-hospital-0001009944-2" id="0"/>
+足り たり 足りる 動詞 2 * 0 母音動詞 1 未然形 3
+なくて なくて ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 3D
++ 3D <rel type="ノ" target="奥さん" sid="fuman-hospital-0001009944-1" id="2"/>
+他 ほか 他 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 4D
++ 4D <rel type="修飾" target="他" sid="fuman-hospital-0001009944-2" id="2"/>
+患者 かんじゃ 患者 名詞 6 普通名詞 1 * 0 * 0
+さん さん さん 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="患者" sid="fuman-hospital-0001009944-2" id="3"/><rel type="外の関係" target="時" sid="fuman-hospital-0001009944-2" id="5"/><rel type="ニ" target="椅子" sid="fuman-hospital-0001009944-1" id="7"/>
+座れて すわれて 座れる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+* 8D
++ 8D <rel type="ノ" target="座れてない" sid="fuman-hospital-0001009944-2" id="4"/>
+時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 8D
++ 8D <rel type="ガ" target="旦那" sid="fuman-hospital-0001009944-1" id="5"/><rel type="ニ" target="患者" sid="fuman-hospital-0001009944-2" id="3"/><rel type="ヲ" target="椅子" sid="fuman-hospital-0001009944-1" id="7"/>
+譲って ゆずって 譲る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+* 8D
++ 8D <rel type="ノ" target="科" sid="fuman-hospital-0001009944-1" id="1"/>
+廊下 ろうか 廊下 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="時間" target="時" sid="fuman-hospital-0001009944-2" id="5"/><rel type="ガ" target="旦那" sid="fuman-hospital-0001009944-1" id="5"/><rel type="デ" target="廊下" sid="fuman-hospital-0001009944-2" id="7"/><rel type="ヲ" target="奥さん" sid="fuman-hospital-0001009944-1" id="2"/>
+待てば まてば 待つ 動詞 2 * 0 子音動詞タ行 6 基本条件形 7
+いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,16 @@
+# S-ID:fuman-trip-0000001575-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-23.13934 MOD:2020/08/31 MEMO:
+* 1D
++ 1D <rel type="ガ" target="著者"/>
+思った おもった 思う 動詞 2 * 0 子音動詞ワ行 12 タ形 10
+より より より 助詞 9 接続助詞 3 * 0 * 0
+* 3P
++ 3P <rel type="ヨリ" target="思った" sid="fuman-trip-0000001575-1" id="0"/><rel type="ガ" target="不特定:物1"/>
+小さくて ちいさくて 小さい 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+* 3D
++ 3D <rel type="ガ" target="家" sid="fuman-trip-0000001575-1" id="3"/>
+普通の ふつうの 普通だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4
+* -1D
++ -1D <rel type="ガ" target="不特定:物1"/><rel type="修飾" target="普通の" sid="fuman-trip-0000001575-1" id="2"/>
+家 いえ 家 名詞 6 普通名詞 1 * 0 * 0
+みたい みたい みたいだ 助動詞 5 * 0 ナ形容詞 21 語幹 1
+EOS

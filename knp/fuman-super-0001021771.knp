@@ -1,0 +1,62 @@
+# S-ID:fuman-super-0001021771-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:50.00000 MOD:2020/08/24 MEMO:
+* 1D
++ 1D <rel type="ノ？" target="不特定:物1"/>
+カート かーと カート 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ヲ" target="カート" sid="fuman-super-0001021771-1" id="0"/><rel type="ガ" target="人" sid="fuman-super-0001021771-1" id="8"/><rel type="ガ" mode="AND" target="おばさん" sid="fuman-super-0001021771-1" id="6"/>
+押し おし 押す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8
+ながら ながら ながら 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 3D
++ 3D <rel type="ガ" target="とこ" sid="fuman-super-0001021771-1" id="3"/>
+邪魔な じゃまな 邪魔だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3
+* 5D
++ 5D <rel type="ノ" target="不特定:物1"/><rel type="修飾" target="邪魔な" sid="fuman-super-0001021771-1" id="2"/>
+とこ とこ とこ 名詞 6 副詞的名詞 9 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="人" sid="fuman-super-0001021771-1" id="8"/><rel type="ガ" mode="AND" target="おばさん" sid="fuman-super-0001021771-1" id="6"/>
+立ち話 たちばなし 立ち話 名詞 6 サ変名詞 2 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 8D <rel type="ヲ" target="立ち話" sid="fuman-super-0001021771-1" id="4"/><rel type="ガ" target="おばさん" sid="fuman-super-0001021771-1" id="6"/><rel type="ガ" mode="AND" target="人" sid="fuman-super-0001021771-1" id="8"/><rel type="デ" target="とこ" sid="fuman-super-0001021771-1" id="3"/>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+* 8P
++ 8P
+おばさん おばさん おばさん 名詞 6 普通名詞 1 * 0 * 0
+や や や 助詞 9 接続助詞 3 * 0 * 0
+* 8D
++ 8D
+子連れ こづれ 子連れ 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* -1D
++ -1D <rel type="修飾" target="子連れ" sid="fuman-super-0001021771-1" id="7"/><rel type="=構" target="子連れ" sid="fuman-super-0001021771-1" id="7"/>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-super-0001021771-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/24 MEMO:
+* 1D
++ 1D <rel type="ガ" target="通路" sid="fuman-super-0001021771-2" id="1"/>
+狭い せまい 狭い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+* 3D
++ 3D <rel type="ノ" target="不特定:物1"/><rel type="=≒" target="とこ" sid="fuman-super-0001021771-1" id="3"/>
+通路 つうろ 通路 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D
+余計 よけい 余計 副詞 8 * 0 * 0 * 0
+* 5P
++ 5P <rel type="ガ" target="通路" sid="fuman-super-0001021771-2" id="1"/><rel type="ニヨッテ" target="おばさん" sid="fuman-super-0001021771-1" id="6"/><rel type="ニヨッテ" mode="AND" target="人" sid="fuman-super-0001021771-1" id="8"/>
+狭くて せまくて 狭い 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+* 5D
++ 5D <rel type="ガ" target="おばさん" sid="fuman-super-0001021771-1" id="6"/><rel type="ガ" mode="AND" target="人" sid="fuman-super-0001021771-1" id="8"/><rel type="=" target="邪魔な" sid="fuman-super-0001021771-1" id="2"/>
+邪魔で じゃまで 邪魔だ 形容詞 3 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+* -1D
++ -1D <rel type="ヲ" target="通路" sid="fuman-super-0001021771-2" id="1"/><rel type="ガ" target="著者"/><rel type="ガ" mode="AND" target="不特定:人"/>
+通れ とおれ 通れる 動詞 2 * 0 母音動詞 1 基本連用形 8
+ませ ませ ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 未然形 3
+ん ん ぬ 助動詞 5 * 0 助動詞ぬ型 27 音便基本形 12
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

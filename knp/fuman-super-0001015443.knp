@@ -1,0 +1,69 @@
+# S-ID:fuman-super-0001015443-1 KNP:4.2-75a8fa27 DATE:2020/06/17 SCORE:59.00000 MOD:2020/08/21 MEMO:
+* 1D
++ 1D
+コンビニ こんびに コンビニ 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 5D
++ 5D <rel type="ノ？" target="コンビニ" sid="fuman-super-0001015443-1" id="0"/>
+ＡＴＭ ＡＴＭ ＡＴＭ 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 3D
+夕方 ゆうがた 夕方 名詞 6 時相名詞 10 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ニ" target="夕方" sid="fuman-super-0001015443-1" id="2"/><rel type="ガ" target="不特定:状況"/>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D
+スゴく すごく スゴい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+* -1D
++ -1D <rel type="ガ" target="ＡＴＭ" sid="fuman-super-0001015443-1" id="1"/><rel type="時間" target="夕方" sid="fuman-super-0001015443-1" id="2"/>
+混む こむ 混む 動詞 2 * 0 子音動詞マ行 9 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-super-0001015443-2 KNP:4.2-75a8fa27 DATE:2020/06/17 SCORE:99.00000 MOD:2020/08/21 MEMO:
+* 1D
++ 1D <rel type="ガ" target="ＡＴＭ" sid="fuman-super-0001015443-1" id="1"/><rel type="=" target="混む" sid="fuman-super-0001015443-1" id="5"/>
+混む こむ 混む 動詞 2 * 0 子音動詞マ行 9 基本形 2
+* 6D
++ 7D <rel type="ノ" target="混む" sid="fuman-super-0001015443-2" id="0"/>
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 3D
++ 3D
+一 ひと 一 名詞 6 数詞 7 * 0 * 0
+人 り 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+* 4D
++ 4D <rel type="修飾" target="一人" sid="fuman-super-0001015443-2" id="2"/>
+何 なん 何 名詞 6 数詞 7 * 0 * 0
+分 ぷん 分 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 6P
++ 7P <rel type="ト" target="何分" sid="fuman-super-0001015443-2" id="3"/><rel type="ヲ" target="不特定:状況1"/><rel type="ガ" target="コンビニ" sid="fuman-super-0001015443-1" id="0"/><rel type="時間" target="時間" sid="fuman-super-0001015443-2" id="1"/>
+区切る くぎる 区切る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+か か か 助詞 9 接続助詞 3 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="不特定:人"/><rel type="デ" target="ＡＴＭ" sid="fuman-super-0001015443-1" id="1"/><rel type="外の関係" target="専用" sid="fuman-super-0001015443-2" id="6"/>
+引き出し ひきだし 引き出し 名詞 6 普通名詞 1 * 0 * 0
++ 7D <rel type="ノ" target="引き出し" sid="fuman-super-0001015443-2" id="5"/>
+専用 せんよう 専用 名詞 6 サ変名詞 2 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 10D <rel type="ト" target="専用" sid="fuman-super-0001015443-2" id="6"/><rel type="ヲ" target="ＡＴＭ" sid="fuman-super-0001015443-1" id="1"/><rel type="ガ" target="コンビニ" sid="fuman-super-0001015443-1" id="0"/><rel type="時間" target="時間" sid="fuman-super-0001015443-2" id="1"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 8D
++ 9D <rel type="ガ" target="客" sid="fuman-super-0001015443-2" id="9"/><rel type="デ" target="コンビニ" sid="fuman-super-0001015443-1" id="0"/>
+買い物 かいもの 買い物 名詞 6 サ変名詞 2 * 0 * 0
++ 10D <rel type="ノ" target="コンビニ" sid="fuman-super-0001015443-1" id="0"/>
+客 きゃく 客 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ニ" target="客" sid="fuman-super-0001015443-2" id="9"/><rel type="ガ" target="混む" sid="fuman-super-0001015443-1" id="5"/>
+迷惑だ めいわくだ 迷惑だ 形容詞 3 * 0 ナ形容詞 21 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

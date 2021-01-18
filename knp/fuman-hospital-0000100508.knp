@@ -1,0 +1,53 @@
+# S-ID:fuman-hospital-0000100508-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/03 MEMO:
+* 2D
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="著者"/><rel type="デ" target="不特定:物1"/>
+待ち まち 待ち 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="ノ" target="待ち" sid="fuman-hospital-0000100508-1" id="0"/>
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 3D
+非常に ひじょうに 非常だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7
+* -1D
++ -1D <rel type="ガ" target="時間" sid="fuman-hospital-0000100508-1" id="1"/>
+ながい ながい ながい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0000100508-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:38.00000 MOD:2020/08/03 MEMO:
+* 1D
++ 1D <rel type="ノ" target="著者"/>
+知り合い しりあい 知り合い 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 3D <rel type="ガ" target="知り合い" sid="fuman-hospital-0000100508-2" id="0"/><rel type="ニ" target="病院" sid="fuman-hospital-0000100508-2" id="3"/>
+かよって かよって かよう 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+* 5D
++ 3D
+動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0
++ 6D <rel type="修飾" target="動物" sid="fuman-hospital-0000100508-2" id="2"/><rel type="=≒" target="不特定:物1"/>
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 5D
++ 6D <NE:ARTIFACT:ツイッター>
+ツイッター ついったー ツイッター 名詞 6 固有名詞 3 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 6D <rel type="ノ" target="病院" sid="fuman-hospital-0000100508-2" id="3"/><rel type="ノ" mode="AND" target="知り合い" sid="fuman-hospital-0000100508-2" id="0"/><rel type="ノ" mode="AND" target="不特定:人"/>
+順番 じゅんばん 順番 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 7D <rel type="ガ" target="病院" sid="fuman-hospital-0000100508-2" id="3"/><rel type="ヲ" target="順番" sid="fuman-hospital-0000100508-2" id="5"/><rel type="デ" target="病院" sid="fuman-hospital-0000100508-2" id="3"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="知り合い" sid="fuman-hospital-0000100508-2" id="0"/>
+しら しら しる 動詞 2 * 0 子音動詞ラ行 10 未然形 3
+せて せて せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+くれたり くれたり くれる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用タリ形 15
+する する する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 基本形 2
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="しらせてくれたりする" sid="fuman-hospital-0000100508-2" id="6"/><rel type="ニ" target="不特定:人1"/>
+真似 まね 真似 名詞 6 普通名詞 1 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,71 @@
+# S-ID:fuman-traffic-0000145859-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-119.39063 MOD:2020/09/01 MEMO:12-07:fix-yuta-h
+* 1D
++ 1D
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="修飾" target="一般" sid="fuman-traffic-0000145859-1" id="0"/>
+道 どう 道 名詞 6 普通名詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
++ 3D
+高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
+* 2D
++ 4D <rel type="修飾" target="高速" sid="fuman-traffic-0000145859-1" id="2"/>
+道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 6D <rel type="デ" target="車線" sid="fuman-traffic-0000145859-1" id="6"/><rel type="ニ" target="道路" sid="fuman-traffic-0000145859-1" id="3"/><rel type="カラ" target="道" sid="fuman-traffic-0000145859-1" id="1"/><rel type="ガ" target="不特定:人"/>
+入る はいる 入る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
++ 6D <rel type="ニ" target="道路" sid="fuman-traffic-0000145859-1" id="3"/><rel type="ガ" target="不特定:人"/>
+合流 ごうりゅう 合流 名詞 6 サ変名詞 2 * 0 * 0
+* 4D
++ 7D <rel type="修飾" target="合流" sid="fuman-traffic-0000145859-1" id="5"/>
+車線 しゃせん 車線 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 12D
++ 18D <rel type="デ" target="車線" sid="fuman-traffic-0000145859-1" id="6"/><rel type="ガ" target="著者"/><rel type="ニ" target="道路" sid="fuman-traffic-0000145859-1" id="3"/><rel type="=≒" target="入る" sid="fuman-traffic-0000145859-1" id="4"/>
+入ろう はいろう 入る 動詞 2 * 0 子音動詞ラ行 10 意志形 4
+と と と 助詞 9 格助詞 1 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+* 6D
++ 13D
+トラック とらっく トラック 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
++ 10D <rel type="=≒" target="車線" sid="fuman-traffic-0000145859-1" id="6"/>
+車線 しゃせん 車線 名詞 6 普通名詞 1 * 0 * 0
+* 7D
++ 13P <rel type="ガ" target="トラック" sid="fuman-traffic-0000145859-1" id="8"/><rel type="ヲ" target="車線" sid="fuman-traffic-0000145859-1" id="9"/>
+変更 へんこう 変更 名詞 6 サ変名詞 2 * 0 * 0
+せ せ する 動詞 2 * 0 サ変動詞 16 文語未然形 19
+ず ず ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本連用形 4
++ 12D
+猛 もう 猛 接頭辞 13 名詞接頭辞 1 * 0 * 0
+* 8D
++ 13D <rel type="修飾" target="猛" sid="fuman-traffic-0000145859-1" id="11"/>
+スピード すぴーど スピード 名詞 6 普通名詞 1 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 12D
++ 18D <rel type="ガ" target="トラック" sid="fuman-traffic-0000145859-1" id="8"/><rel type="デ" target="スピード" sid="fuman-traffic-0000145859-1" id="12"/><rel type="デ" mode="？" target="なし"/>
+走って はしって 走る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+きた きた くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 タ形 10
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 10D
++ 15D
+もう もう もう 副詞 8 * 0 * 0 * 0
+* 12D
++ 17D
+少し すこし 少し 副詞 8 * 0 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 12D
++ 17D
+ガードレール がーどれーる ガードレール 名詞 6 普通名詞 1 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ 18D <rel type="デ" target="少し" sid="fuman-traffic-0000145859-1" id="15"/><rel type="デ" mode="？" target="なし"/><rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物1"/><rel type="ニ" target="ガードレール" sid="fuman-traffic-0000145859-1" id="16"/>
+擦る する 擦る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
++ -1D <rel type="ガ" target="不特定:状況"/>
+ところ ところ ところ 名詞 6 副詞的名詞 9 * 0 * 0
+だった だった だ 判定詞 4 * 0 判定詞 25 ダ列タ形 8
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

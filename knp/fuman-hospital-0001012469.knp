@@ -1,0 +1,68 @@
+# S-ID:fuman-hospital-0001012469-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:68.00000 MOD:2020/08/14 MEMO:
+* 3D
++ 1D
+不妊 ふにん 不妊 名詞 6 普通名詞 1 * 0 * 0
++ 5D <rel type="ヲ" target="不妊" sid="fuman-hospital-0001012469-1" id="0"/><rel type="ガ" target="不特定:人1"/>
+治療 ちりょう 治療 名詞 6 サ変名詞 2 * 0 * 0
+など など など 助詞 9 副助詞 2 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 3D
++ 3D
+夫婦 ふうふ 夫婦 名詞 6 普通名詞 1 * 0 * 0
++ 5D <rel type="=構" target="夫婦" sid="fuman-hospital-0001012469-1" id="2"/><rel type="ノ" target="夫婦" sid="fuman-hospital-0001012469-1" id="2"/>
+ふた ふた ふた 名詞 6 数詞 7 * 0 * 0
+り り り 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+で で で 助詞 9 格助詞 1 * 0 * 0
+* 3P
++ 5D <rel type="ヲ" target="治療など" sid="fuman-hospital-0001012469-1" id="1"/><rel type="ニ" target="不特定:人1"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="著者"/><rel type="デ" target="ふたり" sid="fuman-hospital-0001012469-1" id="3"/>
+相談 そうだん 相談 名詞 6 サ変名詞 2 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 8P <rel type="デ" target="ふたり" sid="fuman-hospital-0001012469-1" id="3"/><rel type="デ" mode="AND" target="治療など" sid="fuman-hospital-0001012469-1" id="1"/><rel type="ニ" target="相談" sid="fuman-hospital-0001012469-1" id="4"/><rel type="ニ" mode="AND" target="不特定:物1"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="著者"/>
+行き いき 行く 動詞 2 * 0 子音動詞カ行促音便形 3 基本連用形 8
+たくて たくて たい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 タ系連用テ形 12
+も も も 助詞 9 副助詞 2 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 6D
++ 8D <rel type="=≒" target="夫婦" sid="fuman-hospital-0001012469-1" id="2"/><rel type="=≒" mode="AND" target="著者"/>
+男性 だんせい 男性 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+* 6D
++ 8D
+ものすごく ものすごく ものすごい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+* -1D
++ -1D <rel type="ガ" target="男性" sid="fuman-hospital-0001012469-1" id="6"/><rel type="ニ" target="相談" sid="fuman-hospital-0001012469-1" id="4"/><rel type="ニ" mode="AND" target="不特定:物1"/>
+行き いき 行く 動詞 2 * 0 子音動詞カ行促音便形 3 基本連用形 8
+づらい づらい づらい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0001012469-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/07/27 MEMO:
+* 6D
++ 6D
+でも でも でも 接続詞 10 * 0 * 0 * 0
+* 2D
++ 2D <rel type="=≒" target="夫婦" sid="fuman-hospital-0001012469-1" id="2"/>
+女性 じょせい 女性 名詞 6 普通名詞 1 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+も も も 助詞 9 副助詞 2 * 0 * 0
+* 4D
++ 4D <rel type="=" target="男性" sid="fuman-hospital-0001012469-1" id="6"/>
+男性 だんせい 男性 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 5D
++ 5D <rel type="ガ" target="男性" sid="fuman-hospital-0001012469-2" id="3"/><rel type="ニ" target="不特定:物1"/>
+いる いる いる 動詞 2 * 0 母音動詞 1 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D <rel type="ト" target="いる" sid="fuman-hospital-0001012469-2" id="4"/><rel type="トシテ" target="女性" sid="fuman-hospital-0001012469-2" id="1"/><rel type="ガ" target="女性" sid="fuman-hospital-0001012469-2" id="1"/>
+嫌だろう いやだろう 嫌だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本推量形 4
+な な な 助詞 9 終助詞 4 * 0 * 0
+と と と 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ト" target="嫌だろう" sid="fuman-hospital-0001012469-2" id="5"/>
+思う おもう 思う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

@@ -1,0 +1,55 @@
+# S-ID:fuman-hospital-0000100357-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/03 MEMO:
+* 1D
++ 1D
+木曜日 もくようび 木曜日 名詞 6 時相名詞 10 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 2D
++ 2D <rel type="ガ" target="木曜日" sid="fuman-hospital-0000100357-1" id="0"/>
+休み やすみ 休み 名詞 6 普通名詞 1 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 3D
++ 3D <rel type="修飾" target="休み" sid="fuman-hospital-0000100357-1" id="1"/>
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="病院" sid="fuman-hospital-0000100357-1" id="2"/>
+多くて おおくて 多い 形容詞 3 * 0 イ形容詞アウオ段 18 タ系連用テ形 12
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="多くて" sid="fuman-hospital-0000100357-1" id="3"/>
+困る こまる 困る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-hospital-0000100357-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:38.00000 MOD:2020/08/03 MEMO:
+* 1D
++ 1D <rel type="ガ" target="著者"/>
+仕事 しごと 仕事 名詞 6 サ変名詞 2 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 2D
++ 2D <rel type="=≒" target="休み" sid="fuman-hospital-0000100357-1" id="1"/><rel type="ノ" target="仕事" sid="fuman-hospital-0000100357-2" id="0"/>
+休み やすみ 休み 名詞 6 普通名詞 1 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 7D <rel type="ガ" target="休み" sid="fuman-hospital-0000100357-2" id="1"/><rel type="=構" target="休み" sid="fuman-hospital-0000100357-2" id="1"/><rel type="=" mode="AND" target="木曜日" sid="fuman-hospital-0000100357-1" id="0"/>
+木曜日 もくようび 木曜日 名詞 6 時相名詞 10 * 0 * 0
+な な だ 判定詞 4 * 0 判定詞 25 ダ列基本連体形 3
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 4D
++ 4D <rel type="ガ" target="著者"/><rel type="ヲ" target="病院" sid="fuman-hospital-0000100357-2" id="4"/>
+受診 じゅしん 受診 名詞 6 サ変名詞 2 * 0 * 0
+できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2
+* 5D
++ 5D <rel type="=≒" target="病院" sid="fuman-hospital-0000100357-1" id="2"/><rel type="修飾" target="受診できる" sid="fuman-hospital-0000100357-2" id="3"/>
+病院 びょういん 病院 名詞 6 普通名詞 1 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 6D
++ 6D <rel type="ガ" target="著者"/><rel type="ヲ" target="病院" sid="fuman-hospital-0000100357-2" id="4"/><rel type="外の関係" target="の" sid="fuman-hospital-0000100357-2" id="6"/>
+探す さがす 探す 動詞 2 * 0 子音動詞サ行 5 基本形 2
++ 7D <rel type="トイウ" target="探す" sid="fuman-hospital-0000100357-2" id="5"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="の" sid="fuman-hospital-0000100357-2" id="6"/><rel type="ガ２" target="著者"/>
+大変 たいへん 大変だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

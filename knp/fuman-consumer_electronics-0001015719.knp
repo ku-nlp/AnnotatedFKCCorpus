@@ -1,0 +1,66 @@
+# S-ID:fuman-consumer_electronics-0001015719-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:70.00000 MOD:2020/08/25 MEMO:
+* 1D
++ 1D
+新しく あたらしく 新しい 形容詞 3 * 0 イ形容詞イ段 19 基本連用形 7
+* 2D
++ 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="機" sid="fuman-consumer_electronics-0001015719-1" id="3"/>
+買った かった 買う 動詞 2 * 0 子音動詞ワ行 12 タ形 10
+* 9D
++ 3D <rel type="ヲ" target="不特定:物"/><rel type="デ" target="機" sid="fuman-consumer_electronics-0001015719-1" id="3"/><rel type="ガ" target="不特定:人"/>
+洗濯 せんたく 洗濯 名詞 6 サ変名詞 2 * 0 * 0
++ 10D <rel type="ノ？" target="洗濯" sid="fuman-consumer_electronics-0001015719-1" id="2"/>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0
+、 、 、 特殊 1 読点 2 * 0 * 0
+* 5D
++ 6D
+一 いち 一 名詞 6 数詞 7 * 0 * 0
+度 ど 度 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+* 5D
++ 6D <rel type="ガ" target="著者"/><rel type="ヲ" target="機" sid="fuman-consumer_electronics-0001015719-1" id="3"/>
+運転 うんてん 運転 名詞 6 サ変名詞 2 * 0 * 0
+を を を 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 10D <rel type="ガ" target="著者"/><rel type="ヲ" target="運転" sid="fuman-consumer_electronics-0001015719-1" id="5"/>
+止める とめる 止める 動詞 2 * 0 母音動詞 1 基本形 2
+と と と 助詞 9 格助詞 1 * 0 * 0
+* 7D
++ 8D <rel type="ノ" target="止める" sid="fuman-consumer_electronics-0001015719-1" id="6"/>
+その後 そのご その後 名詞 6 時相名詞 10 * 0 * 0
+の の の 助詞 9 接続助詞 3 * 0 * 0
+* 9D
++ 10D <rel type="ガ" target="著者"/><rel type="ヲ" target="機" sid="fuman-consumer_electronics-0001015719-1" id="3"/><rel type="時間" target="その後" sid="fuman-consumer_electronics-0001015719-1" id="7"/>
+操作 そうさ 操作 名詞 6 サ変名詞 2 * 0 * 0
+が が が 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 10D
+とても とても とても 副詞 8 * 0 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="操作" sid="fuman-consumer_electronics-0001015719-1" id="8"/><rel type="ニ" target="著者"/><rel type="ガ２" target="機" sid="fuman-consumer_electronics-0001015719-1" id="3"/>
+分かり わかり 分かる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+づらい づらい づらい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS
+# S-ID:fuman-consumer_electronics-0001015719-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/25 MEMO:
+* 3D
++ 4D
+結局 けっきょく 結局 副詞 8 * 0 * 0 * 0
+* 3D
++ 2D <rel type="ノ" target="機" sid="fuman-consumer_electronics-0001015719-1" id="3"/>
+電源 でんげん 電源 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="ヲ" target="電源" sid="fuman-consumer_electronics-0001015719-2" id="1"/><rel type="ガ" target="著者"/>
+オフ おふ オフ 名詞 6 サ変名詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+* 3D
++ 4D
+いち いち いち 名詞 6 普通名詞 1 * 0 * 0
+から から から 助詞 9 格助詞 1 * 0 * 0
+* -1D
++ -1D <rel type="ガ" target="著者"/><rel type="カラ" target="いち" sid="fuman-consumer_electronics-0001015719-2" id="3"/><rel type="ヲ" target="運転" sid="fuman-consumer_electronics-0001015719-1" id="5"/>
+やり やり やる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+直す なおす 直す 動詞 2 * 0 子音動詞サ行 5 基本形 2
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0
+に に に 助詞 9 格助詞 1 * 0 * 0
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+。 。 。 特殊 1 句点 1 * 0 * 0
+EOS

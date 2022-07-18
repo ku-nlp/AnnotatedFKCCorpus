@@ -33,7 +33,7 @@ EOS
 が が が 助詞 9 格助詞 1 * 0 * 0
 * 3D
 + 3D <rel type="ガ" target="吐き気" sid="fuman-hospital-0001015986-2" id="1"/><rel type="時間" target="いつ" sid="fuman-hospital-0001015986-2" id="0"/>
-来る 来る 来る 動詞 2 * 0 カ変動詞来 15 基本形 2
+来る くる 来る 動詞 2 * 0 カ変動詞来 15 基本形 2
 か か か 助詞 9 接続助詞 3 * 0 * 0
 * 8D
 + 9D <rel type="ガ" target="来るか" sid="fuman-hospital-0001015986-2" id="2"/><rel type="ニ" target="著者"/>

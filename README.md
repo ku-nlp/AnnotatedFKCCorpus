@@ -8,13 +8,14 @@ The linguistic annotations consist of annotations of morphology, named entities,
 
 ## Notes on annotation guidelines
 
-The annotation guidelines for this corpus are written in the manuals found in the "doc" directory. The guidelines for morphology and dependencies are described in syn_guideline.pdf, those for predicate-argument structures and coreferences are described in rel_guideline.pdf. The guidelines for named entities are available at the IREX web site (<http://nlp.cs.nyu.edu/irex/>).
+The annotation guidelines for this corpus are written in the manuals found in the [`doc` directory](https://github.com/ku-nlp/KWDLC/tree/master/doc) in [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC/).
+The guidelines for morphology and dependencies are described in `syn_guideline.pdf`, those for predicate-argument structures and coreferences are described in `rel_guideline.pdf`.
+The guidelines for named entities are available at the IREX web site (<http://nlp.cs.nyu.edu/irex/>).
 
 ## Distributed files
 
 * knp/ : the corpus annotated with morphology, named entities, dependencies, predicate-argument structures, and coreferences
 * org/ : the raw corpus
-* doc/ : annotation guidelines
 * id/ : document id files providing train/test split
 
 ## Format of the corpus annotated with annotations of morphology, named entities, dependencies, predicate-argument structures, and coreferences

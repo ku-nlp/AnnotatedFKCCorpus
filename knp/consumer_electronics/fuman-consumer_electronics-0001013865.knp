@@ -1,63 +1,63 @@
 # S-ID:fuman-consumer_electronics-0001013865-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/24 MEMO:
 * 1D
 + 1D <rel type="ガ" target="不特定:人"/><rel type="デ" target="器" sid="fuman-consumer_electronics-0001013865-1" id="1"/>
-炊飯 すいはん 炊飯 名詞 6 サ変名詞 2 * 0 * 0
+炊飯 すいはん 炊飯 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 3D <rel type="ノ？" target="炊飯" sid="fuman-consumer_electronics-0001013865-1" id="0"/>
-器 き 器 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 3D
-内 うち 内 名詞 6 普通名詞 1 * 0 * 0
+内 うち 内 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 4D <rel type="ノ" target="器" sid="fuman-consumer_electronics-0001013865-1" id="1"/><rel type="修飾" target="内" sid="fuman-consumer_electronics-0001013865-1" id="2"/>
-蓋 ぶた 蓋 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+蓋 ぶた 蓋 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 5D <rel type="ヲ" target="蓋" sid="fuman-consumer_electronics-0001013865-1" id="3"/><rel type="ガ" target="著者"/>
-洗う あらう 洗う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+洗う あらう 洗う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 + 6D
-の の の 名詞 6 形式名詞 8 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="の" sid="fuman-consumer_electronics-0001013865-1" id="5"/><rel type="ガ２" target="著者"/>
-面倒 めんどう 面倒だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
-。 。 。 特殊 1 句点 1 * 0 * 0
+面倒 めんどう 面倒だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001013865-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:40.00000 MOD:2020/08/24 MEMO:
 * 5D
 + 8D
-特に とくに 特に 副詞 8 * 0 * 0 * 0
+特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ヲ" target="蓋" sid="fuman-consumer_electronics-0001013865-1" id="3"/><rel type="外の関係" target="後" sid="fuman-consumer_electronics-0001013865-2" id="2"/><rel type="ガ" target="著者"/><rel type="=" target="洗う" sid="fuman-consumer_electronics-0001013865-1" id="4"/>
-洗った あらった 洗う 動詞 2 * 0 子音動詞ワ行 12 タ形 10
+洗った あらった 洗う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
 * 5D
 + 7D <rel type="ノ" target="洗った" sid="fuman-consumer_electronics-0001013865-2" id="1"/>
-後 あと 後 名詞 6 副詞的名詞 9 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+後 あと 後 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 4D
-ゴム ごむ ゴム 名詞 6 普通名詞 1 * 0 * 0
+ゴム ごむ ゴム 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <rel type="修飾" target="ゴム" sid="fuman-consumer_electronics-0001013865-2" id="3"/>
-パッキン ぱっきん パッキン 名詞 6 普通名詞 1 * 0 * 0
+パッキン ぱっきん パッキン 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6D <rel type="ノ" target="蓋" sid="fuman-consumer_electronics-0001013865-1" id="3"/><rel type="修飾" target="パッキン" sid="fuman-consumer_electronics-0001013865-2" id="4"/><rel type="=構" target="パッキン" sid="fuman-consumer_electronics-0001013865-2" id="4"/>
-部分 ぶぶん 部分 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+部分 ぶぶん 部分 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 7D <rel type="修飾" target="部分" sid="fuman-consumer_electronics-0001013865-2" id="5"/>
-水滴 すいてき 水滴 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+水滴 すいてき 水滴 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 8D <rel type="ヲ" target="水滴" sid="fuman-consumer_electronics-0001013865-2" id="6"/><rel type="外の関係" target="の" sid="fuman-consumer_electronics-0001013865-2" id="8"/><rel type="時間" target="後" sid="fuman-consumer_electronics-0001013865-2" id="2"/><rel type="ガ" target="著者"/>
-ふき ふき ふく 動詞 2 * 0 子音動詞カ行 2 基本連用形 8
-取る とる 取る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+ふき ふき ふく 動詞 2 * 0 子音動詞カ行 2 基本連用形 8 NIL
+取る とる 取る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 + 10D <rel type="トイウ" target="ふき取る" sid="fuman-consumer_electronics-0001013865-2" id="7"/>
-の の の 名詞 6 形式名詞 8 * 0 * 0
-も も も 助詞 9 副助詞 2 * 0 * 0
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
 + 10D
-手間 てま 手間 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+手間 てま 手間 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="手間" sid="fuman-consumer_electronics-0001013865-2" id="9"/><rel type="ニ" target="の" sid="fuman-consumer_electronics-0001013865-2" id="8"/><rel type="ガ２" target="著者"/>
-かかる かかる かかる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+かかる かかる かかる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

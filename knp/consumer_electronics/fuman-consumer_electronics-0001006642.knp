@@ -1,37 +1,37 @@
 # S-ID:fuman-consumer_electronics-0001006642-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/04 MEMO:
 * 1D
 + 1D
-プレミアム ぷれみあむ プレミアム 名詞 6 普通名詞 1 * 0 * 0
+プレミアム ぷれみあむ プレミアム 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="修飾" target="プレミアム" sid="fuman-consumer_electronics-0001006642-1" id="0"/>
-ガチャ がちゃ ガチャ 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+ガチャ がちゃ ガチャ 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 5D <rel type="ヲ" target="ガチャ" sid="fuman-consumer_electronics-0001006642-1" id="1"/><rel type="ガ" target="著者"/>
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
-も も も 助詞 9 副助詞 2 * 0 * 0
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="もの" sid="fuman-consumer_electronics-0001006642-1" id="4"/>
-同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4
+同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4 NIL
 * 4D
 + 5D
-もの もの もの 名詞 6 形式名詞 8 * 0 * 0
-ばかり ばかり ばかり 助詞 9 副助詞 2 * 0 * 0
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
+ばかり ばかり ばかり 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="もの" sid="fuman-consumer_electronics-0001006642-1" id="4"/>
-出る でる 出る 動詞 2 * 0 母音動詞 1 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+出る でる 出る 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001006642-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/21 MEMO:
 * 1D
 + 1D <rel type="修飾" target="ガチャ" sid="fuman-consumer_electronics-0001006642-1" id="1"/>
-イベント いべんと イベント 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+イベント いべんと イベント 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ノ？" target="イベント" sid="fuman-consumer_electronics-0001006642-2" id="0"/>
-景品 けいひん 景品 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+景品 けいひん 景品 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="景品" sid="fuman-consumer_electronics-0001006642-2" id="1"/>
-しょぼい しょぼい しょぼい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+しょぼい しょぼい しょぼい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

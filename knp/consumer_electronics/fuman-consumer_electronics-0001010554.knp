@@ -1,82 +1,82 @@
 # S-ID:fuman-consumer_electronics-0001010554-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:60.00000 MOD:2020/08/24 MEMO:
 * 9D
 + 1D
-電化 でんか 電化 名詞 6 サ変名詞 2 * 0 * 0
+電化 でんか 電化 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 2D <rel type="修飾" target="電化" sid="fuman-consumer_electronics-0001010554-1" id="0"/>
-製品 せいひん 製品 名詞 6 普通名詞 1 * 0 * 0
+製品 せいひん 製品 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 12D <rel type="ノ" target="製品" sid="fuman-consumer_electronics-0001010554-1" id="1"/>
-全般 ぜんぱん 全般 名詞 6 普通名詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+全般 ぜんぱん 全般 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 4D
-電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0
+電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <rel type="ノ" target="電気" sid="fuman-consumer_electronics-0001010554-1" id="3"/>
-屋 や 屋 名詞 6 普通名詞 1 * 0 * 0
-さん さん さん 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
+屋 や 屋 名詞 6 普通名詞 1 * 0 * 0 NIL
+さん さん さん 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 10D <rel type="ヲ" target="全般" sid="fuman-consumer_electronics-0001010554-1" id="2"/><rel type="デ" target="屋" sid="fuman-consumer_electronics-0001010554-1" id="4"/><rel type="ガ" target="不特定:人"/>
-買う かう 買う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
-より より より 助詞 9 接続助詞 3 * 0 * 0
-も も も 助詞 9 副助詞 2 * 0 * 0
+買う かう 買う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+より より より 助詞 9 接続助詞 3 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
 + 7D
-ネット ねっと ネット 名詞 6 普通名詞 1 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
+ネット ねっと ネット 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 8D <rel type="ヲ" target="全般" sid="fuman-consumer_electronics-0001010554-1" id="2"/><rel type="デ" target="ネット" sid="fuman-consumer_electronics-0001010554-1" id="6"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="ほう" sid="fuman-consumer_electronics-0001010554-1" id="8"/><rel type="=≒" target="買う" sid="fuman-consumer_electronics-0001010554-1" id="5"/>
-買った かった 買う 動詞 2 * 0 子音動詞ワ行 12 タ形 10
+買った かった 買う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
 * 7D
 + 10D <rel type="ノ" target="買った" sid="fuman-consumer_electronics-0001010554-1" id="7"/>
-ほう ほう ほう 名詞 6 副詞的名詞 9 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+ほう ほう ほう 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 10D
-かなり かなり かなり 副詞 8 * 0 * 0 * 0
+かなり かなり かなり 副詞 8 * 0 * 0 * 0 NIL
 * 8D
 + 11D <rel type="ガ" target="ほう" sid="fuman-consumer_electronics-0001010554-1" id="8"/><rel type="外の関係" target="事" sid="fuman-consumer_electronics-0001010554-1" id="11"/><rel type="ヨリ" target="買う" sid="fuman-consumer_electronics-0001010554-1" id="5"/>
-安い やすい 安い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+安い やすい 安い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 9D
 + 12D <rel type="トイウ" target="安い" sid="fuman-consumer_electronics-0001010554-1" id="10"/>
-事 こと 事 名詞 6 形式名詞 8 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+事 こと 事 名詞 6 形式名詞 8 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="事" sid="fuman-consumer_electronics-0001010554-1" id="11"/><rel type="ガ２" target="著者"/><rel type="ニツイテ" target="全般" sid="fuman-consumer_electronics-0001010554-1" id="2"/>
-不満 ふまん 不満だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
-。 。 。 特殊 1 句点 1 * 0 * 0
+不満 ふまん 不満だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001010554-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:40.00000 MOD:2020/08/24 MEMO:
 * 2D
 + 2D
-実際 じっさい 実際 副詞 8 * 0 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+実際 じっさい 実際 副詞 8 * 0 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <rel type="=≒" target="製品" sid="fuman-consumer_electronics-0001010554-1" id="1"/>
-商品 しょうひん 商品 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+商品 しょうひん 商品 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="商品" sid="fuman-consumer_electronics-0001010554-2" id="1"/><rel type="デ" target="屋" sid="fuman-consumer_electronics-0001010554-2" id="5"/><rel type="デ" mode="？" target="なし"/>
-見て みて 見る 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
+見て みて 見る 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
 * 7D
 + 8D <rel type="ガ" target="著者"/><rel type="ヲ" target="商品" sid="fuman-consumer_electronics-0001010554-2" id="1"/>
-決め きめ 決める 動詞 2 * 0 母音動詞 1 基本連用形 8
-たい たい たい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
-のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+決め きめ 決める 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
+たい たい たい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 5D
 + 5D
-電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0
+電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6D <rel type="=" target="屋" sid="fuman-consumer_electronics-0001010554-1" id="4"/>
-屋 や 屋 名詞 6 普通名詞 1 * 0 * 0
-さん さん さん 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
+屋 や 屋 名詞 6 普通名詞 1 * 0 * 0 NIL
+さん さん さん 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 7D <rel type="ガ" target="著者"/><rel type="ヲ" target="商品" sid="fuman-consumer_electronics-0001010554-2" id="1"/><rel type="デ" target="屋" sid="fuman-consumer_electronics-0001010554-2" id="5"/><rel type="=" target="買う" sid="fuman-consumer_electronics-0001010554-1" id="5"/>
-買う かう 買う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+買う かう 買う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 7D
 + 8D <rel type="ノ" target="買う" sid="fuman-consumer_electronics-0001010554-2" id="6"/>
-とき とき とき 名詞 6 副詞的名詞 9 * 0 * 0
+とき とき とき 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 * -1D
 + -1D <rel type="時間" target="とき" sid="fuman-consumer_electronics-0001010554-2" id="7"/><rel type="=≒" target="安い" sid="fuman-consumer_electronics-0001010554-1" id="10"/><rel type="ヨリ" target="ネット" sid="fuman-consumer_electronics-0001010554-1" id="6"/><rel type="ヨリ" mode="？" target="なし"/><rel type="ガ" target="商品" sid="fuman-consumer_electronics-0001010554-2" id="1"/>
-高い たかい 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+高い たかい 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

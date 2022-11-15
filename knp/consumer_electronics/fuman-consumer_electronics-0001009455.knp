@@ -1,44 +1,44 @@
 # S-ID:fuman-consumer_electronics-0001009455-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/24 MEMO:
 * 1D
 + 1D
-電子 でんし 電子 名詞 6 普通名詞 1 * 0 * 0
+電子 でんし 電子 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="修飾" target="電子" sid="fuman-consumer_electronics-0001009455-1" id="0"/>
-レンジ れんじ レンジ 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+レンジ れんじ レンジ 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 5D <rel type="ノ" target="レンジ" sid="fuman-consumer_electronics-0001009455-1" id="1"/>
-中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0
-って って って 助詞 9 副助詞 2 * 0 * 0
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+って って って 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:状況"/><rel type="外の関係" target="うち" sid="fuman-consumer_electronics-0001009455-1" id="4"/>
-知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3
-ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
+知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 4D
 + 5D <rel type="ノ" target="知らない" sid="fuman-consumer_electronics-0001009455-1" id="3"/>
-うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="中" sid="fuman-consumer_electronics-0001009455-1" id="2"/><rel type="ニ" target="うち" sid="fuman-consumer_electronics-0001009455-1" id="4"/>
-汚れて よごれて 汚れる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
-る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+汚れて よごれて 汚れる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001009455-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/24 MEMO:
 * 1D
 + 1D
-何 なん 何 名詞 6 数詞 7 * 0 * 0
-回 かい 回 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+何 なん 何 名詞 6 数詞 7 * 0 * 0 NIL
+回 かい 回 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="中" sid="fuman-consumer_electronics-0001009455-1" id="2"/><rel type="修飾" target="何回" sid="fuman-consumer_electronics-0001009455-2" id="0"/>
-掃除 そうじ 掃除 名詞 6 サ変名詞 2 * 0 * 0
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
-も も も 助詞 9 副助詞 2 * 0 * 0
+掃除 そうじ 掃除 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ノ" target="掃除して" sid="fuman-consumer_electronics-0001009455-2" id="1"/>
-キリ きり キリ 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+キリ きり キリ 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="キリ" sid="fuman-consumer_electronics-0001009455-2" id="2"/><rel type="ニ" target="掃除して" sid="fuman-consumer_electronics-0001009455-2" id="1"/>
-ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,58 +1,58 @@
 # S-ID:fuman-consumer_electronics-0001002923-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:48.00000 MOD:2020/07/21 MEMO:
 * 1D
 + 1D
-アプリ あぷり アプリ 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+アプリ あぷり アプリ 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 9D <rel type="ヲ" target="アプリ" sid="fuman-consumer_electronics-0001002923-1" id="0"/><rel type="ガ" target="著者"/>
-開ける あける 開ける 動詞 2 * 0 母音動詞 1 基本形 2
-と と と 助詞 9 格助詞 1 * 0 * 0
+開ける あける 開ける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 3D
-必ず かならず 必ず 副詞 8 * 0 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+必ず かならず 必ず 副詞 8 * 0 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ガ" target="著者"/><rel type="ト" target="必ず" sid="fuman-consumer_electronics-0001002923-1" id="2"/><rel type="外の関係" target="ほど" sid="fuman-consumer_electronics-0001002923-1" id="4"/>
-言って いって 言う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14
-いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+言って いって 言う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL
+いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2 NIL
 * 7D
 + 9D <rel type="ノ" target="言っていい" sid="fuman-consumer_electronics-0001002923-1" id="3"/>
-ほど ほど ほど 名詞 6 副詞的名詞 9 * 0 * 0
+ほど ほど ほど 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 * 6D
 + 6D
-ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0
+ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 8D <rel type="ノ" target="ゲーム" sid="fuman-consumer_electronics-0001002923-1" id="5"/>
-センター せんたー センター 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+センター せんたー センター 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
 + 8D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="センター" sid="fuman-consumer_electronics-0001002923-1" id="6"/>
-サインイン さいんいん サインイン 名詞 6 サ変名詞 2 * 0 * 0
+サインイン さいんいん サインイン 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 9D <rel type="ノ" target="センター" sid="fuman-consumer_electronics-0001002923-1" id="6"/><rel type="修飾" target="サインイン" sid="fuman-consumer_electronics-0001002923-1" id="7"/>
-画面 がめん 画面 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+画面 がめん 画面 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="アプリ" sid="fuman-consumer_electronics-0001002923-1" id="0"/><rel type="ニ" target="画面" sid="fuman-consumer_electronics-0001002923-1" id="8"/>
-移動 いどう 移動 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+移動 いどう 移動 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001002923-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/19 MEMO:
 * 1D
 + 1D
-毎回 まいかい 毎回 名詞 6 時相名詞 10 * 0 * 0
+毎回 まいかい 毎回 名詞 6 時相名詞 10 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="アプリ" sid="fuman-consumer_electronics-0001002923-1" id="0"/><rel type="ニ" target="画面" sid="fuman-consumer_electronics-0001002923-1" id="8"/><rel type="=≒" target="移動する" sid="fuman-consumer_electronics-0001002923-1" id="9"/><rel type="時間" target="毎回" sid="fuman-consumer_electronics-0001002923-2" id="0"/>
-切り替わる きりかわる 切り替わる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
-ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+切り替わる きりかわる 切り替わる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
 * 3D
 + 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="画面" sid="fuman-consumer_electronics-0001002923-1" id="8"/><rel type="外の関係" target="の" sid="fuman-consumer_electronics-0001002923-2" id="3"/>
-キャンセル きゃんせる キャンセル 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+キャンセル きゃんせる キャンセル 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 + 4D <rel type="トイウ" target="キャンセルする" sid="fuman-consumer_electronics-0001002923-2" id="2"/>
-の の の 名詞 6 形式名詞 8 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="の" sid="fuman-consumer_electronics-0001002923-2" id="3"/><rel type="ガ２" target="著者"/>
-めんどくさい めんどくさい めんどくさい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+めんどくさい めんどくさい めんどくさい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

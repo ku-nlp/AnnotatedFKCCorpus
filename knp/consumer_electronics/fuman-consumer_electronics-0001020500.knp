@@ -1,82 +1,82 @@
 # S-ID:fuman-consumer_electronics-0001020500-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:78.00000 MOD:2020/08/26 MEMO:
 * 3D
 + 3D <rel type="ノ" target="不特定:物1"/>
-値札 ねふだ 値札 名詞 6 普通名詞 1 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+値札 ねふだ 値札 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ガ" target="著者"/><rel type="ニツイテ" target="不特定:物1"/>
-会計 かいけい 会計 名詞 6 サ変名詞 2 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+会計 かいけい 会計 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ノ" target="会計" sid="fuman-consumer_electronics-0001020500-1" id="1"/>
-金額 きんがく 金額 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+金額 きんがく 金額 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ガ" target="金額" sid="fuman-consumer_electronics-0001020500-1" id="2"/><rel type="ト" target="値札" sid="fuman-consumer_electronics-0001020500-1" id="0"/>
-違う ちがう 違う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
-と と と 助詞 9 格助詞 1 * 0 * 0
+違う ちがう 違う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 7D <rel type="ガ" target="著者"/><rel type="ト" target="違う" sid="fuman-consumer_electronics-0001020500-1" id="3"/>
-思ったら おもったら 思う 動詞 2 * 0 子音動詞ワ行 12 タ系条件形 13
-、 、 、 特殊 1 読点 2 * 0 * 0
+思ったら おもったら 思う 動詞 2 * 0 子音動詞ワ行 12 タ系条件形 13 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 7D <rel type="=" target="値札" sid="fuman-consumer_electronics-0001020500-1" id="0"/>
-値札 ねふだ 値札 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+値札 ねふだ 値札 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + 7D <rel type="ニタイシテ" target="不特定:物1"/>
-税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0
+税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="判ガ" target="値札" sid="fuman-consumer_electronics-0001020500-1" id="5"/><rel type="ガ" target="不特定:人1"/><rel type="ヲ" target="税" sid="fuman-consumer_electronics-0001020500-1" id="6"/>
-抜き ぬき 抜き 名詞 6 普通名詞 1 * 0 * 0
-だった だった だ 判定詞 4 * 0 判定詞 25 ダ列タ形 8
-。 。 。 特殊 1 句点 1 * 0 * 0
+抜き ぬき 抜き 名詞 6 普通名詞 1 * 0 * 0 NIL
+だった だった だ 判定詞 4 * 0 判定詞 25 ダ列タ形 8 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001020500-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:68.00000 MOD:2020/08/26 MEMO:
 * 2D
 + 3D
-わざわざ わざわざ わざわざ 副詞 8 * 0 * 0 * 0
+わざわざ わざわざ わざわざ 副詞 8 * 0 * 0 * 0 NIL
 * 2D
 + 2D
-値段 ねだん 値段 名詞 6 普通名詞 1 * 0 * 0
+値段 ねだん 値段 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 3D <rel type="=≒" target="値札" sid="fuman-consumer_electronics-0001020500-1" id="5"/><rel type="修飾" target="値段" sid="fuman-consumer_electronics-0001020500-2" id="1"/>
-シール しーる シール 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+シール しーる シール 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 5D <rel type="ヲ" target="シール" sid="fuman-consumer_electronics-0001020500-2" id="2"/><rel type="ガ" target="不特定:人1"/><rel type="ニ" target="不特定:物"/>
-貼って はって 貼る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
-いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 8
+貼って はって 貼る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 8 NIL
 * 8D
 + 5D
-税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0
+税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 11D <rel type="=" target="抜き" sid="fuman-consumer_electronics-0001020500-1" id="7"/>
-抜き ぬき 抜き 名詞 6 普通名詞 1 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+抜き ぬき 抜き 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 7D <rel type="ノ" target="不特定:人1"/>
-他 た 他 接頭辞 13 名詞接頭辞 1 * 0 * 0
+他 た 他 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 + 8D <rel type="修飾" target="他" sid="fuman-consumer_electronics-0001020500-2" id="6"/>
-店 てん 店 名詞 6 普通名詞 1 * 0 * 0
-より より より 助詞 9 格助詞 1 * 0 * 0
+店 てん 店 名詞 6 普通名詞 1 * 0 * 0 NIL
+より より より 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 9D <rel type="ガ" target="不特定:物"/><rel type="ヨリ" target="店" sid="fuman-consumer_electronics-0001020500-2" id="7"/>
-安く やすく 安い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
+安く やすく 安い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
 * 7D
 + 10D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="不特定:人1"/><rel type="外の関係" target="よう" sid="fuman-consumer_electronics-0001020500-2" id="10"/><rel type="ト" target="安く" sid="fuman-consumer_electronics-0001020500-2" id="8"/>
-見える みえる 見える 動詞 2 * 0 母音動詞 1 基本形 2
+見える みえる 見える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 8D
 + 11D <rel type="ノ" target="見える" sid="fuman-consumer_electronics-0001020500-2" id="9"/>
-よう よう よう 名詞 6 副詞的名詞 9 * 0 * 0
+よう よう よう 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 * 9D
 + 12D <rel type="ガ" target="不特定:人1"/><rel type="外の関係" target="抜き" sid="fuman-consumer_electronics-0001020500-2" id="5"/>
-わざと わざと わざと 副詞 8 * 0 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
-しか しか しか 助詞 9 副助詞 2 * 0 * 0
+わざと わざと わざと 副詞 8 * 0 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+しか しか しか 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="著者"/><rel type="ト" target="わざと" sid="fuman-consumer_electronics-0001020500-2" id="11"/>
-思え おもえ 思える 動詞 2 * 0 母音動詞 1 未然形 3
-ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+思え おもえ 思える 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

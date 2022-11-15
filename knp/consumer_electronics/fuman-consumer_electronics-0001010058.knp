@@ -1,37 +1,37 @@
 # S-ID:fuman-consumer_electronics-0001010058-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/24 MEMO:
 * 2D
 + 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="機" sid="fuman-consumer_electronics-0001010058-1" id="1"/>
-洗濯 せんたく 洗濯 名詞 6 サ変名詞 2 * 0 * 0
+洗濯 せんたく 洗濯 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 3D <rel type="ノ？" target="洗濯" sid="fuman-consumer_electronics-0001010058-1" id="0"/><rel type="ノ？" mode="AND" target="著者"/>
-機 き 機 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 3D
-よく よく よく 副詞 8 * 0 * 0 * 0
+よく よく よく 副詞 8 * 0 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="機" sid="fuman-consumer_electronics-0001010058-1" id="1"/>
-止まる とまる 止まる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+止まる とまる 止まる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001010058-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:18.00000 MOD:2020/08/24 MEMO:
 * 1D
 + 1D <rel type="ガ" target="値段" sid="fuman-consumer_electronics-0001010058-2" id="1"/>
-高い たかい 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+高い たかい 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 3D
 + 3D <rel type="ガ" target="機" sid="fuman-consumer_electronics-0001010058-1" id="1"/>
-値段 ねだん 値段 名詞 6 普通名詞 1 * 0 * 0
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
-る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
+値段 ねだん 値段 名詞 6 普通名詞 1 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 3D
 + 3D <rel type="ノ？" target="機" sid="fuman-consumer_electronics-0001010058-1" id="1"/>
-耐久 たいきゅう 耐久 名詞 6 普通名詞 1 * 0 * 0
-性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+耐久 たいきゅう 耐久 名詞 6 普通名詞 1 * 0 * 0 NIL
+性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="耐久性" sid="fuman-consumer_electronics-0001010058-2" id="2"/><rel type="ニ" target="機" sid="fuman-consumer_electronics-0001010058-1" id="1"/>
-無 な 無い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
-さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0
-すぎる すぎる すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+無 な 無い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL
+さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
+すぎる すぎる すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

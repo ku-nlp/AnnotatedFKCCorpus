@@ -1,55 +1,55 @@
 # S-ID:fuman-consumer_electronics-0001001388-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/27 MEMO:
 * 1D
 + 1D <rel type="ノ" target="著者"/>
-目 め 目 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+目 め 目 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ニ" target="目" sid="fuman-consumer_electronics-0001001388-1" id="0"/><rel type="ガ" target="毛" sid="fuman-consumer_electronics-0001001388-1" id="3"/><rel type="ガ" mode="AND" target="ホコリ" sid="fuman-consumer_electronics-0001001388-1" id="4"/>
-見える みえる 見える 動詞 2 * 0 母音動詞 1 基本形 2
+見える みえる 見える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 3D
 + 3D
-髪 かみ 髪 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+髪 かみ 髪 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
 + 4P <rel type="修飾" target="髪" sid="fuman-consumer_electronics-0001001388-1" id="2"/>
-毛 け 毛 名詞 6 普通名詞 1 * 0 * 0
-や や や 助詞 9 接続助詞 3 * 0 * 0
+毛 け 毛 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
 + 7D
-ホコリ ほこり ホコリ 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+ホコリ ほこり ホコリ 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 6D
-いくら いくら いくら 副詞 8 * 0 * 0 * 0
+いくら いくら いくら 副詞 8 * 0 * 0 * 0 NIL
 * 7D
 + 7D <rel type="ガ" target="著者"/><rel type="ヲ≒" target="不特定:物1"/>
-やって やって やる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
-も も も 助詞 9 副助詞 2 * 0 * 0
+やって やって やる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ヲ" target="ホコリ" sid="fuman-consumer_electronics-0001001388-1" id="4"/><rel type="ヲ" mode="AND" target="毛" sid="fuman-consumer_electronics-0001001388-1" id="3"/><rel type="ガ" target="不特定:物1"/>
-吸わ すわ 吸う 動詞 2 * 0 子音動詞ワ行 12 未然形 3
-ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+吸わ すわ 吸う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001001388-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/27 MEMO:
 * 1D
 + 1D <rel type="ガ" target="不特定:人"/><rel type="外の関係" target="機" sid="fuman-consumer_electronics-0001001388-2" id="1"/>
-掃除 そうじ 掃除 名詞 6 サ変名詞 2 * 0 * 0
+掃除 そうじ 掃除 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 3D <rel type="ノ？" target="掃除" sid="fuman-consumer_electronics-0001001388-2" id="0"/><rel type="=≒" target="不特定:物1"/>
-機 き 機 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 3D
-基本 きほん 基本 名詞 6 普通名詞 1 * 0 * 0
+基本 きほん 基本 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <rel type="トシテ" target="機" sid="fuman-consumer_electronics-0001001388-2" id="1"/><rel type="修飾" target="基本" sid="fuman-consumer_electronics-0001001388-2" id="2"/><rel type="ノ" target="不特定:物1"/>
-性能 せいのう 性能 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+性能 せいのう 性能 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 5D
-そもそも そもそも そもそも 副詞 8 * 0 * 0 * 0
+そもそも そもそも そもそも 副詞 8 * 0 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="性能" sid="fuman-consumer_electronics-0001001388-2" id="3"/><rel type="ガ２" target="不特定:物1"/>
-なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
-ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

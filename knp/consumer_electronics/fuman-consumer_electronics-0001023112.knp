@@ -1,58 +1,58 @@
 # S-ID:fuman-consumer_electronics-0001023112-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:40.00000 MOD:2020/08/26 MEMO:
 * 1D
 + 1D <rel type="ガ" target="メーカー" sid="fuman-consumer_electronics-0001023112-1" id="1"/>
-同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4
+同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4 NIL
 * 5D
 + 7D <rel type="ノ？" target="不特定:物1"/>
-メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0
-でも でも でも 助詞 9 副助詞 2 * 0 * 0
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
+でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
 + 7D
-微妙に びみょうに 微妙だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7
+微妙に びみょうに 微妙だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 4D
 + 4D
-コントロール こんとろーる コントロール 名詞 6 サ変名詞 2 * 0 * 0
+コントロール こんとろーる コントロール 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 6D <rel type="ノ？" target="コントロール" sid="fuman-consumer_electronics-0001023112-1" id="3"/>
-キー きー キー 名詞 6 普通名詞 1 * 0 * 0
-など など など 助詞 9 副助詞 2 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+キー きー キー 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 6D <rel type="=≒" target="キー" sid="fuman-consumer_electronics-0001023112-1" id="4"/>
-キー きー キー 名詞 6 普通名詞 1 * 0 * 0
+キー きー キー 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 7D <rel type="ガ" target="メーカー" sid="fuman-consumer_electronics-0001023112-1" id="1"/><rel type="ヲ" target="キーなど" sid="fuman-consumer_electronics-0001023112-1" id="4"/><rel type="ニ" target="不特定:物1"/>
-配列 はいれつ 配列 名詞 6 サ変名詞 2 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+配列 はいれつ 配列 名詞 6 サ変名詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 9D <rel type="ガ" target="配列" sid="fuman-consumer_electronics-0001023112-1" id="6"/><rel type="デ" target="メーカー" sid="fuman-consumer_electronics-0001023112-1" id="1"/>
-違う ちがう 違う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
-ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+違う ちがう 違う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
 * 7D
 + 9D <rel type="ヲ" target="配列" sid="fuman-consumer_electronics-0001023112-1" id="6"/><rel type="ガ" target="メーカー" sid="fuman-consumer_electronics-0001023112-1" id="1"/>
-統一 とういつ 統一 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
-か か か 助詞 9 接続助詞 3 * 0 * 0
+統一 とういつ 統一 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+か か か 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ニ" target="メーカー" sid="fuman-consumer_electronics-0001023112-1" id="1"/><rel type="ヲ" target="配列" sid="fuman-consumer_electronics-0001023112-1" id="6"/><rel type="ガ" target="著者"/>
-選べる えらべる 選べる 動詞 2 * 0 母音動詞 1 基本形 2
-ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
-して して する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ系連用テ形 14
-ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+選べる えらべる 選べる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+して して する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ系連用テ形 14 NIL
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001023112-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/26 MEMO:
 * 1D
 + 3D
-特に とくに 特に 副詞 8 * 0 * 0 * 0
+特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL
 * 2D
 + 2D
-コンパクト こんぱくと コンパクト 名詞 6 普通名詞 1 * 0 * 0
+コンパクト こんぱくと コンパクト 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 3D <rel type="ノ" target="コンパクト" sid="fuman-consumer_electronics-0001023112-2" id="1"/>
-タイプ たいぷ タイプ 名詞 6 サ変名詞 2 * 0 * 0
+タイプ たいぷ タイプ 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 4D <rel type="=≒" target="不特定:物1"/><rel type="修飾" target="タイプ" sid="fuman-consumer_electronics-0001023112-2" id="2"/>
-の の の 名詞 6 形式名詞 8 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="違う" sid="fuman-consumer_electronics-0001023112-1" id="7"/><rel type="ニ" target="の" sid="fuman-consumer_electronics-0001023112-2" id="3"/>
-多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,65 +1,65 @@
 # S-ID:fuman-traffic-0000284277-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-6.24186 MOD:2020/09/02 MEMO:
 * 1D
 + 1D <rel type="ノ" target="著者"/>
-子ども こども 子ども 名詞 6 普通名詞 1 * 0 * 0
+子ども こども 子ども 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 2D
 + 3D <rel type="ガ" target="著者"/><rel type="ヲ" target="子ども" sid="fuman-traffic-0000284277-1" id="0"/>
-抱いて いだいて 抱く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
+抱いて いだいて 抱く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * -1D
 + 3D <rel type="ヲ" target="道" sid="fuman-traffic-0000284277-1" id="3"/><rel type="ガ" target="不特定:人"/>
-散歩 さんぽ 散歩 名詞 6 サ変名詞 2 * 0 * 0
+散歩 さんぽ 散歩 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="道" sid="fuman-traffic-0000284277-1" id="3"/>
-道 みち 道 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+道 みち 道 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-traffic-0000284277-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-34.65077 MOD:2020/08/31 MEMO:
 * 3D
 + 4D <rel type="ノ" target="道" sid="fuman-traffic-0000284277-1" id="3"/>
-向こう むこう 向こう 名詞 6 普通名詞 1 * 0 * 0
-から から から 助詞 9 格助詞 1 * 0 * 0
+向こう むこう 向こう 名詞 6 普通名詞 1 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ノ" target="車" sid="fuman-traffic-0000284277-2" id="3"/>
-スピード すぴーど スピード 名詞 6 普通名詞 1 * 0 * 0
+スピード すぴーど スピード 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ヲ" target="スピード" sid="fuman-traffic-0000284277-2" id="1"/><rel type="ガ" target="車" sid="fuman-traffic-0000284277-2" id="3"/>
-出して だして 出す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14
-くる くる くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 基本形 2
+出して だして 出す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
+くる くる くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 基本形 2 NIL
 * -1D
 + 4D
-車 くるま 車 名詞 6 普通名詞 1 * 0 * 0
+車 くるま 車 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="車" sid="fuman-traffic-0000284277-2" id="3"/><rel type="カラ" target="向こう" sid="fuman-traffic-0000284277-2" id="0"/>
-あり あり あり 名詞 6 普通名詞 1 * 0 * 0 "品詞変更:あり-あり-ある-2-0-10-8"
-。 。 。 特殊 1 句点 1 * 0 * 0
+あり あり あり 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-traffic-0000284277-3 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-12.29135 MOD:2020/09/02 MEMO:
 * 1D
 + 1D <rel type="ガ" target="道" sid="fuman-traffic-0000284277-3" id="1"/>
-狭い せまい 狭い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
+狭い せまい 狭い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 2D
 + 2D <rel type="ガ" target="道" sid="fuman-traffic-0000284277-1" id="3"/><rel type="=構" target="道" sid="fuman-traffic-0000284277-1" id="3"/>
-道 どう 道 名詞 6 普通名詞 1 * 0 * 0
-な な だ 判定詞 4 * 0 判定詞 25 ダ列基本連体形 3
-のに のに のに 助詞 9 接続助詞 3 * 0 * 0
+道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL
+な な だ 判定詞 4 * 0 判定詞 25 ダ列基本連体形 3 NIL
+のに のに のに 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="車" sid="fuman-traffic-0000284277-2" id="3"/>
-危険 きけん 危険だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
-。 。 。 特殊 1 句点 1 * 0 * 0
+危険 きけん 危険だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-traffic-0000284277-4 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-4.77625 MOD:2020/09/02 MEMO:
 * 1D
 + 1D
-こういう こういう こういう 指示詞 7 連体詞形態指示詞 2 * 0 * 0
+こういう こういう こういう 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 2D
 + 2D <rel type="トイウ" target="出してくる" sid="fuman-traffic-0000284277-2" id="2"/><rel type="修飾" target="車" sid="fuman-traffic-0000284277-2" id="3"/><rel type="=≒" target="車" sid="fuman-traffic-0000284277-2" id="3"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ノ？" target="人" sid="fuman-traffic-0000284277-4" id="1"/>
-気 き 気 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+気 き 気 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ２" target="著者"/><rel type="ガ" target="気" sid="fuman-traffic-0000284277-4" id="2"/>
-知れ しれ 知れる 動詞 2 * 0 母音動詞 1 未然形 3
-ぬ ぬ ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+知れ しれ 知れる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+ぬ ぬ ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

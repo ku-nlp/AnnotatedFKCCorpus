@@ -1,50 +1,50 @@
 # S-ID:fuman-consumer_electronics-0001008152-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:0.00000 MOD:2020/08/24 MEMO:
 * 1D
 + 1D
-スマートフォン すまーとふぉん スマートフォン 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+スマートフォン すまーとふぉん スマートフォン 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ノ" target="スマートフォン" sid="fuman-consumer_electronics-0001008152-1" id="0"/>
-本体 ほんたい 本体 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+本体 ほんたい 本体 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
 + 4P <rel type="ノ" target="本体" sid="fuman-consumer_electronics-0001008152-1" id="1"/>
-価格 かかく 価格 名詞 6 普通名詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+価格 かかく 価格 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 4D
-月額 げつがく 月額 名詞 6 普通名詞 1 * 0 * 0
+月額 げつがく 月額 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <rel type="ノ" target="スマートフォン" sid="fuman-consumer_electronics-0001008152-1" id="0"/><rel type="修飾" target="月額" sid="fuman-consumer_electronics-0001008152-1" id="3"/>
-料金 りょうきん 料金 名詞 6 普通名詞 1 * 0 * 0
-など など など 助詞 9 副助詞 2 * 0 * 0
+料金 りょうきん 料金 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="料金など" sid="fuman-consumer_electronics-0001008152-1" id="4"/><rel type="ガ" mode="AND" target="価格" sid="fuman-consumer_electronics-0001008152-1" id="2"/><rel type="ニトッテ" target="著者"/>
-高 たか 高い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
-すぎ すぎ すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ接連用形 9
-。 。 。 特殊 1 句点 1 * 0 * 0
+高 たか 高い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL
+すぎ すぎ すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ接連用形 9 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001008152-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/24 MEMO:
 * 1D
 + 1D <rel type="=≒" target="スマートフォン" sid="fuman-consumer_electronics-0001008152-1" id="0"/>
-携帯 けいたい 携帯 名詞 6 サ変名詞 2 * 0 * 0
+携帯 けいたい 携帯 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 2D <rel type="ヲ" target="携帯" sid="fuman-consumer_electronics-0001008152-2" id="0"/><rel type="ガ" target="著者"/><rel type="ニ" target="スマートフォン" sid="fuman-consumer_electronics-0001008152-1" id="0"/>
-変更 へんこう 変更 名詞 6 サ変名詞 2 * 0 * 0
-し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
-ませ ませ ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 未然形 3
-ん ん ぬ 助動詞 5 * 0 助動詞ぬ型 27 音便基本形 12
-か か か 助詞 9 接続助詞 3 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+変更 へんこう 変更 名詞 6 サ変名詞 2 * 0 * 0 NIL
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+ませ ませ ます 接尾辞 14 動詞性接尾辞 7 動詞性接尾辞ます型 31 未然形 3 NIL
+ん ん ぬ 助動詞 5 * 0 助動詞ぬ型 27 音便基本形 12 NIL
+か か か 助詞 9 接続助詞 3 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="著者"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="変更しませんか" sid="fuman-consumer_electronics-0001008152-2" id="1"/>
-言わ いわ 言う 動詞 2 * 0 子音動詞ワ行 12 未然形 3
-れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-が が が 助詞 9 接続助詞 3 * 0 * 0
+言わ いわ 言う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="料金など" sid="fuman-consumer_electronics-0001008152-1" id="4"/><rel type="ガ" mode="AND" target="価格" sid="fuman-consumer_electronics-0001008152-1" id="2"/><rel type="=" target="高すぎ" sid="fuman-consumer_electronics-0001008152-1" id="5"/>
-高 たか 高い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
-すぎて すぎて すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
+高 たか 高い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL
+すぎて すぎて すぎる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 * -1D
 + -1D <rel type="ニ" target="著者"/><rel type="ガ" target="スマートフォン" sid="fuman-consumer_electronics-0001008152-1" id="0"/>
-無理 むり 無理だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
-。 。 。 特殊 1 句点 1 * 0 * 0
+無理 むり 無理だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

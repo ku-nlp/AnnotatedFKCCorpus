@@ -1,52 +1,52 @@
 # S-ID:fuman-consumer_electronics-0001015251-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/11/20 MEMO:
 * 1D
 + 1D <rel type="ノ？" target="不特定:物"/>
-つけ つけ つけ 名詞 6 普通名詞 1 * 0 * 0
-おき おき おき 名詞 6 普通名詞 1 * 0 * 0
+つけ つけ つけ 名詞 6 普通名詞 1 * 0 * 0 NIL
+おき おき おき 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="修飾" target="つけおき" sid="fuman-consumer_electronics-0001015251-1" id="0"/>
-洗い あらい 洗い 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+洗い あらい 洗い 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="洗い" sid="fuman-consumer_electronics-0001015251-1" id="1"/><rel type="ガ２" target="不特定:物1"/>
-出来 でき 出来る 動詞 2 * 0 母音動詞 1 未然形 3
-ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
-ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+出来 でき 出来る 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
 * 3D
 + 4D
-とても とても とても 副詞 8 * 0 * 0 * 0
+とても とても とても 副詞 8 * 0 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="出来ない" sid="fuman-consumer_electronics-0001015251-1" id="2"/><rel type="ガ２" target="不特定:物1"/>
-不便 ふべん 不便だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
-。 。 。 特殊 1 句点 1 * 0 * 0
+不便 ふべん 不便だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001015251-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:40.00000 MOD:2020/11/20 MEMO:
 * 4D
 + 1D
-ドラム どらむ ドラム 名詞 6 普通名詞 1 * 0 * 0
+ドラム どらむ ドラム 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 3D <rel type="ノ" target="ドラム" sid="fuman-consumer_electronics-0001015251-2" id="0"/>
-式 しき 式 名詞 6 普通名詞 1 * 0 * 0
+式 しき 式 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 3D <rel type="ヲ" target="不特定:物"/><rel type="デ" target="機" sid="fuman-consumer_electronics-0001015251-2" id="3"/><rel type="ガ" target="不特定:人"/>
-洗濯 せんたく 洗濯 名詞 6 サ変名詞 2 * 0 * 0
+洗濯 せんたく 洗濯 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 8D <rel type="=≒" target="不特定:物1"/><rel type="修飾" target="式" sid="fuman-consumer_electronics-0001015251-2" id="1"/><rel type="ノ？" target="洗濯" sid="fuman-consumer_electronics-0001015251-2" id="2"/>
-機 き 機 名詞 6 普通名詞 1 * 0 * 0
-でも でも でも 助詞 9 副助詞 2 * 0 * 0
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
+でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 5D <rel type="=" target="つけおき" sid="fuman-consumer_electronics-0001015251-1" id="0"/>
-つけ つけ つけ 名詞 6 普通名詞 1 * 0 * 0
-おき おき おき 名詞 6 普通名詞 1 * 0 * 0
+つけ つけ つけ 名詞 6 普通名詞 1 * 0 * 0 NIL
+おき おき おき 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6D <rel type="トイウ" target="つけおき" sid="fuman-consumer_electronics-0001015251-2" id="4"/><rel type="ノ" target="機" sid="fuman-consumer_electronics-0001015251-2" id="3"/>
-機能 きのう 機能 名詞 6 サ変名詞 2 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+機能 きのう 機能 名詞 6 サ変名詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 7D <rel type="ガ" target="機能" sid="fuman-consumer_electronics-0001015251-2" id="5"/><rel type="ニ" target="もの" sid="fuman-consumer_electronics-0001015251-2" id="7"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 4D
 + 8D <rel type="=≒" target="機" sid="fuman-consumer_electronics-0001015251-2" id="3"/>
-もの もの もの 名詞 6 形式名詞 8 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="もの" sid="fuman-consumer_electronics-0001015251-2" id="7"/><rel type="デ" target="機" sid="fuman-consumer_electronics-0001015251-2" id="3"/><rel type="ニ" target="不特定:人1"/>
-増やして ふやして 増やす 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14
-ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+増やして ふやして 増やす 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

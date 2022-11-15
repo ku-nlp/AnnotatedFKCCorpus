@@ -1,52 +1,52 @@
 # S-ID:fuman-consumer_electronics-0001018719-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:69.00000 MOD:2020/08/25 MEMO:
 * 1D
 + 1D
-最近 さいきん 最近 名詞 6 時相名詞 10 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+最近 さいきん 最近 名詞 6 時相名詞 10 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 4D <rel type="時間" target="最近" sid="fuman-consumer_electronics-0001018719-1" id="0"/>
-スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ノ" target="スマホ" sid="fuman-consumer_electronics-0001018719-1" id="1"/>
-画面 がめん 画面 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+画面 がめん 画面 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ガ" target="画面" sid="fuman-consumer_electronics-0001018719-1" id="2"/><rel type="ガ２" target="もの" sid="fuman-consumer_electronics-0001018719-1" id="4"/>
-大きい おおきい 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本形 2
+大きい おおきい 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本形 2 NIL
 * -1D
 + -1D <rel type="ガ" target="スマホ" sid="fuman-consumer_electronics-0001018719-1" id="1"/><rel type="=≒" target="スマホ" sid="fuman-consumer_electronics-0001018719-1" id="1"/>
-もの もの もの 名詞 6 形式名詞 8 * 0 * 0
-ばかり ばかり ばかり 助詞 9 副助詞 2 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
+ばかり ばかり ばかり 助詞 9 副助詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001018719-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:50.00000 MOD:2020/08/25 MEMO:
 * 1D
 + 1D <rel type="ノ" target="人" sid="fuman-consumer_electronics-0001018719-2" id="5"/>
-片手 かたて 片手 名詞 6 普通名詞 1 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
+片手 かたて 片手 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ガ" target="人" sid="fuman-consumer_electronics-0001018719-2" id="5"/><rel type="ヲ" target="スマホ" sid="fuman-consumer_electronics-0001018719-2" id="3"/><rel type="デ" target="片手" sid="fuman-consumer_electronics-0001018719-2" id="0"/><rel type="外の関係" target="ぐらい" sid="fuman-consumer_electronics-0001018719-2" id="2"/>
-操作 そうさ 操作 名詞 6 サ変名詞 2 * 0 * 0
-できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2
+操作 そうさ 操作 名詞 6 サ変名詞 2 * 0 * 0 NIL
+できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 3D
 + 3D <rel type="ノ" target="操作できる" sid="fuman-consumer_electronics-0001018719-2" id="1"/>
-ぐらい ぐらい ぐらい 名詞 6 副詞的名詞 9 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+ぐらい ぐらい ぐらい 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 4D <rel type="修飾" target="ぐらい" sid="fuman-consumer_electronics-0001018719-2" id="2"/><rel type="=≒" target="スマホ" sid="fuman-consumer_electronics-0001018719-1" id="1"/>
-スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 5D <rel type="ガ" target="人" sid="fuman-consumer_electronics-0001018719-2" id="5"/><rel type="ヲ" target="スマホ" sid="fuman-consumer_electronics-0001018719-2" id="3"/>
-求めて もとめて 求める 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
-る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+求めて もとめて 求める 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 6D
 + 6D
-人 ひと 人 名詞 6 普通名詞 1 * 0 * 0
-も も も 助詞 9 副助詞 2 * 0 * 0
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="人" sid="fuman-consumer_electronics-0001018719-2" id="5"/>
-多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

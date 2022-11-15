@@ -1,87 +1,87 @@
 # S-ID:fuman-consumer_electronics-0001000503-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:115.00000 MOD:2020/08/27 MEMO:
 * 1D
 + 1D
-音 おと 音 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+音 おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ガ" target="音" sid="fuman-consumer_electronics-0001000503-1" id="0"/><rel type="ガ２" target="不特定:物1"/>
-聴き きき 聴く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8
-やすく やすく やすい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7
+聴き きき 聴く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8 NIL
+やすく やすく やすい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7 NIL
 * 4D
 + 4D <rel type="ノ" target="不特定:物1"/>
-形 かたち 形 名詞 6 普通名詞 1 * 0 * 0
-も も も 助詞 9 副助詞 2 * 0 * 0
+形 かたち 形 名詞 6 普通名詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
 + 4D
-一番 いちばん 一番 副詞 8 * 0 * 0 * 0
+一番 いちばん 一番 副詞 8 * 0 * 0 * 0 NIL
 * 13D
 + 13D <rel type="ガ" target="著者"/><rel type="ヲ" target="形" sid="fuman-consumer_electronics-0001000503-1" id="2"/>
-気に入って きにいって 気に入る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
-いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-が が が 助詞 9 接続助詞 3 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+気に入って きにいって 気に入る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 6D <rel type="ノ" target="著者"/>
-耳 みみ 耳 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+耳 みみ 耳 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 7D <rel type="ガ" target="著者"/><rel type="ニ" target="耳" sid="fuman-consumer_electronics-0001000503-1" id="5"/><rel type="外の関係" target="所" sid="fuman-consumer_electronics-0001000503-1" id="7"/><rel type="ヲ" target="不特定:物1"/>
-入れる いれる 入れる 動詞 2 * 0 母音動詞 1 基本形 2
+入れる いれる 入れる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 10D
 + 10D <rel type="ノ" target="入れる" sid="fuman-consumer_electronics-0001000503-1" id="6"/><rel type="ノ" mode="AND" target="不特定:物1"/>
-所 ところ 所 名詞 6 普通名詞 1 * 0 * 0
-から から から 助詞 9 格助詞 1 * 0 * 0
+所 ところ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 9D
-スピーカー すぴーかー スピーカー 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+スピーカー すぴーかー スピーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
 + 10D <rel type="ガ" target="スピーカー" sid="fuman-consumer_electronics-0001000503-1" id="8"/><rel type="外の関係" target="ところ" sid="fuman-consumer_electronics-0001000503-1" id="10"/><rel type="ニ" target="不特定:物1"/>
-付いて ついて 付く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
-いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+付いて ついて 付く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 13D
 + 13D <rel type="ノ" target="付いている" sid="fuman-consumer_electronics-0001000503-1" id="9"/><rel type="ノ" mode="AND" target="不特定:物1"/>
-ところ ところ ところ 名詞 6 副詞的名詞 9 * 0 * 0
-まで まで まで 助詞 9 格助詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+ところ ところ ところ 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13D
 + 13D
-何 なん 何 名詞 6 数詞 7 * 0 * 0
-ミリ みり ミリ 名詞 6 数詞 7 * 0 * 0
-か か か 助詞 9 接続助詞 3 * 0 * 0
+何 なん 何 名詞 6 数詞 7 * 0 * 0 NIL
+ミリ みり ミリ 名詞 6 数詞 7 * 0 * 0 NIL
+か か か 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
 + 13D <rel type="修飾" target="何ミリ" sid="fuman-consumer_electronics-0001000503-1" id="11"/>
-隙間 すきま 隙間 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+隙間 すきま 隙間 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="隙間" sid="fuman-consumer_electronics-0001000503-1" id="12"/><rel type="マデ" target="ところ" sid="fuman-consumer_electronics-0001000503-1" id="10"/><rel type="カラ" target="所" sid="fuman-consumer_electronics-0001000503-1" id="7"/><rel type="ニ" target="不特定:物1"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001000503-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:28.00000 MOD:2020/08/27 MEMO:
 * 2D
 + 2D <rel type="=" target="隙間" sid="fuman-consumer_electronics-0001000503-1" id="12"/>
-そこ そこ そこ 指示詞 7 名詞形態指示詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+そこ そこ そこ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D
-汚れ よごれ 汚れ 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+汚れ よごれ 汚れ 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 5D <rel type="ガ" target="汚れ" sid="fuman-consumer_electronics-0001000503-2" id="1"/><rel type="ニ" target="そこ" sid="fuman-consumer_electronics-0001000503-2" id="0"/>
-溜まって たまって 溜まる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
-しまう しまう しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 基本形 2
-ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
-、 、 、 特殊 1 読点 2 * 0 * 0
+溜まって たまって 溜まる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+しまう しまう しまう 接尾辞 14 動詞性接尾辞 7 子音動詞ワ行 12 基本形 2 NIL
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ガ" target="著者"/><rel type="ヲ" target="汚れ" sid="fuman-consumer_electronics-0001000503-2" id="1"/><rel type="ヲ" mode="？" target="不特定:物1"/><rel type="外の関係" target="の" sid="fuman-consumer_electronics-0001000503-2" id="4"/>
-掃除 そうじ 掃除 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+掃除 そうじ 掃除 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 + 5D <rel type="トイウ" target="掃除する" sid="fuman-consumer_electronics-0001000503-2" id="3"/>
-の の の 名詞 6 形式名詞 8 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ニ" target="の" sid="fuman-consumer_electronics-0001000503-2" id="4"/><rel type="ガ" target="ある" sid="fuman-consumer_electronics-0001000503-1" id="13"/>
-不便 ふべん 不便だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
-。 。 。 特殊 1 句点 1 * 0 * 0
+不便 ふべん 不便だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

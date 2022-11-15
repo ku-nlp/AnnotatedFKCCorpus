@@ -1,55 +1,55 @@
 # S-ID:fuman-consumer_electronics-0001007260-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:58.00000 MOD:2020/08/21 MEMO:
 * 3D
 + 1D
-おかゆ おかゆ おかゆ 名詞 6 普通名詞 1 * 0 * 0
+おかゆ おかゆ おかゆ 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <rel type="ノ？" target="不特定:物1"/><rel type="ノ" target="おかゆ" sid="fuman-consumer_electronics-0001007260-1" id="0"/>
-モード もーど モード 名詞 6 普通名詞 1 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
+モード もーど モード 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 4D <rel type="ノ" target="著者"/>
-子ども こども 子ども 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+子ども こども 子ども 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="子ども" sid="fuman-consumer_electronics-0001007260-1" id="2"/>
-離乳 りにゅう 離乳 名詞 6 サ変名詞 2 * 0 * 0
+離乳 りにゅう 離乳 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 5D <rel type="修飾" target="離乳" sid="fuman-consumer_electronics-0001007260-1" id="3"/><rel type="ノ？" target="子ども" sid="fuman-consumer_electronics-0001007260-1" id="2"/>
-食 しょく 食 名詞 6 普通名詞 1 * 0 * 0
+食 しょく 食 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 4D
 + 6D <rel type="ガ" target="著者"/><rel type="ヲ" target="食" sid="fuman-consumer_electronics-0001007260-1" id="4"/><rel type="デ" target="モード" sid="fuman-consumer_electronics-0001007260-1" id="1"/>
-作ろう つくろう 作る 動詞 2 * 0 子音動詞ラ行 10 意志形 4
-と と と 助詞 9 格助詞 1 * 0 * 0
+作ろう つくろう 作る 動詞 2 * 0 子音動詞ラ行 10 意志形 4 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 11D <rel type="ガ" target="著者"/><rel type="ト" target="作ろう" sid="fuman-consumer_electronics-0001007260-1" id="5"/>
-思った おもった 思う 動詞 2 * 0 子音動詞ワ行 12 タ形 10
-のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
-、 、 、 特殊 1 読点 2 * 0 * 0
+思った おもった 思う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 8D
-１０ じゅう １０ 名詞 6 数詞 7 * 0 * 0
-倍 ばい 倍 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+１０ じゅう １０ 名詞 6 数詞 7 * 0 * 0 NIL
+倍 ばい 倍 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 + 11D <rel type="=≒" target="食" sid="fuman-consumer_electronics-0001007260-1" id="4"/><rel type="修飾" target="１０倍" sid="fuman-consumer_electronics-0001007260-1" id="7"/><rel type="修飾" mode="AND" target="食" sid="fuman-consumer_electronics-0001007260-1" id="4"/>
-粥 がゆ 粥 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+粥 がゆ 粥 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 10D <rel type="ガ" target="おかゆ" sid="fuman-consumer_electronics-0001007260-1" id="10"/>
-普通の ふつうの 普通だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4
+普通の ふつうの 普通だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * 8D
 + 11D <rel type="=" target="おかゆ" sid="fuman-consumer_electronics-0001007260-1" id="0"/><rel type="修飾" target="普通の" sid="fuman-consumer_electronics-0001007260-1" id="9"/>
-おかゆ おかゆ おかゆ 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+おかゆ おかゆ おかゆ 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="粥" sid="fuman-consumer_electronics-0001007260-1" id="8"/><rel type="ニ" target="おかゆ" sid="fuman-consumer_electronics-0001007260-1" id="10"/><rel type="デ" target="不特定:物1"/><rel type="デ" mode="AND" target="モード" sid="fuman-consumer_electronics-0001007260-1" id="1"/>
-炊ける たける 炊ける 動詞 2 * 0 母音動詞 1 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+炊ける たける 炊ける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001007260-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:0.00000 MOD:2020/08/21 MEMO:
 * 1D
 + 1D
-もっと もっと もっと 副詞 8 * 0 * 0 * 0
+もっと もっと もっと 副詞 8 * 0 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="粥" sid="fuman-consumer_electronics-0001007260-1" id="8"/><rel type="ガ" mode="？" target="モード" sid="fuman-consumer_electronics-0001007260-1" id="1"/>
-ドロドロで どろどろで ドロドロだ 形容詞 3 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
-いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
-のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7
-。 。 。 特殊 1 句点 1 * 0 * 0
+ドロドロで どろどろで ドロドロだ 形容詞 3 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
+いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2 NIL
+のに のに のだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

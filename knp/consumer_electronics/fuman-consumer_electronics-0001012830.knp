@@ -1,63 +1,63 @@
 # S-ID:fuman-consumer_electronics-0001012830-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:36.00000 MOD:2020/08/25 MEMO:
 * 1D
 + 1D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:物2"/><rel type="カラ" target="不特定:物1"/>
-乗り換え のりかえ 乗り換え 名詞 6 サ変名詞 2 * 0 * 0
+乗り換え のりかえ 乗り換え 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 2D <rel type="ニタイシテ" target="乗り換え" sid="fuman-consumer_electronics-0001012830-1" id="0"/><rel type="ガ" target="不特定:人1"/><rel type="ヲ" target="料" sid="fuman-consumer_electronics-0001012830-1" id="9"/>
-割引 わりびき 割引 名詞 6 サ変名詞 2 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+割引 わりびき 割引 名詞 6 サ変名詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 10D <rel type="ガ" target="割引" sid="fuman-consumer_electronics-0001012830-1" id="1"/>
-激化 げきか 激化 名詞 6 サ変名詞 2 * 0 * 0
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
-から から から 助詞 9 接続助詞 3 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+激化 げきか 激化 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+から から から 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 4D
-２ に ２ 名詞 6 数詞 7 * 0 * 0
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+２ に ２ 名詞 6 数詞 7 * 0 * 0 NIL
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 * 5D
 + 6D <rel type="ガ" target="不特定:人"/><rel type="時間" target="２年以上" sid="fuman-consumer_electronics-0001012830-1" id="3"/><rel type="ヲ" target="不特定:物2"/>
-使う つかう 使う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
-と と と 助詞 9 格助詞 1 * 0 * 0
+使う つかう 使う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 6D <rel type="=" target="割引" sid="fuman-consumer_electronics-0001012830-1" id="1"/><rel type="ガ" target="不特定:人1"/><rel type="ヲ" target="料" sid="fuman-consumer_electronics-0001012830-1" id="9"/>
-割引 わりびき 割引 名詞 6 サ変名詞 2 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+割引 わりびき 割引 名詞 6 サ変名詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 7D <rel type="ガ" target="割引" sid="fuman-consumer_electronics-0001012830-1" id="5"/><rel type="外の関係" target="為" sid="fuman-consumer_electronics-0001012830-1" id="7"/>
-消える きえる 消える 動詞 2 * 0 母音動詞 1 基本形 2
+消える きえる 消える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 8D
 + 10D <rel type="ノ" target="消える" sid="fuman-consumer_electronics-0001012830-1" id="6"/>
-為 ため 為 名詞 6 副詞的名詞 9 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+為 ため 為 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物2"/><rel type="外の関係" target="料" sid="fuman-consumer_electronics-0001012830-1" id="9"/>
-使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0
+使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 10D <rel type="ノ" target="使用" sid="fuman-consumer_electronics-0001012830-1" id="8"/><rel type="ノ？" target="不特定:物2"/>
-料 りょう 料 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+料 りょう 料 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="料" sid="fuman-consumer_electronics-0001012830-1" id="9"/><rel type="カラ" target="激化して" sid="fuman-consumer_electronics-0001012830-1" id="2"/>
-高く たかく 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
-なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+高く たかく 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001012830-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/25 MEMO:
 * 1D
 + 1D <rel type="=" target="２年" sid="fuman-consumer_electronics-0001012830-1" id="3"/>
-２ に ２ 名詞 6 数詞 7 * 0 * 0
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-ごと ごと ごと 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+２ に ２ 名詞 6 数詞 7 * 0 * 0 NIL
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+ごと ごと ごと 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <rel type="外の関係" target="の" sid="fuman-consumer_electronics-0001012830-2" id="2"/><rel type="ガ" target="著者"/><rel type="ガ" mode="？" target="不特定:人"/><rel type="時間" target="２年ごと" sid="fuman-consumer_electronics-0001012830-2" id="0"/><rel type="=≒" target="乗り換え" sid="fuman-consumer_electronics-0001012830-1" id="0"/><rel type="ヲ" target="不特定:物3"/><rel type="ヲ≒" mode="？" target="割引" sid="fuman-consumer_electronics-0001012830-1" id="1"/>
-渡り歩く わたりあるく 渡り歩く 動詞 2 * 0 子音動詞カ行 2 基本形 2
+渡り歩く わたりあるく 渡り歩く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
 + 3D <rel type="トイウ" target="渡り歩く" sid="fuman-consumer_electronics-0001012830-2" id="1"/>
-の の の 名詞 6 形式名詞 8 * 0 * 0
-も も も 助詞 9 副助詞 2 * 0 * 0
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="の" sid="fuman-consumer_electronics-0001012830-2" id="2"/><rel type="ガ２" target="著者"/>
-大変です たいへんです 大変だ 形容詞 3 * 0 ナ形容詞 21 デス列基本形 29
-。 。 。 特殊 1 句点 1 * 0 * 0
+大変です たいへんです 大変だ 形容詞 3 * 0 ナ形容詞 21 デス列基本形 29 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

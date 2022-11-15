@@ -1,35 +1,35 @@
 # S-ID:fuman-traffic-0000150991-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-4.18430 MOD:2020/08/27 MEMO:
 * 1D
 + 1D
-道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0
+道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="ノ" target="道路" sid="fuman-traffic-0000150991-1" id="0"/>
-脇 わき 脇 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+脇 わき 脇 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 3D <rel type="修飾" target="脇" sid="fuman-traffic-0000150991-1" id="1"/>
-草 くさ 草 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+草 くさ 草 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="草" sid="fuman-traffic-0000150991-1" id="2"/>
-ぼうぼう ぼうぼう ぼうぼう 副詞 8 * 0 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+ぼうぼう ぼうぼう ぼうぼう 副詞 8 * 0 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-traffic-0000150991-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-49.55044 MOD:2020/09/01 MEMO:
 * 1D
 + 1D <rel type="ノ？" target="著者"/>
-バイク ばいく バイク 名詞 6 普通名詞 1 * 0 * 0
+バイク ばいく バイク 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="ガ" target="著者"/><rel type="デ" target="バイク" sid="fuman-traffic-0000150991-2" id="0"/>
-通勤 つうきん 通勤 名詞 6 サ変名詞 2 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+通勤 つうきん 通勤 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ノ" target="通勤" sid="fuman-traffic-0000150991-2" id="1"/>
-際 さい 際 名詞 6 副詞的名詞 9 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+際 さい 際 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3P
 + 4P <rel type="時間" target="際" sid="fuman-traffic-0000150991-2" id="2"/><rel type="ニ" target="著者"/><rel type="ガ" target="草" sid="fuman-traffic-0000150991-1" id="2"/>
-邪魔で じゃまで 邪魔だ 形容詞 3 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+邪魔で じゃまで 邪魔だ 形容詞 3 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
 * -1D
 + -1D <rel type="時間" target="際" sid="fuman-traffic-0000150991-2" id="2"/><rel type="ニ" target="著者"/><rel type="ガ" target="ぼうぼう" sid="fuman-traffic-0000150991-1" id="3"/>
-危険 きけん 危険だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
-。 。 。 特殊 1 句点 1 * 0 * 0
+危険 きけん 危険だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

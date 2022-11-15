@@ -1,69 +1,69 @@
 # S-ID:fuman-consumer_electronics-0001007606-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:96.00000 MOD:2020/08/24 MEMO:
 * 2D
 + 2D
-スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+スマホ すまほ スマホ 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ノ" target="スマホ" sid="fuman-consumer_electronics-0001007606-1" id="0"/>
-カバー かばー カバー 名詞 6 サ変名詞 2 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+カバー かばー カバー 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="カバー" sid="fuman-consumer_electronics-0001007606-1" id="1"/><rel type="ニ" target="スマホ" sid="fuman-consumer_electronics-0001007606-1" id="0"/>
-つける つける つける 動詞 2 * 0 母音動詞 1 基本形 2
-と と と 助詞 9 格助詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+つける つける つける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 4D
-熱 ねつ 熱 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+熱 ねつ 熱 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 7D <rel type="ガ" target="熱" sid="fuman-consumer_electronics-0001007606-1" id="3"/><rel type="ニ" target="スマホ" sid="fuman-consumer_electronics-0001007606-1" id="0"/>
-こもって こもって こもる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+こもって こもって こもる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * 7D
 + 7D <rel type="ノ" target="スマホ" sid="fuman-consumer_electronics-0001007606-1" id="0"/>
-バッテリー ばってりー バッテリー 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+バッテリー ばってりー バッテリー 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 7D
-すぐ すぐ すぐ 副詞 8 * 0 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+すぐ すぐ すぐ 副詞 8 * 0 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 11D <rel type="ガ" target="バッテリー" sid="fuman-consumer_electronics-0001007606-1" id="5"/>
-悪く わるく 悪い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
-なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
-ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
-、 、 、 特殊 1 読点 2 * 0 * 0
+悪く わるく 悪い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
 + 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="電話" sid="fuman-consumer_electronics-0001007606-1" id="9"/>
-携帯 けいたい 携帯 名詞 6 サ変名詞 2 * 0 * 0
+携帯 けいたい 携帯 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 10D <rel type="=≒" target="スマホ" sid="fuman-consumer_electronics-0001007606-1" id="0"/>
-電話 でんわ 電話 名詞 6 サ変名詞 2 * 0 * 0
+電話 でんわ 電話 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 11D <rel type="ノ" target="電話" sid="fuman-consumer_electronics-0001007606-1" id="9"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="会社" sid="fuman-consumer_electronics-0001007606-1" id="10"/><rel type="ヲ" target="つける" sid="fuman-consumer_electronics-0001007606-1" id="2"/>
-推奨 すいしょう 推奨 名詞 6 サ変名詞 2 * 0 * 0
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
-い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3
-ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2
-と と と 助詞 9 格助詞 1 * 0 * 0
-か か か 助詞 9 終助詞 4 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+推奨 すいしょう 推奨 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+か か か 助詞 9 終助詞 4 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001007606-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/24 MEMO:
 * 2D
 + 3D <rel type="=" target="推奨していない" sid="fuman-consumer_electronics-0001007606-1" id="11"/>
-それなのに それなのに それなのに 接続詞 10 * 0 * 0 * 0
+それなのに それなのに それなのに 接続詞 10 * 0 * 0 * 0 NIL
 * 2D
 + 2D <rel type="=" target="電話" sid="fuman-consumer_electronics-0001007606-1" id="9"/>
-携帯 けいたい 携帯 名詞 6 サ変名詞 2 * 0 * 0
+携帯 けいたい 携帯 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 3D <rel type="ノ" target="携帯" sid="fuman-consumer_electronics-0001007606-2" id="1"/>
-ショップ しょっぷ ショップ 名詞 6 普通名詞 1 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
+ショップ しょっぷ ショップ 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="デ" target="ショップ" sid="fuman-consumer_electronics-0001007606-2" id="2"/><rel type="ヲ" target="カバー" sid="fuman-consumer_electronics-0001007606-1" id="1"/><rel type="ガ" target="ショップ" sid="fuman-consumer_electronics-0001007606-2" id="2"/>
-売って うって 売る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
-いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+売って うって 売る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,57 +1,57 @@
 # S-ID:fuman-consumer_electronics-0001006839-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:38.00000 MOD:2020/08/21 MEMO:
 * 2D
 + 2D <NE:ARTIFACT:ｉｐｈｏｎｅ>
-ｉｐｈｏｎｅ あいふぉーん ｉｐｈｏｎｅ 名詞 6 固有名詞 3 * 0 * 0
-の の の 助詞 9 格助詞 1 * 0 * 0
+ｉｐｈｏｎｅ あいふぉーん ｉｐｈｏｎｅ 名詞 6 固有名詞 3 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ガ" target="種類" sid="fuman-consumer_electronics-0001006839-1" id="2"/>
-新しい あたらしい 新しい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
+新しい あたらしい 新しい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2 NIL
 * 3D
 + 3D <rel type="ノ" target="ｉｐｈｏｎｅ" sid="fuman-consumer_electronics-0001006839-1" id="0"/>
-種類 しゅるい 種類 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+種類 しゅるい 種類 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ガ" target="種類" sid="fuman-consumer_electronics-0001006839-1" id="2"/>
-出る でる 出る 動詞 2 * 0 母音動詞 1 基本形 2
+出る でる 出る 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 + 5D <rel type="トイウ" target="出る" sid="fuman-consumer_electronics-0001006839-1" id="3"/>
-の の の 名詞 6 形式名詞 8 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 9D
 + 11D <rel type="ガ" target="の" sid="fuman-consumer_electronics-0001006839-1" id="4"/><rel type="ガ２" target="著者"/>
-いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
-けど けど けど 助詞 9 接続助詞 3 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+いい いい いい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2 NIL
+けど けど けど 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 8D <rel type="ノ？" target="ｉｐｈｏｎｅ" sid="fuman-consumer_electronics-0001006839-1" id="0"/><rel type="=≒" target="種類" sid="fuman-consumer_electronics-0001006839-1" id="2"/><NE:ARTIFACT:５ｓ>
-５ｓ ふぁいぶえす ５ｓ 名詞 6 固有名詞 3 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+５ｓ ふぁいぶえす ５ｓ 名詞 6 固有名詞 3 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
 + 8D
-カバー かばー カバー 名詞 6 サ変名詞 2 * 0 * 0
+カバー かばー カバー 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 9D <rel type="修飾" target="カバー" sid="fuman-consumer_electronics-0001006839-1" id="7"/><rel type="ノ？" target="５ｓ" sid="fuman-consumer_electronics-0001006839-1" id="6"/>
-ケース けーす ケース 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+ケース けーす ケース 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
 + 10D <rel type="ノ" target="ケース" sid="fuman-consumer_electronics-0001006839-1" id="8"/>
-種類 しゅるい 種類 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+種類 しゅるい 種類 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
 + 11D <rel type="ガ" target="種類" sid="fuman-consumer_electronics-0001006839-1" id="9"/>
-少な すくな 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1
-さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+少な すくな 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL
+さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="著者"/><rel type="ニ" target="少なさ" sid="fuman-consumer_electronics-0001006839-1" id="10"/>
-困る こまる 困る 動詞 2 * 0 子音動詞ラ行 10 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+困る こまる 困る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001006839-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:0.00000 MOD:2020/08/21 MEMO:
 * 1D
 + 1D
-もっと もっと もっと 副詞 8 * 0 * 0 * 0
+もっと もっと もっと 副詞 8 * 0 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="種類" sid="fuman-consumer_electronics-0001006839-1" id="9"/><rel type="ニ" target="不特定:人1"/>
-出して だして 出す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14
-ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+出して だして 出す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
+ほしい ほしい ほしい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

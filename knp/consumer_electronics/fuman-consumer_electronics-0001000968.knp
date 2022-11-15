@@ -1,58 +1,58 @@
 # S-ID:fuman-consumer_electronics-0001000968-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/19 MEMO:
 * 1D
 + 1D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:人1"/><rel type="外の関係" target="時間" sid="fuman-consumer_electronics-0001000968-1" id="1"/>
-待ち まち 待ち 名詞 6 普通名詞 1 * 0 * 0
+待ち まち 待ち 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="ノ" target="待ち" sid="fuman-consumer_electronics-0001000968-1" id="0"/>
-時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL
 * 2D
 + 3D <rel type="ガ" target="時間" sid="fuman-consumer_electronics-0001000968-1" id="1"/><rel type="=構" target="時間" sid="fuman-consumer_electronics-0001000968-1" id="1"/>
-２０ にじゅっ ２０ 名詞 6 数詞 7 * 0 * 0
-分 ぷん 分 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+２０ にじゅっ ２０ 名詞 6 数詞 7 * 0 * 0 NIL
+分 ぷん 分 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="不特定:人1"/><rel type="ト" target="２０分" sid="fuman-consumer_electronics-0001000968-1" id="2"/><rel type="ニ" target="著者"/>
-言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
-ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
 * 6P
 + 7P <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:人1"/>
-待って まって 待つ 動詞 2 * 0 子音動詞タ行 6 タ系連用テ形 14
-いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
-けど けど けど 助詞 9 接続助詞 3 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+待って まって 待つ 動詞 2 * 0 子音動詞タ行 6 タ系連用テ形 14 NIL
+いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+けど けど けど 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 7D
-結局 けっきょく 結局 副詞 8 * 0 * 0 * 0
+結局 けっきょく 結局 副詞 8 * 0 * 0 * 0 NIL
 * 6D
 + 7D
-１ いち １ 名詞 6 数詞 7 * 0 * 0
-時間 じかん 時間 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+１ いち １ 名詞 6 数詞 7 * 0 * 0 NIL
+時間 じかん 時間 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="著者"/><rel type="時間" target="１時間" sid="fuman-consumer_electronics-0001000968-1" id="6"/><rel type="ヲ" target="不特定:人1"/><rel type="=" target="待っていた" sid="fuman-consumer_electronics-0001000968-1" id="4"/>
-待った まった 待つ 動詞 2 * 0 子音動詞タ行 6 タ形 10
-。 。 。 特殊 1 句点 1 * 0 * 0
+待った まった 待つ 動詞 2 * 0 子音動詞タ行 6 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001000968-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/19 MEMO:
 * 1D
 + 2D <rel type="ノ" target="不特定:人1"/>
-先客 せんきゃく 先客 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+先客 せんきゃく 先客 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 2D
-プラン ぷらん プラン 名詞 6 普通名詞 1 * 0 * 0
+プラン ぷらん プラン 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 3D <rel type="ガ" target="先客" sid="fuman-consumer_electronics-0001000968-2" id="0"/><rel type="ヲ" target="プラン" sid="fuman-consumer_electronics-0001000968-2" id="1"/>
-変更 へんこう 変更 名詞 6 サ変名詞 2 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+変更 へんこう 変更 名詞 6 サ変名詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3P
 + 4P <rel type="ガ" target="変更" sid="fuman-consumer_electronics-0001000968-2" id="2"/>
-あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
+あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 * 4D
 + 5D <rel type="ガ" target="不特定:状況"/>
-長引いて ながびいて 長引く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
-る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-と と と 助詞 9 格助詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+長引いて ながびいて 長引く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+る る る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="トイウ" target="あり" sid="fuman-consumer_electronics-0001000968-2" id="3"/><rel type="トイウ" mode="AND" target="長引いてる" sid="fuman-consumer_electronics-0001000968-2" id="4"/><rel type="ガ" target="不特定:状況"/>
-事 こと 事 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+事 こと 事 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,41 +1,41 @@
 # S-ID:fuman-consumer_electronics-0001009547-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:10.00000 MOD:2020/08/24 MEMO:
 * 1D
 + 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="時計" sid="fuman-consumer_electronics-0001009547-1" id="1"/>
-掛け かけ 掛け 名詞 6 普通名詞 1 * 0 * 0
+掛け かけ 掛け 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="修飾" target="掛け" sid="fuman-consumer_electronics-0001009547-1" id="0"/>
-時計 どけい 時計 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+時計 どけい 時計 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <rel type="修飾" target="時計" sid="fuman-consumer_electronics-0001009547-1" id="1"/>
-時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 4D
-どんどん どんどん どんどん 副詞 8 * 0 * 0 * 0
+どんどん どんどん どんどん 副詞 8 * 0 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="時間" sid="fuman-consumer_electronics-0001009547-1" id="2"/>
-進んで すすんで 進む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14
-いく いく いく 接尾辞 14 動詞性接尾辞 7 子音動詞カ行促音便形 3 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+進んで すすんで 進む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL
+いく いく いく 接尾辞 14 動詞性接尾辞 7 子音動詞カ行促音便形 3 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001009547-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:20.00000 MOD:2020/08/24 MEMO:
 * 3D
 + 4D <rel type="ヲ" target="時計" sid="fuman-consumer_electronics-0001009547-1" id="1"/><rel type="ガ" target="著者"/><rel type="ニ" target="不特定:物"/>
-掛けて かけて 掛ける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
-ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
-ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12
+掛けて かけて 掛ける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
+ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
 * 2D
 + 2D <rel type="=" target="時間" sid="fuman-consumer_electronics-0001009547-1" id="2"/>
-時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ヲ" target="時間" sid="fuman-consumer_electronics-0001009547-2" id="1"/><rel type="ガ" target="著者"/><rel type="外の関係" target="の" sid="fuman-consumer_electronics-0001009547-2" id="3"/>
-直す なおす 直す 動詞 2 * 0 子音動詞サ行 5 基本形 2
+直す なおす 直す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 + 4D <rel type="トイウ" target="直す" sid="fuman-consumer_electronics-0001009547-2" id="2"/>
-の の の 名詞 6 形式名詞 8 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="の" sid="fuman-consumer_electronics-0001009547-2" id="3"/><rel type="ガ２" target="著者"/>
-面倒 めんどう 面倒だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
-。 。 。 特殊 1 句点 1 * 0 * 0
+面倒 めんどう 面倒だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

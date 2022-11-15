@@ -1,64 +1,64 @@
 # S-ID:fuman-consumer_electronics-0001011655-1 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:30.00000 MOD:2020/08/24 MEMO:
 * 2D
 + 2D <rel type="ガ" target="著者"/>
-暑い あつい 暑い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
-から から から 助詞 9 接続助詞 3 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+暑い あつい 暑い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+から から から 助詞 9 接続助詞 3 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D
-クーラー くーらー クーラー 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+クーラー くーらー クーラー 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 8D <rel type="ガ" target="著者"/><rel type="ヲ" target="クーラー" sid="fuman-consumer_electronics-0001011655-1" id="1"/>
-つける つける つける 動詞 2 * 0 母音動詞 1 基本形 2
-と と と 助詞 9 格助詞 1 * 0 * 0
+つける つける つける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
 + 4P <rel type="ノ" target="著者"/>
-子供 こども 子供 名詞 6 普通名詞 1 * 0 * 0
-や や や 助詞 9 接続助詞 3 * 0 * 0
+子供 こども 子供 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
 + 8D <rel type="ノ" target="著者"/>
-旦那 だんな 旦那 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+旦那 だんな 旦那 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 8D
-スグに すぐに スグだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7
+スグに すぐに スグだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 7D
 + 7D <rel type="ノ" target="子供" sid="fuman-consumer_electronics-0001011655-1" id="3"/><rel type="ノ" mode="AND" target="旦那" sid="fuman-consumer_electronics-0001011655-1" id="4"/>
-喉 のど 喉 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+喉 のど 喉 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
 + 8D <rel type="ノ" target="喉" sid="fuman-consumer_electronics-0001011655-1" id="6"/>
-調子 ちょうし 調子 名詞 6 普通名詞 1 * 0 * 0
+調子 ちょうし 調子 名詞 6 普通名詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ２" target="子供" sid="fuman-consumer_electronics-0001011655-1" id="3"/><rel type="ガ２" mode="AND" target="旦那" sid="fuman-consumer_electronics-0001011655-1" id="4"/><rel type="ガ" target="調子" sid="fuman-consumer_electronics-0001011655-1" id="7"/><rel type="デ" target="クーラー" sid="fuman-consumer_electronics-0001011655-1" id="1"/><rel type="デ" mode="？" target="なし"/>
-悪く わるく 悪い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
-なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+悪く わるく 悪い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
+なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:fuman-consumer_electronics-0001011655-2 KNP:4.2-75a8fa27 DATE:2020/06/16 SCORE:38.00000 MOD:2020/08/24 MEMO:
 * 5D
 + 5D <rel type="ノ" target="悪くなる" sid="fuman-consumer_electronics-0001011655-1" id="8"/>
-おかげ おかげ おかげ 名詞 6 普通名詞 1 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
+おかげ おかげ おかげ 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 4D <rel type="=≒" target="暑い" sid="fuman-consumer_electronics-0001011655-1" id="0"/>
-猛暑 もうしょ 猛暑 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+猛暑 もうしょ 猛暑 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 3D
-扇風機 せんぷうき 扇風機 名詞 6 普通名詞 1 * 0 * 0
+扇風機 せんぷうき 扇風機 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ノ" target="扇風機" sid="fuman-consumer_electronics-0001011655-2" id="2"/>
-１ いち １ 名詞 6 数詞 7 * 0 * 0
-台 だい 台 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
+１ いち １ 名詞 6 数詞 7 * 0 * 0 NIL
+台 だい 台 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 5D <rel type="ヲ" target="猛暑" sid="fuman-consumer_electronics-0001011655-2" id="1"/><rel type="ガ" target="著者"/><rel type="ガ" mode="AND" target="子供" sid="fuman-consumer_electronics-0001011655-1" id="3"/><rel type="ガ" mode="AND" target="旦那" sid="fuman-consumer_electronics-0001011655-1" id="4"/><rel type="デ" target="１台" sid="fuman-consumer_electronics-0001011655-2" id="3"/><rel type="外の関係" target="羽目" sid="fuman-consumer_electronics-0001011655-2" id="5"/>
-過ごす すごす 過ごす 動詞 2 * 0 子音動詞サ行 5 基本形 2
+過ごす すごす 過ごす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * -1D
 + -1D <rel type="トイウ" target="過ごす" sid="fuman-consumer_electronics-0001011655-2" id="4"/><rel type="ニ" target="羽目" sid="fuman-consumer_electronics-0001011655-2" id="5"/><rel type="ガ" target="著者"/>
-羽目 はめ 羽目 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+羽目 はめ 羽目 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

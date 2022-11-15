@@ -62,6 +62,7 @@ The copyright of the annotation information belongs to Kurohashi Lab, Kyoto Univ
 
 ## License
 
-The license for this corpus is subject to CC BY-NC-SA 4.0.
-<https://creativecommons.org/licenses/by-nc-sa/4.0/>
+## License
+
+The license for this corpus is subject to [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 The purpose of using this corpus is limited to academic research.

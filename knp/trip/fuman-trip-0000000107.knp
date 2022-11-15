@@ -1,21 +1,21 @@
-# S-ID:fuman-trip-0000000107-1 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-135.30265 MOD:2020/08/26 MEMO:
+# S-ID:fuman-trip-0000000107-01 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-135.30265 MOD:2020/08/26 MEMO:
 * 1D
 + 1D
 ゴールデン ごーるでん ゴールデン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="ゴールデン" sid="fuman-trip-0000000107-1" id="0"/><NE:DATE:ゴールデンウィーク>
++ 2D <rel type="修飾" target="ゴールデン" sid="fuman-trip-0000000107-01" id="0"/><NE:DATE:ゴールデンウィーク>
 ウィーク うぃーく ウィーク 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="ウィーク" sid="fuman-trip-0000000107-1" id="1"/>
++ 3D <rel type="ノ" target="ウィーク" sid="fuman-trip-0000000107-01" id="1"/>
 中 ちゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="時間" target="中" sid="fuman-trip-0000000107-1" id="2"/><rel type="ガ" target="不特定:状況"/>
++ 5D <rel type="時間" target="中" sid="fuman-trip-0000000107-01" id="2"/><rel type="ガ" target="不特定:状況"/>
 渋滞 じゅうたい 渋滞 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 5D
 やっと やっと やっと 副詞 8 * 0 * 0 * 0 NIL
 * 8P
-+ 10P <rel type="ガ" target="著者"/><rel type="ヲ" target="渋滞" sid="fuman-trip-0000000107-1" id="3"/>
++ 10P <rel type="ガ" target="著者"/><rel type="ヲ" target="渋滞" sid="fuman-trip-0000000107-01" id="3"/>
 抜け ぬけ 抜ける 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
@@ -26,7 +26,7 @@
 これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物1"/><rel type="カラ" target="これ" sid="fuman-trip-0000000107-1" id="7"/>
++ 10D <rel type="ガ" target="著者"/><rel type="ヲ" target="不特定:物1"/><rel type="カラ" target="これ" sid="fuman-trip-0000000107-01" id="7"/>
 楽しもう たのしもう 楽しむ 動詞 2 * 0 子音動詞マ行 9 意志形 4 NIL
 って って って 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
@@ -34,27 +34,27 @@
 気持ち きもち 気持ち 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11P
-+ 13P <rel type="ガ" target="著者"/><rel type="ヲ" target="気持ち" sid="fuman-trip-0000000107-1" id="9"/><rel type="ト" target="楽しもう!" sid="fuman-trip-0000000107-1" id="8"/>
++ 13P <rel type="ガ" target="著者"/><rel type="ヲ" target="気持ち" sid="fuman-trip-0000000107-01" id="9"/><rel type="ト" target="楽しもう!" sid="fuman-trip-0000000107-01" id="8"/>
 切り替え きりかえ 切り替える 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
 * 10D
-+ 12D <rel type="ガ" target="著者"/><rel type="時間" target="3時間" sid="fuman-trip-0000000107-1" id="13"/><rel type="外の関係" target="こと" sid="fuman-trip-0000000107-1" id="12"/><rel type="ニ" target="不特定:物2"/>
++ 12D <rel type="ガ" target="著者"/><rel type="時間" target="3時間" sid="fuman-trip-0000000107-01" id="13"/><rel type="外の関係" target="こと" sid="fuman-trip-0000000107-01" id="12"/><rel type="ニ" target="不特定:物2"/>
 並ぶ ならぶ 並ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
 * 11D
-+ 13D <rel type="トイウ" target="並ぶ" sid="fuman-trip-0000000107-1" id="11"/>
++ 13D <rel type="トイウ" target="並ぶ" sid="fuman-trip-0000000107-01" id="11"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="こと" sid="fuman-trip-0000000107-1" id="12"/>
++ -1D <rel type="ガ" target="こと" sid="fuman-trip-0000000107-01" id="12"/>
 3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
 時間 じかん 時間 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:fuman-trip-0000000107-2 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-59.12835 MOD:2020/08/26 MEMO:
+# S-ID:fuman-trip-0000000107-02 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-59.12835 MOD:2020/08/26 MEMO:
 * 1D
 + 1D <rel type="ガ" target="不特定:状況"/>
 強風 きょうふう 強風 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ" target="強風" sid="fuman-trip-0000000107-2" id="0"/>
++ 3D <rel type="ノ" target="強風" sid="fuman-trip-0000000107-02" id="0"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
@@ -62,24 +62,24 @@ EOS
 運転 うんてん 運転 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ヲ" target="運転" sid="fuman-trip-0000000107-2" id="2"/><rel type="ガ" target="不特定:人1"/>
++ 4D <rel type="ヲ" target="運転" sid="fuman-trip-0000000107-02" id="2"/><rel type="ガ" target="不特定:人1"/>
 中止 ちゅうし 中止 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="トイウ" target="中止する" sid="fuman-trip-0000000107-2" id="3"/><rel type="ガ" target="不特定:状況"/>
++ -1D <rel type="トイウ" target="中止する" sid="fuman-trip-0000000107-02" id="3"/><rel type="ガ" target="不特定:状況"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 ... ... ... 特殊 1 記号 5 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:fuman-trip-0000000107-3 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-23.04048 MOD:2015/09/17 MEMO:
+# S-ID:fuman-trip-0000000107-03 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-23.04048 MOD:2015/09/17 MEMO:
 * -1D
 + -1D
 ...... ...... ...... 特殊 1 記号 5 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:fuman-trip-0000000107-4 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-53.76176 MOD:2020/08/26 MEMO:
+# S-ID:fuman-trip-0000000107-04 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-53.76176 MOD:2020/08/26 MEMO:
 * 5D
 + 6D
 よし よし よし 感動詞 12 * 0 * 0 * 0 NIL
@@ -87,34 +87,34 @@ EOS
 * 2D
 + 2D <NE:LOCATION:日本>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL
-+ 3D <rel type="デ" target="日本" sid="fuman-trip-0000000107-4" id="1"/>
++ 3D <rel type="デ" target="日本" sid="fuman-trip-0000000107-04" id="1"/>
 一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="お化け屋敷" sid="fuman-trip-0000000107-4" id="4"/><rel type="修飾" target="一" sid="fuman-trip-0000000107-4" id="2"/>
++ 4D <rel type="ガ" target="お化け屋敷" sid="fuman-trip-0000000107-04" id="4"/><rel type="修飾" target="一" sid="fuman-trip-0000000107-04" id="2"/>
 怖い こわい 怖い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 4D
 + 5D <rel type="ノ" target="不特定:物1"/>
 お化け屋敷 お化け屋敷 お化け屋敷 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="著者"/><rel type="ニ" target="お化け屋敷" sid="fuman-trip-0000000107-4" id="4"/>
++ 6D <rel type="ガ" target="著者"/><rel type="ニ" target="お化け屋敷" sid="fuman-trip-0000000107-04" id="4"/>
 いこう いこう いく 動詞 2 * 0 子音動詞カ行促音便形 3 意志形 4 NIL
 * -1D
-+ -1D <rel type="=" target="いこう" sid="fuman-trip-0000000107-4" id="5"/>
++ -1D <rel type="=" target="いこう" sid="fuman-trip-0000000107-04" id="5"/>
 いこう いこう いく 動詞 2 * 0 子音動詞カ行促音便形 3 意志形 4 NIL
 ...... ...... ...... 特殊 1 記号 5 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:fuman-trip-0000000107-5 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-1.90229 MOD:2020/08/26 MEMO:
+# S-ID:fuman-trip-0000000107-05 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-1.90229 MOD:2020/08/26 MEMO:
 * -1D
-+ 1D <rel type="ニ" target="お化け屋敷" sid="fuman-trip-0000000107-4" id="4"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="受付" sid="fuman-trip-0000000107-5" id="1"/>
++ 1D <rel type="ニ" target="お化け屋敷" sid="fuman-trip-0000000107-04" id="4"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="受付" sid="fuman-trip-0000000107-05" id="1"/>
 入場 にゅうじょう 入場 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="ヲ" target="入場" sid="fuman-trip-0000000107-5" id="0"/><rel type="ガ" target="お化け屋敷" sid="fuman-trip-0000000107-4" id="4"/><rel type="外の関係" target="終了" sid="fuman-trip-0000000107-5" id="2"/>
++ 2D <rel type="ヲ" target="入場" sid="fuman-trip-0000000107-05" id="0"/><rel type="ガ" target="お化け屋敷" sid="fuman-trip-0000000107-04" id="4"/><rel type="外の関係" target="終了" sid="fuman-trip-0000000107-05" id="2"/>
 受付 うけつけ 受付 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ヲ" target="受付" sid="fuman-trip-0000000107-5" id="1"/><rel type="ガ" target="お化け屋敷" sid="fuman-trip-0000000107-4" id="4"/>
++ -1D <rel type="ヲ" target="受付" sid="fuman-trip-0000000107-05" id="1"/><rel type="ガ" target="お化け屋敷" sid="fuman-trip-0000000107-04" id="4"/>
 終了 しゅうりょう 終了 名詞 6 サ変名詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:fuman-trip-0000000107-6 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-1050.46690 MOD:2020/08/26 MEMO:
+# S-ID:fuman-trip-0000000107-06 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-1050.46690 MOD:2020/08/26 MEMO:
 * 4D
 + 5D
 じゃあ じゃあ じゃあ 接続詞 10 * 0 * 0 * 0 NIL
@@ -128,45 +128,45 @@ EOS
 * 4D
 + 4D
 ジェット じぇっと ジェット 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="ジェット" sid="fuman-trip-0000000107-6" id="3"/><rel type="ノ" target="不特定:物1"/>
++ 5D <rel type="修飾" target="ジェット" sid="fuman-trip-0000000107-06" id="3"/><rel type="ノ" target="不特定:物1"/>
 コースター こーすたー コースター 名詞 6 普通名詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="コースター" sid="fuman-trip-0000000107-6" id="4"/><rel type="ガ" target="著者"/>
++ -1D <rel type="ニ" target="コースター" sid="fuman-trip-0000000107-06" id="4"/><rel type="ガ" target="著者"/>
 乗ろう のろう 乗る 動詞 2 * 0 子音動詞ラ行 10 意志形 4 NIL
 よ よ よ 助詞 9 終助詞 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:fuman-trip-0000000107-7 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-23.04048 MOD:2015/09/17 MEMO:
+# S-ID:fuman-trip-0000000107-07 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-23.04048 MOD:2015/09/17 MEMO:
 * -1D
 + -1D
 ...... ...... ...... 特殊 1 記号 5 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:fuman-trip-0000000107-8 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-48.47114 MOD:2020/08/26 MEMO:
+# S-ID:fuman-trip-0000000107-08 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-48.47114 MOD:2020/08/26 MEMO:
 * 3D
 + 4D <rel type="ノ" target="不特定:物1"/>
 どれ どれ どれ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 2D <rel type="=≒" target="受付" sid="fuman-trip-0000000107-5" id="1"/>
++ 2D <rel type="=≒" target="受付" sid="fuman-trip-0000000107-05" id="1"/>
 受付 うけつけ 受付 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4P <rel type="ガ" target="どれ" sid="fuman-trip-0000000107-8" id="0"/><rel type="ヲ" target="受付" sid="fuman-trip-0000000107-8" id="1"/><rel type="=≒" target="終了" sid="fuman-trip-0000000107-5" id="2"/><rel type="判ガ" target="どれ" sid="fuman-trip-0000000107-8" id="0"/>
++ 4P <rel type="ガ" target="どれ" sid="fuman-trip-0000000107-08" id="0"/><rel type="ヲ" target="受付" sid="fuman-trip-0000000107-08" id="1"/><rel type="=≒" target="終了" sid="fuman-trip-0000000107-05" id="2"/><rel type="判ガ" target="どれ" sid="fuman-trip-0000000107-08" id="0"/>
 終了 しゅうりょう 終了 名詞 6 サ変名詞 2 * 0 * 0 NIL
 だったり だったり だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用タリ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="どれ" sid="fuman-trip-0000000107-8" id="0"/><rel type="=≒" target="運転" sid="fuman-trip-0000000107-2" id="2"/>
++ 4D <rel type="ガ" target="どれ" sid="fuman-trip-0000000107-08" id="0"/><rel type="=≒" target="運転" sid="fuman-trip-0000000107-02" id="2"/>
 運転 うんてん 運転 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="運転" sid="fuman-trip-0000000107-8" id="3"/><rel type="ガ" target="どれ" sid="fuman-trip-0000000107-8" id="0"/><rel type="=≒" target="中止する" sid="fuman-trip-0000000107-2" id="3"/>
++ -1D <rel type="ヲ" target="運転" sid="fuman-trip-0000000107-08" id="3"/><rel type="ガ" target="どれ" sid="fuman-trip-0000000107-08" id="0"/><rel type="=≒" target="中止する" sid="fuman-trip-0000000107-02" id="3"/>
 中止 ちゅうし 中止 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 たり たり る 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用タリ形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:fuman-trip-0000000107-9 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-68.94410 MOD:2015/09/24 MEMO:
+# S-ID:fuman-trip-0000000107-09 JUMAN:8.0 (Revision.06f73dd on 2015-01-07) KNP:4.2-0b760fd DATE:2015/09/02 SCORE:-68.94410 MOD:2015/09/24 MEMO:
 * 5D
 + 5D
 結局 けっきょく 結局 副詞 8 * 0 * 0 * 0 NIL
@@ -177,7 +177,7 @@ EOS
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="乗り物" sid="fuman-trip-0000000107-9" id="3"/><rel type="ニ" target="どこ" sid="fuman-trip-0000000107-9" id="1"/>
++ 3D <rel type="ガ" target="乗り物" sid="fuman-trip-0000000107-09" id="3"/><rel type="ニ" target="どこ" sid="fuman-trip-0000000107-09" id="1"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 ような ような ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 4D
@@ -185,7 +185,7 @@ EOS
 乗り物 のりもの 乗り物 名詞 6 普通名詞 1 * 0 * 0 NIL
 だけ だけ だけ 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ガ" target="著者"/><rel type="ニ" target="乗り物" sid="fuman-trip-0000000107-9" id="3"/><rel type="デ" target="不特定:物1"/>
++ 5D <rel type="ガ" target="著者"/><rel type="ニ" target="乗り物" sid="fuman-trip-0000000107-09" id="3"/><rel type="デ" target="不特定:物1"/>
 乗って のって 乗る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * -1D
 + -1D <rel type="ガ" target="著者"/><rel type="カラ" target="不特定:物1"/>

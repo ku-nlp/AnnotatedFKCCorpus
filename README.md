@@ -10,13 +10,13 @@ The linguistic annotations consist of annotations of morphology, named entities,
 
 The annotation guidelines for this corpus are written in the manuals found in the [`doc` directory](https://github.com/ku-nlp/KWDLC/tree/master/doc) in [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC/).
 The guidelines for morphology and dependencies are described in `syn_guideline.pdf`, those for predicate-argument structures and coreferences are described in `rel_guideline.pdf`.
-The guidelines for named entities are available at the IREX web site (<http://nlp.cs.nyu.edu/irex/>).
+The guidelines for named entities are available at the IREX website (<http://nlp.cs.nyu.edu/irex/>).
 
 ## Distributed files
 
-* knp/ : the corpus annotated with morphology, named entities, dependencies, predicate-argument structures, and coreferences
-* org/ : the raw corpus
-* id/ : document id files providing train/test split
+- [`knp/`](./knp): the corpus annotated with morphology, named entities, dependencies, predicate-argument structures, and coreferences
+- [`org/`](./org): the raw corpus
+- [`id/`](./id): document id files providing train/test split
 
 ## Format of the corpus annotated with annotations of morphology, named entities, dependencies, predicate-argument structures, and coreferences
 
@@ -44,7 +44,7 @@ A description of this format can be found in [the documentation of KWDLC](https:
 
 ## References
 
-* 萩行正嗣, 河原大輔, 黒橋禎夫. 多様な文書の書き始めに対する意味関係タグ付きコーパスの構築とその分析, 自然言語処理, Vol.21, No.2, pp.213-248, 2014.
+- 萩行正嗣, 河原大輔, 黒橋禎夫. 多様な文書の書き始めに対する意味関係タグ付きコーパスの構築とその分析, 自然言語処理, Vol.21, No.2, pp.213-248, 2014.
 <https://doi.org/10.5715/jnlp.21.213>
 
 ## Acknowledgment
@@ -59,8 +59,6 @@ If you have any questions or problems about this corpus, please send an email to
 
 The copyright of the complaint documents belongs to Insight Tech Inc.
 The copyright of the annotation information belongs to Kurohashi Lab, Kyoto University.
-
-## License
 
 ## License
 

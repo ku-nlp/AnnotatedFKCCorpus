@@ -18,6 +18,15 @@ The guidelines for named entities are available at the IREX website (<http://nlp
 - [`org/`](./org): the raw corpus
 - [`id/`](./id): document id files providing train/test split
 
+## Statistics
+
+|       | # of documents | # of sentences | # of morphemes | # of named entities | # of predicates | # of coreferring mentions |
+|-------|----------------|----------------|----------------|---------------------|-----------------|---------------------------|
+| train | 454            | 885            | 12,496         | 72                  | 4,105           | 565                       |
+| dev   | 100            | 195            | 2,653          | 9                   | 867             | 146                       |
+| test  | 100            | 202            | 2,850          | 16                  | 961             | 140                       |
+| total | 654            | 1,282          | 17,999         | 97                  | 5,933           | 851                       |
+
 ## Format of the corpus annotated with annotations of morphology, named entities, dependencies, predicate-argument structures, and coreferences
 
 Annotations of this corpus are given in the following format.
